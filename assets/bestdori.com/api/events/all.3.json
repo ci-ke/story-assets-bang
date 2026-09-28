@@ -8271,7 +8271,7 @@
     "eventType": "live_try",
     "eventName": [
       "Radiance and Eclipse",
-      null,
+      "Radiance and Eclipse",
       "Radiance and Eclipse",
       "Radiance and Eclipse",
       null
@@ -8280,14 +8280,14 @@
     "bannerAssetBundleName": "banner_event319",
     "startAt": [
       "1768975200000",
-      null,
+      "1790557200000",
       "1783321200000",
       "1786078800000",
       null
     ],
     "endAt": [
       "1769687999000",
-      null,
+      "1791183599000",
       "1783861199000",
       "1786805999000",
       null

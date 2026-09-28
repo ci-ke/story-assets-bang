@@ -43,7 +43,7 @@
         },
         "title": [
           "星を導く星",
-          null,
+          "The Star That Guides Stars",
           "引導群星的星辰",
           "指引星辰的星",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "『もういいや』",
-          null,
+          "Let it go",
           "『已經夠了』",
           "『算了吧』",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2300,
   "gachaText": [
     "みんな、次の曲いくよ",
-    null,
+    "Everyone, on to the next song.",
     "大家，下一首歌要開始囉",
     "各位，要继续下一首歌了哦",
     null
   ],
   "prefix": [
     "RUNAWAY STAR",
-    null,
+    "RUNAWAY STAR",
     "RUNAWAY STAR",
     "RUNAWAY STAR",
     null
   ],
   "releasedAt": [
     "1768975200000",
-    null,
+    "1790557200000",
     "1783234800000",
     "1786078800000",
     null
   ],
   "skillName": [
     "光、加速して",
-    null,
+    "Light, Accelerating",
     "光芒，加速吧",
     "光芒，加速吧",
     null

@@ -43,7 +43,7 @@
         },
         "title": [
           "熱く、熱く、燃えて、",
-          null,
+          "Burning, Burning, Aflame,",
           "熾熱地、熾熱地、燃燒著",
           "炽热地、炽热地燃烧",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "『個人目標』",
-          null,
+          "Personal Goals",
           "「個人目標」",
           "『个人目标』",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2301,
   "gachaText": [
     "……別に嫌じゃねえよ、\nお前がフロントマンなこと自体は",
-    null,
+    "...It's not like I hate it. I don't mind you being our frontman.",
     "……倒也不討厭啦，\n你當主唱這件事本身",
     "……我不讨厌\n你是主唱这件事",
     null
   ],
   "prefix": [
     "NO STAR HERE",
-    null,
+    "NO STAR HERE",
     "NO STAR HERE",
     "NO STAR HERE",
     null
   ],
   "releasedAt": [
     "1768975200000",
-    null,
+    "1790557200000",
     "1783234800000",
     "1786078800000",
     null
   ],
   "skillName": [
     "影、熱を帯びて",
-    null,
+    "Shadow, Smoldering",
     "陰影，逐漸炙熱",
     "影子，暗藏炽热",
     null

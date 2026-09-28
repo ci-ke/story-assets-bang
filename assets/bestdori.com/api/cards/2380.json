@@ -43,7 +43,7 @@
         },
         "title": [
           "星が輝くために",
-          null,
+          "So the Stars May Shine",
           "為了讓星星閃耀",
           "为了让星辰闪耀",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "探る、言葉。",
-          null,
+          "Searching for Words.",
           "探尋、言語。",
           "探寻话语。",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2304,
   "gachaText": [
     "ワタシたちの道しるべ",
-    null,
+    "The one who lights our way",
     "我們前進道路的指引",
     "是我们前进的路标",
     null
   ],
   "prefix": [
     "in the mirror",
-    null,
+    "in the mirror",
     "in the mirror",
     "in the mirror",
     null
   ],
   "releasedAt": [
     "1768975200000",
-    null,
+    "1790557200000",
     "1783234800000",
     "1786078800000",
     null
   ],
   "skillName": [
     "光も影も従えて",
-    null,
+    "Command Light and Shadow",
     "連光與影都一併支配",
     "让光影随行",
     null
