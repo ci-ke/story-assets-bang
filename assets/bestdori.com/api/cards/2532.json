@@ -1,0 +1,298 @@
+{
+  "characterId": 17,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res017089",
+  "sdResourceName": "sd017089",
+  "costumeId": 2451,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "お任せデコレーション",
+    null,
+    null,
+    null,
+    null
+  ],
+  "releasedAt": [
+    "1790661600000",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillName": [
+    "小悪魔の挑発",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2726,
+      "technique": 3259,
+      "visual": 3521
+    },
+    "2": {
+      "performance": 2762,
+      "technique": 3302,
+      "visual": 3568
+    },
+    "3": {
+      "performance": 2800,
+      "technique": 3347,
+      "visual": 3617
+    },
+    "4": {
+      "performance": 2840,
+      "technique": 3395,
+      "visual": 3668
+    },
+    "5": {
+      "performance": 2882,
+      "technique": 3445,
+      "visual": 3722
+    },
+    "6": {
+      "performance": 2925,
+      "technique": 3497,
+      "visual": 3778
+    },
+    "7": {
+      "performance": 2970,
+      "technique": 3551,
+      "visual": 3836
+    },
+    "8": {
+      "performance": 3017,
+      "technique": 3607,
+      "visual": 3897
+    },
+    "9": {
+      "performance": 3066,
+      "technique": 3665,
+      "visual": 3960
+    },
+    "10": {
+      "performance": 3117,
+      "technique": 3726,
+      "visual": 4025
+    },
+    "11": {
+      "performance": 3170,
+      "technique": 3789,
+      "visual": 4093
+    },
+    "12": {
+      "performance": 3224,
+      "technique": 3854,
+      "visual": 4163
+    },
+    "13": {
+      "performance": 3280,
+      "technique": 3921,
+      "visual": 4235
+    },
+    "14": {
+      "performance": 3338,
+      "technique": 3990,
+      "visual": 4310
+    },
+    "15": {
+      "performance": 3398,
+      "technique": 4061,
+      "visual": 4387
+    },
+    "16": {
+      "performance": 3460,
+      "technique": 4135,
+      "visual": 4466
+    },
+    "17": {
+      "performance": 3523,
+      "technique": 4211,
+      "visual": 4548
+    },
+    "18": {
+      "performance": 3588,
+      "technique": 4289,
+      "visual": 4632
+    },
+    "19": {
+      "performance": 3655,
+      "technique": 4369,
+      "visual": 4719
+    },
+    "20": {
+      "performance": 3724,
+      "technique": 4451,
+      "visual": 4808
+    },
+    "21": {
+      "performance": 3795,
+      "technique": 4535,
+      "visual": 4899
+    },
+    "22": {
+      "performance": 3867,
+      "technique": 4622,
+      "visual": 4993
+    },
+    "23": {
+      "performance": 3941,
+      "technique": 4711,
+      "visual": 5089
+    },
+    "24": {
+      "performance": 4017,
+      "technique": 4802,
+      "visual": 5187
+    },
+    "25": {
+      "performance": 4095,
+      "technique": 4895,
+      "visual": 5288
+    },
+    "26": {
+      "performance": 4175,
+      "technique": 4990,
+      "visual": 5391
+    },
+    "27": {
+      "performance": 4256,
+      "technique": 5087,
+      "visual": 5496
+    },
+    "28": {
+      "performance": 4339,
+      "technique": 5187,
+      "visual": 5604
+    },
+    "29": {
+      "performance": 4424,
+      "technique": 5289,
+      "visual": 5714
+    },
+    "30": {
+      "performance": 4511,
+      "technique": 5393,
+      "visual": 5826
+    },
+    "31": {
+      "performance": 4600,
+      "technique": 5499,
+      "visual": 5941
+    },
+    "32": {
+      "performance": 4690,
+      "technique": 5607,
+      "visual": 6058
+    },
+    "33": {
+      "performance": 4782,
+      "technique": 5717,
+      "visual": 6177
+    },
+    "34": {
+      "performance": 4876,
+      "technique": 5830,
+      "visual": 6299
+    },
+    "35": {
+      "performance": 4972,
+      "technique": 5945,
+      "visual": 6423
+    },
+    "36": {
+      "performance": 5070,
+      "technique": 6062,
+      "visual": 6549
+    },
+    "37": {
+      "performance": 5170,
+      "technique": 6181,
+      "visual": 6678
+    },
+    "38": {
+      "performance": 5271,
+      "technique": 6302,
+      "visual": 6809
+    },
+    "39": {
+      "performance": 5374,
+      "technique": 6425,
+      "visual": 6942
+    },
+    "40": {
+      "performance": 5479,
+      "technique": 6551,
+      "visual": 7078
+    },
+    "41": {
+      "performance": 5631,
+      "technique": 6733,
+      "visual": 7275
+    },
+    "42": {
+      "performance": 5811,
+      "technique": 6948,
+      "visual": 7507
+    },
+    "43": {
+      "performance": 6018,
+      "technique": 7196,
+      "visual": 7774
+    },
+    "44": {
+      "performance": 6252,
+      "technique": 7476,
+      "visual": 8077
+    },
+    "45": {
+      "performance": 6514,
+      "technique": 7789,
+      "visual": 8415
+    },
+    "46": {
+      "performance": 6803,
+      "technique": 8134,
+      "visual": 8788
+    },
+    "47": {
+      "performance": 7119,
+      "technique": 8512,
+      "visual": 9196
+    },
+    "48": {
+      "performance": 7463,
+      "technique": 8923,
+      "visual": 9640
+    },
+    "49": {
+      "performance": 7834,
+      "technique": 9366,
+      "visual": 10119
+    },
+    "50": {
+      "performance": 8232,
+      "technique": 9842,
+      "visual": 10633
+    },
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

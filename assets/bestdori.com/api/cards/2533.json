@@ -1,0 +1,192 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res010086",
+  "sdResourceName": "sd010086",
+  "costumeId": 2452,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "宵闇トリートパーティ",
+    null,
+    null,
+    null,
+    null
+  ],
+  "releasedAt": [
+    "1790661600000",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillName": [
+    "小悪魔の気紛れ",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1975,
+      "technique": 2544,
+      "visual": 2086
+    },
+    "2": {
+      "performance": 2028,
+      "technique": 2612,
+      "visual": 2141
+    },
+    "3": {
+      "performance": 2084,
+      "technique": 2684,
+      "visual": 2200
+    },
+    "4": {
+      "performance": 2144,
+      "technique": 2761,
+      "visual": 2263
+    },
+    "5": {
+      "performance": 2207,
+      "technique": 2842,
+      "visual": 2330
+    },
+    "6": {
+      "performance": 2274,
+      "technique": 2928,
+      "visual": 2400
+    },
+    "7": {
+      "performance": 2344,
+      "technique": 3018,
+      "visual": 2474
+    },
+    "8": {
+      "performance": 2418,
+      "technique": 3113,
+      "visual": 2552
+    },
+    "9": {
+      "performance": 2495,
+      "technique": 3212,
+      "visual": 2633
+    },
+    "10": {
+      "performance": 2576,
+      "technique": 3316,
+      "visual": 2718
+    },
+    "11": {
+      "performance": 2660,
+      "technique": 3424,
+      "visual": 2807
+    },
+    "12": {
+      "performance": 2748,
+      "technique": 3537,
+      "visual": 2899
+    },
+    "13": {
+      "performance": 2839,
+      "technique": 3654,
+      "visual": 2995
+    },
+    "14": {
+      "performance": 2933,
+      "technique": 3776,
+      "visual": 3095
+    },
+    "15": {
+      "performance": 3031,
+      "technique": 3902,
+      "visual": 3198
+    },
+    "16": {
+      "performance": 3132,
+      "technique": 4033,
+      "visual": 3305
+    },
+    "17": {
+      "performance": 3237,
+      "technique": 4168,
+      "visual": 3416
+    },
+    "18": {
+      "performance": 3345,
+      "technique": 4308,
+      "visual": 3531
+    },
+    "19": {
+      "performance": 3457,
+      "technique": 4452,
+      "visual": 3649
+    },
+    "20": {
+      "performance": 3572,
+      "technique": 4601,
+      "visual": 3771
+    },
+    "21": {
+      "performance": 3691,
+      "technique": 4754,
+      "visual": 3897
+    },
+    "22": {
+      "performance": 3813,
+      "technique": 4912,
+      "visual": 4026
+    },
+    "23": {
+      "performance": 3939,
+      "technique": 5074,
+      "visual": 4159
+    },
+    "24": {
+      "performance": 4068,
+      "technique": 5241,
+      "visual": 4296
+    },
+    "25": {
+      "performance": 4201,
+      "technique": 5412,
+      "visual": 4436
+    },
+    "26": {
+      "performance": 4337,
+      "technique": 5588,
+      "visual": 4580
+    },
+    "27": {
+      "performance": 4477,
+      "technique": 5768,
+      "visual": 4728
+    },
+    "28": {
+      "performance": 4620,
+      "technique": 5953,
+      "visual": 4879
+    },
+    "29": {
+      "performance": 4767,
+      "technique": 6142,
+      "visual": 5034
+    },
+    "30": {
+      "performance": 4917,
+      "technique": 6336,
+      "visual": 5193
+    }
+  }
+}

@@ -115035,6 +115035,347 @@
       }
     }
   },
+  "2530": {
+    "characterId": 18,
+    "rarity": 5,
+    "attribute": "happy",
+    "levelLimit": 50,
+    "resourceSetName": "res018087",
+    "prefix": [
+      "For One Night Only",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1790661600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 73,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 4107,
+        "technique": 3218,
+        "visual": 3472
+      },
+      "60": {
+        "performance": 12239,
+        "technique": 9590,
+        "visual": 10347
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2531": {
+    "characterId": 13,
+    "rarity": 5,
+    "attribute": "happy",
+    "levelLimit": 50,
+    "resourceSetName": "res013087",
+    "prefix": [
+      "どきどき★サプライズ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1790661600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 84,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3937,
+        "technique": 3683,
+        "visual": 3069
+      },
+      "60": {
+        "performance": 11732,
+        "technique": 10976,
+        "visual": 9146
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2532": {
+    "characterId": 17,
+    "rarity": 3,
+    "attribute": "powerful",
+    "levelLimit": 40,
+    "resourceSetName": "res017089",
+    "prefix": [
+      "お任せデコレーション",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1790661600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 6,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 2726,
+        "technique": 3259,
+        "visual": 3521
+      },
+      "50": {
+        "performance": 8232,
+        "technique": 9842,
+        "visual": 10633
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2533": {
+    "characterId": 10,
+    "rarity": 2,
+    "attribute": "pure",
+    "levelLimit": 30,
+    "resourceSetName": "res010086",
+    "prefix": [
+      "宵闇トリートパーティ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1790661600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 8,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 1975,
+        "technique": 2544,
+        "visual": 2086
+      },
+      "30": {
+        "performance": 4917,
+        "technique": 6336,
+        "visual": 5193
+      }
+    }
+  },
+  "2534": {
+    "characterId": 14,
+    "rarity": 4,
+    "attribute": "happy",
+    "levelLimit": 50,
+    "resourceSetName": "res014091",
+    "prefix": [
+      "とびきりの瞬間",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1790661600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 12,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3679,
+        "technique": 3720,
+        "visual": 2883
+      },
+      "60": {
+        "performance": 10964,
+        "technique": 11085,
+        "visual": 8591
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2535": {
+    "characterId": 20,
+    "rarity": 5,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res020089",
+    "prefix": [
+      "浮かぶ七色、空ふわり",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1790661600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 83,
+    "type": "dreamfes",
+    "stat": {
+      "1": {
+        "performance": 4085,
+        "technique": 3387,
+        "visual": 3239
+      },
+      "60": {
+        "performance": 12173,
+        "technique": 10093,
+        "visual": 9646
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2536": {
+    "characterId": 21,
+    "rarity": 5,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res021090",
+    "prefix": [
+      "誰も知らない私",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1790661600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 83,
+    "type": "dreamfes",
+    "stat": {
+      "1": {
+        "performance": 4022,
+        "technique": 3567,
+        "visual": 3122
+      },
+      "60": {
+        "performance": 11983,
+        "technique": 10633,
+        "visual": 9303
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
   "5001": {
     "characterId": 1,
     "rarity": 2,

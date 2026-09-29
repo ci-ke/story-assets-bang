@@ -8917,6 +8917,32 @@
       null
     ]
   },
+  "344": {
+    "eventType": "versus",
+    "eventName": [
+      "A Little Magical Me",
+      null,
+      null,
+      null,
+      null
+    ],
+    "assetBundleName": "a_little_magical_me",
+    "bannerAssetBundleName": "banner_event344",
+    "startAt": [
+      "1790661600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "endAt": [
+      "1791460799000",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
   "5001": {
     "eventType": "mission_live",
     "eventName": [
