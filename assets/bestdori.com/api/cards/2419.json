@@ -45,7 +45,7 @@
           "かわいさとかっこよさ",
           null,
           "可愛與帥氣",
-          null,
+          "可爱与帅气",
           null
         ],
         "characterId": 33
@@ -94,7 +94,7 @@
           "個性、合わさって",
           null,
           "個性匯聚",
-          null,
+          "个性，融合在一起",
           null
         ],
         "characterId": 33
@@ -106,28 +106,28 @@
     "RiNGに穴開けるのは\nさすがにダメだろ",
     null,
     "再怎麼說，也不能把 RiNG\n打出一個洞吧",
-    null,
+    "在RiNG的天花板上开洞\n也太离谱了吧",
     null
   ],
   "prefix": [
     "狂犬の戸惑い",
     "The Mad Dog's Hesitation",
     "狂犬的困惑",
-    null,
+    "狂犬的迷惘",
     null
   ],
   "releasedAt": [
     "1773414000000",
     null,
     "1787536800000",
-    null,
+    "1790647200000",
     null
   ],
   "skillName": [
     "右見ても左を見ても変なヤツ",
     null,
     "不管往右看還是往左看都是怪人",
-    null,
+    "左看右看都是怪人",
     null
   ],
   "skillId": 26,

@@ -45,7 +45,7 @@
           "演奏と絆",
           null,
           "演奏與羈絆",
-          null,
+          "演奏与羁绊",
           null
         ],
         "characterId": 24
@@ -94,7 +94,7 @@
           "もらって、与えて",
           null,
           "收穫，與給予",
-          null,
+          "接受、给予",
           null
         ],
         "characterId": 24
@@ -106,28 +106,28 @@
     "これからの練習もすっごく楽しみ！",
     null,
     "我也超期待接下來的練習！",
-    null,
+    "亚子也很期待之后的练习！",
     null
   ],
   "prefix": [
     "深淵なる旋律に……",
     "Drawn Into an Abyssal Melody...",
     "奏響深淵的旋律……",
-    null,
+    "沉浸于深渊般的旋律中……",
     null
   ],
   "releasedAt": [
     "1773414000000",
     null,
     "1787536800000",
-    null,
+    "1790647200000",
     null
   ],
   "skillName": [
     "闇の力がバーン！",
     null,
     "黑暗之力砰地爆發！",
-    null,
+    "黑暗之力，砰！",
     null
   ],
   "skillId": 61,

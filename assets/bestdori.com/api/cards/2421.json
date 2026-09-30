@@ -45,7 +45,7 @@
           "芸能人のオーラ　前編",
           null,
           "藝人的氣場　前篇",
-          null,
+          "艺人的气场 前篇",
           null
         ],
         "characterId": 16
@@ -94,7 +94,7 @@
           "芸能人のオーラ　後編",
           null,
           "藝人的氣場　後篇",
-          null,
+          "艺人的气场 后篇",
           null
         ],
         "characterId": 16
@@ -106,28 +106,28 @@
     "（前髪……\nこっちのほうが可愛いかも）",
     null,
     "（瀏海……\n這邊好像比較可愛）",
-    null,
+    "（刘海……\n这样会不会更可爱？）",
     null
   ],
   "prefix": [
     "鏡には映らないもの",
     "Unseen in the Mirror's Reflection",
     "鏡中映照不出的事物",
-    null,
+    "镜中无法映照之物",
     null
   ],
   "releasedAt": [
     "1773414000000",
     null,
     "1787536800000",
-    null,
+    "1790647200000",
     null
   ],
   "skillName": [
     "誰も見たことのない私",
     null,
     "從未有人見過的我",
-    null,
+    "从未有人见过的我",
     null
   ],
   "skillId": 76,

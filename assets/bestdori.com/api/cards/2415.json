@@ -45,7 +45,7 @@
           "全力のかけ声",
           null,
           "全力的吶喊",
-          null,
+          "全力以赴的呐喊",
           null
         ],
         "characterId": 9
@@ -94,7 +94,7 @@
           "心に火をつけて",
           null,
           "點燃心中的火焰",
-          null,
+          "点燃心中的火焰",
           null
         ],
         "characterId": 9
@@ -106,28 +106,28 @@
     "お疲れ！　めちゃくちゃ\nいいライブだったぞ！",
     null,
     "辛苦了！剛才真的是一場\n超棒的LIVE！",
-    null,
+    "辛苦了！\n演出超棒的！",
     null
   ],
   "prefix": [
     "熱い演奏に！",
     "Prepare for Our Passionate Performance!",
     "化為熱血的演奏！",
-    null,
+    "为了热情的演奏！",
     null
   ],
   "releasedAt": [
     "1773414000000",
     null,
     "1787536800000",
-    null,
+    "1790647200000",
     null
   ],
   "skillName": [
     "最高の仲間に！",
     null,
     "獻給最棒的夥伴！",
-    null,
+    "献给最好的同伴！",
     null
   ],
   "skillId": 73,
