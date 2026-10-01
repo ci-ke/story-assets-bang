@@ -44,7 +44,7 @@
         "title": [
           "違う自分を纏って　前編",
           null,
-          null,
+          "穿上不一樣的自己　前篇",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "違う自分を纏って　後編",
           null,
-          null,
+          "穿上不一樣的自己　後篇",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "いつもと違う服を着た自分に\n会ってみたいなって……",
     "I'd like to see myself in a different style of clothes from usual...",
-    null,
+    "我想看看穿上和平常\n不同衣服的自己……",
     null,
     null
   ],
   "prefix": [
     "街角ファッショニスタ",
     "Intersection Fashionista",
-    null,
+    "街角時尚達人",
     null,
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
-    null,
+    "1790751600000",
     null,
     null
   ],
   "skillName": [
     "ストリートファッションショー",
     "Streetside Fashion Show",
-    null,
+    "街頭時尚秀",
     null,
     null
   ],

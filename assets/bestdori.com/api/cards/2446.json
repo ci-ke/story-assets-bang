@@ -44,7 +44,7 @@
         "title": [
           "別荘を満喫！　前編",
           null,
-          null,
+          "盡情享受別墅！　前篇",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "別荘を満喫！　後編",
           null,
-          null,
+          "盡情享受別墅！　後篇",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "ふふん、\nテニスは結構得意なんだ！",
     "Hehe, seems that I'm quite good at tennis!",
-    null,
+    "呵呵，\n網球我可是滿拿手的！",
     null,
     null
   ],
   "prefix": [
     "スマッシュ炸裂！",
     "Explosive Smash!",
-    null,
+    "猛力扣殺！",
     null,
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
-    null,
+    "1790751600000",
     null,
     null
   ],
   "skillName": [
     "素早いフットワーク",
     "Fancy Footwork",
-    null,
+    "敏捷的步法",
     null,
     null
   ],

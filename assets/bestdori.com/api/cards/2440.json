@@ -44,7 +44,7 @@
         "title": [
           "音楽は生活と共に",
           null,
-          null,
+          "音樂與生活同行",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "あふれる喜び",
           null,
-          null,
+          "滿溢而出的喜悅",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "遊びでいいじゃないですか、\nやりましょうよ～っ！",
     "Well, since it's just for fun, let's go for it~!",
-    null,
+    "當作玩玩也沒關係啊，\n一起做吧～！",
     null,
     null
   ],
   "prefix": [
     "まっすぐな『好き』",
     "Her Earnest \"Love\"",
-    null,
+    "率直的「喜歡」",
     null,
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
-    null,
+    "1790751600000",
     null,
     null
   ],
   "skillName": [
     "手にしたときから",
     "From When I Grasped It",
-    null,
+    "從拿到手的那一刻起",
     null,
     null
   ],

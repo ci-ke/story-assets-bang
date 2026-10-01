@@ -44,7 +44,7 @@
         "title": [
           "想像を超えるために",
           null,
-          null,
+          "為了超越想像",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "世界で最強の",
           null,
-          null,
+          "世界最強的",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "今、ワタシはRASの音が\n聴きたいんだから",
     "Right now, I just want to listen to RAS's sound",
-    null,
+    "因為現在，我想聽的是RAS\n的聲音",
     null,
     null
   ],
   "prefix": [
     "こっちの道",
     "This Path",
-    null,
+    "這條道路",
     null,
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
-    null,
+    "1790751600000",
     null,
     null
   ],
   "skillName": [
     "限界はなく",
     "No Limits",
-    null,
+    "沒有極限",
     null,
     null
   ],

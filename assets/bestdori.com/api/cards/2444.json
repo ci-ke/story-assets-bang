@@ -44,7 +44,7 @@
         "title": [
           "遠征の前に",
           null,
-          null,
+          "遠征之前",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "できることはすべて",
           null,
-          null,
+          "傾盡所能",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "パレオたちも\n混ぜてくださいよ～っ！",
     "Let us join in too~!",
-    null,
+    "也請讓我們加入吧～！",
     null,
     null
   ],
   "prefix": [
     "混ぜてくださ～いっ",
     "Let's Mix it Up~",
-    null,
+    "也讓我們加入吧～！",
     null,
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
-    null,
+    "1790751600000",
     null,
     null
   ],
   "skillName": [
     "準備万全です♪",
     "All Completely Ready ♪",
-    null,
+    "準備萬全♪",
     null,
     null
   ],
