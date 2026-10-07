@@ -43,7 +43,7 @@
         },
         "title": [
           "サプライズは大胆に",
-          null,
+          "A Bold Surprise",
           "驚喜要大膽地",
           "惊喜要大胆些",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "あまあまハッピーな１日",
-          null,
+          "A Token of Thanks",
           "甜甜蜜蜜的幸福一天",
           "甜蜜开心的一天",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2306,
   "gachaText": [
     "おお～！\nモカちゃんが好きなの全部入ってる～",
-    null,
+    "Ooh~! It's got everything Moca-chan likes in it~",
     "喔喔～！裡面放了全部摩卡最喜歡的東西～",
     "哦哦~！\n全都是小摩卡喜欢吃的~",
     null
   ],
   "prefix": [
     "力作をご賞味あれ～",
-    "Bon Appetit, My Masterpiece~",
+    "Savor Our Labor of Love~♪",
     "請品嚐力作～",
     "请品尝我的精心之作~",
     null
   ],
   "releasedAt": [
     "1769839200000",
-    null,
+    "1791334800000",
     "1783926000000",
     "1786942800000",
     null
   ],
   "skillName": [
     "全部食べちゃお～",
-    null,
+    "Let's Eat It All~♪",
     "全部吃掉吧～",
     "全部吃掉吧~",
     null

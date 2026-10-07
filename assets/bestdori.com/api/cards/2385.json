@@ -43,7 +43,7 @@
         },
         "title": [
           "秘密は甘いくちどけ",
-          null,
+          "A Sweet Secret Melt",
           "秘密是甜美的入口即化",
           "秘密如蜜般入口即化",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "色とりどりの想い",
-          null,
+          "Colorful Feelings",
           "形形色色的心意",
           "五彩缤纷的心意",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2309,
   "gachaText": [
     "バレンタインで使う花材。\nまだアイディアがまとまんなくて",
-    null,
+    "Flowers for Valentine's. I still can't quite pull my idea together.",
     "情人節要用的花材。點子還沒整理好",
     "情人节要用的花材。\n要怎么搭配，我还没想好",
     null
   ],
   "prefix": [
     "飾り付けは真心込めて",
-    "Decorations Planned with All of My Heart",
+    "Decorating with All Our Heart",
     "傾注真心裝飾",
     "装饰时要满怀心意",
     null
   ],
   "releasedAt": [
     "1769839200000",
-    null,
+    "1791334800000",
     "1783926000000",
     "1786942800000",
     null
   ],
   "skillName": [
     "バレンタインクチュール",
-    null,
+    "Valentine Couture",
     "情人節高級訂製",
     "Valentine Couture",
     null

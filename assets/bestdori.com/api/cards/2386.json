@@ -43,7 +43,7 @@
         },
         "title": [
           "この距離で　前編",
-          null,
+          "At This Distance - Pt. 1",
           "在這段距離中　前篇",
           "保持这个距离　前篇",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "この距離で　後編",
-          null,
+          "At This Distance - Pt. 2",
           "在這段距離中　後篇",
           "保持这个距离　后篇",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2310,
   "gachaText": [
     "もう、しょうがないわね。\n日菜、こっちに来て",
-    null,
+    "Sigh... Geez, fine. Hina, come here.",
     "真是的，真是拿妳沒轍呢。\n日菜，過來這邊",
     "唉……真是拿你没办法。\n日菜，过来这边",
     null
   ],
   "prefix": [
     "温かな風に乗せて",
-    "Riding the Warm Breeze",
+    "Carried on a Warm Breeze",
     "乘著溫暖的風",
     "乘着温暖的风",
     null
   ],
   "releasedAt": [
     "1769839200000",
-    null,
+    "1791334800000",
     "1783926000000",
     "1786942800000",
     null
   ],
   "skillName": [
     "穏やかな時間",
-    null,
+    "Tranquil Moments",
     "平穩的時間",
     "安稳的时光",
     null

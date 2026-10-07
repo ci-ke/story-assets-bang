@@ -8297,7 +8297,7 @@
     "eventType": "versus",
     "eventName": [
       "Our Sweetest Valentine！",
-      null,
+      "Our Sweetest Valentine!",
       "Our Sweetest Valentine！",
       "Our Sweetest Valentine！",
       null
@@ -8306,14 +8306,14 @@
     "bannerAssetBundleName": "banner_event320",
     "startAt": [
       "1769839200000",
-      null,
+      "1791334800000",
       "1784012400000",
       "1786942800000",
       null
     ],
     "endAt": [
       "1770465599000",
-      null,
+      "1791961199000",
       "1784552399000",
       "1787583599000",
       null

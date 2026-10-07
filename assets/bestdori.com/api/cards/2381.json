@@ -43,7 +43,7 @@
         },
         "title": [
           "パーティが終わっても",
-          null,
+          "Even After the Party",
           "派對結束之後也",
           "即使派对结束",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "きっかけはさりげなく",
-          null,
+          "A Cherished Memory",
           "契機總是在不經意間",
           "契机悄然出现",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2305,
   "gachaText": [
     "うんっ！！\n特別なバレンタイン、やろうよ！",
-    null,
+    "Yeah!! Let's do a special Valentine's!",
     "嗯！！一起度過特別的情人節吧！",
     "嗯！！\n我们来过一个特别的情人节吧！",
     null
   ],
   "prefix": [
     "夕焼けが頬を染めて",
-    "Sunset-Kissed Cheeks",
+    "Sunset Paints My Cheeks",
     "晚霞染紅雙頰",
     "晚霞染红脸颊",
     null
   ],
   "releasedAt": [
     "1769839200000",
-    null,
+    "1791334800000",
     "1783926000000",
     "1786942800000",
     null
   ],
   "skillName": [
     "解ける誤解、重なる笑み",
-    null,
+    "Smiles Shared, Doubts Erased",
     "化解的誤解、重疊的笑容",
     "误会解除，笑意相融",
     null

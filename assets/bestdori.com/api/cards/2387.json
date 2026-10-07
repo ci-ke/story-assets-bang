@@ -43,7 +43,7 @@
         },
         "title": [
           "変わる景色　前編",
-          null,
+          "A Changing View - Pt. 1",
           "改變的景色　前篇",
           "变化的景色　前篇",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "変わる景色　後編",
-          null,
+          "A Changing View - Pt. 2",
           "改變的景色　後篇",
           "变化的景色　后篇",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2311,
   "gachaText": [
     "（雪……）",
-    null,
+    "(Snow...)",
     "（雪……）",
     "（雪……）",
     null
   ],
   "prefix": [
     "しんしんと降り積もる",
-    "Fluttering, Silent and Still",
+    "Silently Falling Snow",
     "靜靜飄落堆積",
     "静静飘落堆积的雪",
     null
   ],
   "releasedAt": [
     "1769839200000",
-    null,
+    "1791334800000",
     "1783926000000",
     "1786942800000",
     null
   ],
   "skillName": [
     "幻想の憧憬",
-    null,
+    "A Fantastical Yearning",
     "幻想的憧憬",
     "幻想的憧憬",
     null
