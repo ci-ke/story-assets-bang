@@ -69,7 +69,7 @@
   ],
   "exchangeEndAt": [
     "1770465599000",
-    null,
+    "1792047599000",
     "1784552399000",
     "1787669999000",
     null
@@ -479,614 +479,404 @@
     ],
     [
       {
-        "id": 20520,
-        "eventId": 319,
         "point": "1000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20521,
-        "eventId": 319,
         "point": "2000",
         "rewardType": "coin",
-        "rewardQuantity": 3000,
-        "recommendFlg": false
+        "rewardQuantity": 3000
       },
       {
-        "id": 20522,
-        "eventId": 319,
         "point": "3000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20523,
-        "eventId": 319,
         "point": "4000",
         "rewardType": "item",
         "rewardId": 2,
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 20524,
-        "eventId": 319,
         "point": "5000",
         "rewardType": "coin",
-        "rewardQuantity": 3000,
-        "recommendFlg": false
+        "rewardQuantity": 3000
       },
       {
-        "id": 20525,
-        "eventId": 319,
         "point": "6500",
         "rewardType": "item",
         "rewardId": 6,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 20526,
-        "eventId": 319,
         "point": "8000",
         "rewardType": "practice_ticket",
         "rewardId": 5,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 20527,
-        "eventId": 319,
         "point": "10000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20528,
-        "eventId": 319,
         "point": "12000",
         "rewardType": "item",
         "rewardId": 10,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 20529,
-        "eventId": 319,
         "point": "15000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20530,
-        "eventId": 319,
         "point": "18000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20531,
-        "eventId": 319,
         "point": "21000",
         "rewardType": "practice_ticket",
         "rewardId": 5,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 20532,
-        "eventId": 319,
         "point": "24000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20533,
-        "eventId": 319,
         "point": "27000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20534,
-        "eventId": 319,
         "point": "30000",
         "rewardType": "situation",
         "rewardId": 2379,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20535,
-        "eventId": 319,
         "point": "35000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20536,
-        "eventId": 319,
         "point": "40000",
         "rewardType": "coin",
-        "rewardQuantity": 5000,
-        "recommendFlg": false
+        "rewardQuantity": 5000
       },
       {
-        "id": 20537,
-        "eventId": 319,
         "point": "45000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20538,
-        "eventId": 319,
         "point": "50000",
         "rewardType": "stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20539,
-        "eventId": 319,
         "point": "55000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20540,
-        "eventId": 319,
         "point": "60000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20541,
-        "eventId": 319,
         "point": "65000",
         "rewardType": "coin",
-        "rewardQuantity": 10000,
-        "recommendFlg": false
+        "rewardQuantity": 10000
       },
       {
-        "id": 20542,
-        "eventId": 319,
         "point": "70000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20543,
-        "eventId": 319,
         "point": "75000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 20544,
-        "eventId": 319,
         "point": "80000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20545,
-        "eventId": 319,
         "point": "85000",
         "rewardType": "item",
         "rewardId": 2,
-        "rewardQuantity": 400,
-        "recommendFlg": false
+        "rewardQuantity": 400
       },
       {
-        "id": 20546,
-        "eventId": 319,
         "point": "90000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20547,
-        "eventId": 319,
         "point": "100000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 20548,
-        "eventId": 319,
         "point": "110000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20549,
-        "eventId": 319,
         "point": "120000",
         "rewardType": "item",
         "rewardId": 6,
-        "rewardQuantity": 150,
-        "recommendFlg": false
+        "rewardQuantity": 150
       },
       {
-        "id": 20550,
-        "eventId": 319,
         "point": "130000",
         "rewardType": "coin",
-        "rewardQuantity": 30000,
-        "recommendFlg": false
+        "rewardQuantity": 30000
       },
       {
-        "id": 20551,
-        "eventId": 319,
         "point": "140000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20552,
-        "eventId": 319,
         "point": "150000",
         "rewardType": "situation",
         "rewardId": 2378,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20553,
-        "eventId": 319,
         "point": "160000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20554,
-        "eventId": 319,
         "point": "170000",
         "rewardType": "item",
         "rewardId": 10,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20555,
-        "eventId": 319,
         "point": "180000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 20556,
-        "eventId": 319,
         "point": "190000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20557,
-        "eventId": 319,
         "point": "200000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20558,
-        "eventId": 319,
         "point": "210000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20559,
-        "eventId": 319,
         "point": "220000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20560,
-        "eventId": 319,
         "point": "230000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 20561,
-        "eventId": 319,
         "point": "240000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20562,
-        "eventId": 319,
         "point": "250000",
         "rewardType": "practice_ticket",
         "rewardId": 48,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20563,
-        "eventId": 319,
         "point": "260000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20564,
-        "eventId": 319,
         "point": "270000",
         "rewardType": "item",
         "rewardId": 2,
-        "rewardQuantity": 400,
-        "recommendFlg": false
+        "rewardQuantity": 400
       },
       {
-        "id": 20565,
-        "eventId": 319,
         "point": "280000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20566,
-        "eventId": 319,
         "point": "290000",
         "rewardType": "item",
         "rewardId": 6,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 20567,
-        "eventId": 319,
         "point": "300000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20568,
-        "eventId": 319,
         "point": "310000",
         "rewardType": "item",
         "rewardId": 10,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20569,
-        "eventId": 319,
         "point": "320000",
         "rewardType": "practice_ticket",
         "rewardId": 3,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20570,
-        "eventId": 319,
         "point": "330000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20571,
-        "eventId": 319,
         "point": "340000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20572,
-        "eventId": 319,
         "point": "350000",
         "rewardType": "coin",
-        "rewardQuantity": 50000,
-        "recommendFlg": false
+        "rewardQuantity": 50000
       },
       {
-        "id": 20573,
-        "eventId": 319,
         "point": "360000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20574,
-        "eventId": 319,
         "point": "370000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20575,
-        "eventId": 319,
         "point": "380000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 20576,
-        "eventId": 319,
         "point": "390000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20577,
-        "eventId": 319,
         "point": "400000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20578,
-        "eventId": 319,
         "point": "420000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20579,
-        "eventId": 319,
         "point": "450000",
         "rewardType": "coin",
-        "rewardQuantity": 100000,
-        "recommendFlg": false
+        "rewardQuantity": 100000
       },
       {
-        "id": 20580,
-        "eventId": 319,
         "point": "500000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20581,
-        "eventId": 319,
         "point": "550000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20582,
-        "eventId": 319,
         "point": "625000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 20583,
-        "eventId": 319,
         "point": "750000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 20584,
-        "eventId": 319,
         "point": "875000",
         "rewardType": "coin",
-        "rewardQuantity": 100000,
-        "recommendFlg": false
+        "rewardQuantity": 100000
       },
       {
-        "id": 20585,
-        "eventId": 319,
         "point": "1000000",
         "rewardType": "item",
         "rewardId": 10,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 20586,
-        "eventId": 319,
         "point": "1125000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 20587,
-        "eventId": 319,
         "point": "1250000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 20588,
-        "eventId": 319,
         "point": "1375000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 20589,
-        "eventId": 319,
         "point": "1500000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       }
     ],
     [
@@ -2929,1231 +2719,856 @@
     ],
     [
       {
-        "id": 27015,
-        "eventId": 319,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "degree",
         "rewardId": 9023,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27016,
-        "eventId": 319,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27017,
-        "eventId": 319,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27018,
-        "eventId": 319,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27019,
-        "eventId": 319,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27020,
-        "eventId": 319,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27021,
-        "eventId": 319,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "degree",
         "rewardId": 9024,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27022,
-        "eventId": 319,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27023,
-        "eventId": 319,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27024,
-        "eventId": 319,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27025,
-        "eventId": 319,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27026,
-        "eventId": 319,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27027,
-        "eventId": 319,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "degree",
         "rewardId": 9025,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27028,
-        "eventId": 319,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27029,
-        "eventId": 319,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27030,
-        "eventId": 319,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27031,
-        "eventId": 319,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27032,
-        "eventId": 319,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27033,
-        "eventId": 319,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "degree",
         "rewardId": 9026,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27034,
-        "eventId": 319,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27035,
-        "eventId": 319,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27036,
-        "eventId": 319,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27037,
-        "eventId": 319,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27038,
-        "eventId": 319,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27039,
-        "eventId": 319,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "degree",
         "rewardId": 9027,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27040,
-        "eventId": 319,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27041,
-        "eventId": 319,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27042,
-        "eventId": 319,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27043,
-        "eventId": 319,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27044,
-        "eventId": 319,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27045,
-        "eventId": 319,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "degree",
         "rewardId": 9028,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27046,
-        "eventId": 319,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27047,
-        "eventId": 319,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27048,
-        "eventId": 319,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27049,
-        "eventId": 319,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27050,
-        "eventId": 319,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27051,
-        "eventId": 319,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "degree",
         "rewardId": 9029,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27052,
-        "eventId": 319,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27053,
-        "eventId": 319,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27054,
-        "eventId": 319,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27055,
-        "eventId": 319,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27056,
-        "eventId": 319,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27057,
-        "eventId": 319,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "degree",
         "rewardId": 9030,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27058,
-        "eventId": 319,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27059,
-        "eventId": 319,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27060,
-        "eventId": 319,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27061,
-        "eventId": 319,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27062,
-        "eventId": 319,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27063,
-        "eventId": 319,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "degree",
         "rewardId": 9031,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27064,
-        "eventId": 319,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27065,
-        "eventId": 319,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27066,
-        "eventId": 319,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27067,
-        "eventId": 319,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 27068,
-        "eventId": 319,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27069,
-        "eventId": 319,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "degree",
         "rewardId": 9032,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27070,
-        "eventId": 319,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27071,
-        "eventId": 319,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27072,
-        "eventId": 319,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27073,
-        "eventId": 319,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 27074,
-        "eventId": 319,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27075,
-        "eventId": 319,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "degree",
         "rewardId": 9033,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27076,
-        "eventId": 319,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27077,
-        "eventId": 319,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27078,
-        "eventId": 319,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27079,
-        "eventId": 319,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 27080,
-        "eventId": 319,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27081,
-        "eventId": 319,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "degree",
         "rewardId": 9034,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27082,
-        "eventId": 319,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27083,
-        "eventId": 319,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27084,
-        "eventId": 319,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27085,
-        "eventId": 319,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 27086,
-        "eventId": 319,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27087,
-        "eventId": 319,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "degree",
         "rewardId": 9035,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27088,
-        "eventId": 319,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27089,
-        "eventId": 319,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27090,
-        "eventId": 319,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27091,
-        "eventId": 319,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 27092,
-        "eventId": 319,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27093,
-        "eventId": 319,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "degree",
         "rewardId": 9036,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27094,
-        "eventId": 319,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "voice_stamp",
         "rewardId": 546,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27095,
-        "eventId": 319,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27096,
-        "eventId": 319,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27097,
-        "eventId": 319,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 27098,
-        "eventId": 319,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27099,
-        "eventId": 319,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "degree",
         "rewardId": 9037,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27100,
-        "eventId": 319,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 27101,
-        "eventId": 319,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27102,
-        "eventId": 319,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 27103,
-        "eventId": 319,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 27104,
-        "eventId": 319,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "degree",
         "rewardId": 9038,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27105,
-        "eventId": 319,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27106,
-        "eventId": 319,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 27107,
-        "eventId": 319,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 27108,
-        "eventId": 319,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 27109,
-        "eventId": 319,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "degree",
         "rewardId": 9039,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27110,
-        "eventId": 319,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27111,
-        "eventId": 319,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 27112,
-        "eventId": 319,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 27113,
-        "eventId": 319,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 27114,
-        "eventId": 319,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "degree",
         "rewardId": 9040,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27115,
-        "eventId": 319,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27116,
-        "eventId": 319,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 27117,
-        "eventId": 319,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 27118,
-        "eventId": 319,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 27119,
-        "eventId": 319,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "degree",
         "rewardId": 9041,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27120,
-        "eventId": 319,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 27121,
-        "eventId": 319,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 27122,
-        "eventId": 319,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 27123,
-        "eventId": 319,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 27124,
-        "eventId": 319,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": true
+        "rewardQuantity": 3
       },
       {
-        "id": 27125,
-        "eventId": 319,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 27126,
-        "eventId": 319,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 27127,
-        "eventId": 319,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 27128,
-        "eventId": 319,
         "fromRank": 10001,
         "toRank": 50000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 27129,
-        "eventId": 319,
         "fromRank": 20001,
         "toRank": 50000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 2,
-        "recommendFlg": true
+        "rewardQuantity": 2
       },
       {
-        "id": 27130,
-        "eventId": 319,
         "fromRank": 20001,
         "toRank": 50000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 27131,
-        "eventId": 319,
         "fromRank": 20001,
         "toRank": 50000,
         "rewardType": "star",
-        "rewardQuantity": 150,
-        "recommendFlg": false
+        "rewardQuantity": 150
       },
       {
-        "id": 27132,
-        "eventId": 319,
         "fromRank": 20001,
         "toRank": 100000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 27133,
-        "eventId": 319,
         "fromRank": 20001,
         "toRank": 100000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 27134,
-        "eventId": 319,
         "fromRank": 30001,
         "toRank": 100000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 27135,
-        "eventId": 319,
         "fromRank": 30001,
         "toRank": 100000,
         "rewardType": "star",
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 27136,
-        "eventId": 319,
         "fromRank": 30001,
         "toRank": 200000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 27137,
-        "eventId": 319,
         "fromRank": 30001,
         "toRank": 200000,
         "rewardType": "practice_ticket",
         "rewardId": 3,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 27138,
-        "eventId": 319,
         "fromRank": 30001,
         "toRank": 200000,
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 27139,
-        "eventId": 319,
         "fromRank": 40001,
         "toRank": 200000,
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": true
+        "rewardQuantity": 50
       }
     ],
     [
@@ -10251,7 +9666,6 @@
         "normal": {
           "entries": {
             "1": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 1,
               "resourceType": "practice_ticket",
@@ -10259,7 +9673,6 @@
               "quantity": 1
             },
             "2": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 2,
               "resourceType": "item",
@@ -10267,7 +9680,6 @@
               "quantity": 1
             },
             "3": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 3,
               "resourceType": "live_boost_recovery_item",
@@ -10275,14 +9687,12 @@
               "quantity": 1
             },
             "4": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 4,
               "resourceType": "coin",
               "quantity": 50000
             },
             "5": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 5,
               "resourceType": "practice_ticket",
@@ -10290,7 +9700,6 @@
               "quantity": 1
             },
             "6": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 6,
               "resourceType": "practice_ticket",
@@ -10298,7 +9707,6 @@
               "quantity": 3
             },
             "7": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 7,
               "resourceType": "item",
@@ -10306,7 +9714,6 @@
               "quantity": 1
             },
             "8": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 8,
               "resourceType": "practice_ticket",
@@ -10314,7 +9721,6 @@
               "quantity": 3
             },
             "9": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 9,
               "resourceType": "practice_ticket",
@@ -10322,7 +9728,6 @@
               "quantity": 1
             },
             "10": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "normal",
               "level": 10,
               "resourceType": "degree",
@@ -10334,35 +9739,30 @@
         "extra": {
           "entries": {
             "1": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "extra",
               "level": 1,
               "resourceType": "coin",
               "quantity": 100000
             },
             "2": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "extra",
               "level": 2,
               "resourceType": "coin",
               "quantity": 150000
             },
             "3": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "extra",
               "level": 3,
               "resourceType": "coin",
               "quantity": 200000
             },
             "4": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "extra",
               "level": 4,
               "resourceType": "coin",
               "quantity": 250000
             },
             "5": {
-              "eventId": 319,
               "liveTryMissionDifficultyType": "extra",
               "level": 5,
               "resourceType": "degree",
