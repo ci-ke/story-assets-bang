@@ -44,7 +44,7 @@
         "title": [
           "MCも楽しく！",
           null,
-          null,
+          "MC也要充滿樂趣！",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "成長の糧に！",
           null,
-          null,
+          "化作成長的養分！",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "ん～～～！　美味し～！",
     "Mmmmmm~! This is super yummy~!",
-    null,
+    "嗯～～～！好好吃～！",
     null,
     null
   ],
   "prefix": [
     "実食！ローカルグルメ",
     "Taste Test! Local Gourmet",
-    null,
+    "實吃！在地美食",
     null,
     null
   ],
   "releasedAt": [
     "1778392800000",
     null,
-    null,
+    "1791442800000",
     null,
     null
   ],
   "skillName": [
     "郷土愛に触れて",
     "Experiencing Hometown Pride",
-    null,
+    "感受鄉土之愛",
     null,
     null
   ],

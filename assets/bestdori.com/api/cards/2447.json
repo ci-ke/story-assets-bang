@@ -44,7 +44,7 @@
         "title": [
           "クラスメイトの支え",
           null,
-          null,
+          "同班同學的支持",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "オフはしっかり",
           null,
-          null,
+          "休假也要好好享受",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "とても貴重なものを\n見ることができました",
     "I have been granted the chance to see something truly precious",
-    null,
+    "看到了非常珍貴的事物",
     null,
     null
   ],
   "prefix": [
     "ハッシュタグをつけて",
     "Adding A Hashtag",
-    null,
+    "加上 Hashtag",
     null,
     null
   ],
   "releasedAt": [
     "1778392800000",
     null,
-    null,
+    "1791442800000",
     null,
     null
   ],
   "skillName": [
     "止まらないお城トーク",
     "Unstoppable Castle-Talk",
-    null,
+    "停不下來的城堡話題",
     null,
     null
   ],
