@@ -8943,6 +8943,32 @@
       null
     ]
   },
+  "345": {
+    "eventType": "mission_live",
+    "eventName": [
+      "時を繋ぐノクターン",
+      null,
+      null,
+      null,
+      null
+    ],
+    "assetBundleName": "morfonica_nocturne",
+    "bannerAssetBundleName": "banner_event345",
+    "startAt": [
+      "1791612000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "endAt": [
+      "1792411199000",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
   "5001": {
     "eventType": "mission_live",
     "eventName": [

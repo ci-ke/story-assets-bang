@@ -115376,6 +115376,241 @@
       }
     }
   },
+  "2537": {
+    "characterId": 27,
+    "rarity": 5,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res027051",
+    "prefix": [
+      "過ぎにし時に想い馳せ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1791612000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 67,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3641,
+        "technique": 4022,
+        "visual": 3133
+      },
+      "60": {
+        "performance": 10859,
+        "technique": 11983,
+        "visual": 9335
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2538": {
+    "characterId": 29,
+    "rarity": 5,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res029048",
+    "prefix": [
+      "月ノ森のみんなで！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1791612000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 85,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3122,
+        "technique": 4001,
+        "visual": 3567
+      },
+      "60": {
+        "performance": 9303,
+        "technique": 11923,
+        "visual": 10633
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2539": {
+    "characterId": 26,
+    "rarity": 3,
+    "attribute": "pure",
+    "levelLimit": 40,
+    "resourceSetName": "res026056",
+    "prefix": [
+      "輝きを空に放って",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1791612000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 9,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 3773,
+        "technique": 2910,
+        "visual": 3114
+      },
+      "50": {
+        "performance": 11242,
+        "technique": 8673,
+        "visual": 9280
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2540": {
+    "characterId": 28,
+    "rarity": 2,
+    "attribute": "happy",
+    "levelLimit": 30,
+    "resourceSetName": "res028051",
+    "prefix": [
+      "空を舞う灯り",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1791612000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 23,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 1962,
+        "technique": 1955,
+        "visual": 2492
+      },
+      "30": {
+        "performance": 4924,
+        "technique": 4906,
+        "visual": 6255
+      }
+    }
+  },
+  "2541": {
+    "characterId": 30,
+    "rarity": 4,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res030048",
+    "prefix": [
+      "ドキュメントマイスター",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1791612000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 14,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 2943,
+        "technique": 3528,
+        "visual": 3810
+      },
+      "60": {
+        "performance": 8770,
+        "technique": 10512,
+        "visual": 11355
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
   "5001": {
     "characterId": 1,
     "rarity": 2,
