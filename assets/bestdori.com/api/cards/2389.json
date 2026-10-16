@@ -43,7 +43,7 @@
         },
         "title": [
           "キラキラ、少し霞んで",
-          null,
+          "Sparkles, a Little Hazy",
           "閃閃發亮、稍微朦朧",
           "有点暗淡的闪闪发光",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "少しだけ正直に",
-          null,
+          "A Little More Honest",
           "僅僅稍微坦率地",
           "稍微坦诚一些",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2313,
   "gachaText": [
     "こぼすなよー",
-    null,
+    "Don't Spill It~",
     "別灑出來啊－",
     "别滴出来哦",
     null
   ],
   "prefix": [
     "ツイン♡フレーバー",
-    "Twin ♡ Flavours",
+    "Twin♡Flavors",
     "雙重♡口味",
     "双重♡风味",
     null
   ],
   "releasedAt": [
     "1770616800000",
-    null,
+    "1792112400000",
     "1784617200000",
     "1787720400000",
     null
   ],
   "skillName": [
     "ドゥードゥル・スナップ",
-    null,
+    "Doodle Snapshot",
     "Doodle・Snap",
     "涂鸦快照",
     null

@@ -43,7 +43,7 @@
         },
         "title": [
           "空席、お昼ご飯と心に",
-          null,
+          "An Empty Seat at Lunch",
           "空位、午餐與心中",
           "空座位、午饭与心灵",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "君と見るキラキラ☆",
-          null,
+          "Sparkling Beside You☆",
           "與你一同看見的閃耀☆",
           "与你共见的闪闪发光☆",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2312,
   "gachaText": [
     "有咲も笑って！",
-    null,
+    "Smile, Arisa!",
     "有咲也笑笑嘛！",
     "有咲也笑一个！",
     null
   ],
   "prefix": [
     "ありさとかすみ",
-    "ARISA and KASUMI",
+    "Arisa and Kasumi",
     "有咲與香澄",
     "有咲和香澄",
     null
   ],
   "releasedAt": [
     "1770616800000",
-    null,
+    "1792112400000",
     "1784617200000",
     "1787720400000",
     null
   ],
   "skillName": [
     "デリシャス・スナップ",
-    null,
+    "Delicious Snapshot",
     "Delicious・Snap",
     "美味快照",
     null

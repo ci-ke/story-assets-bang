@@ -43,7 +43,7 @@
         },
         "title": [
           "仲直り大作戦会議！",
-          null,
+          "The Big Make-Up Game Plan!",
           "和好大作戰會議！",
           "和好作战会议！",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "ボタンをかけ直して",
-          null,
+          "Buttoning It Back Up",
           "重新扣好鈕扣",
           "重新扣上纽扣",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2316,
   "gachaText": [
     "りみ、ケンカしよう。全力で",
-    null,
+    "Rimi, let's fight. With everything we've got.",
     "里美，來吵架吧。全力以赴地",
     "里美，来吵一架吧。用尽全力",
     null
   ],
   "prefix": [
     "ひみつの作戦会議",
-    "Secret Operation Meeting",
+    "A Secret Game Plan",
     "秘密作戰會議",
     "秘密作战会议",
     null
   ],
   "releasedAt": [
     "1770616800000",
-    null,
+    "1792112400000",
     "1784617200000",
     "1787720400000",
     null
   ],
   "skillName": [
     "スウィング・スナップ",
-    null,
+    "Swing Snapshot",
     "Swing ・Snap",
     "摇摆快照",
     null

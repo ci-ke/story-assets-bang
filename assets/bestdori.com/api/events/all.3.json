@@ -8323,7 +8323,7 @@
     "eventType": "mission_live",
     "eventName": [
       "約束重ねて、また明日",
-      "Promises Piled Up, Tomorrow Once More",
+      "Promising Again, See You Tomorrow",
       "約定重疊、明天再見",
       "再次许下约定，明天再见",
       null
@@ -8332,14 +8332,14 @@
     "bannerAssetBundleName": "banner_event321",
     "startAt": [
       "1770616800000",
-      null,
+      "1792112400000",
       "1784703600000",
       "1787720400000",
       null
     ],
     "endAt": [
       "1771243199000",
-      null,
+      "1792738799000",
       "1785243599000",
       "1788361199000",
       null
