@@ -44,7 +44,7 @@
         "title": [
           "みんなのなんでも屋さん",
           null,
-          null,
+          "大家的萬事屋",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "つながる笑顔",
           null,
-          null,
+          "相連的笑容",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "いくわよー！　それ～っ！",
     "Ready~! Here it comes~!",
-    null,
+    "要上囉～！嘿～！",
     null,
     null
   ],
   "prefix": [
     "試合に向けて！",
     "Practicing for The Match! ",
-    null,
+    "朝著比賽前進！",
     null,
     null
   ],
   "releasedAt": [
     "1779343200000",
     null,
-    null,
+    "1792134000000",
     null,
     null
   ],
   "skillName": [
     "笑顔でゴール！",
     "A Smile for the Goal!",
-    null,
+    "帶著笑容衝向終點！",
     null,
     null
   ],

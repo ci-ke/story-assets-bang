@@ -45,7 +45,7 @@
           "『２人』の作品",
           null,
           "『兩個人』的作品",
-          null,
+          "『两人』的作品",
           null
         ],
         "characterId": 27
@@ -94,7 +94,7 @@
           "背中をバシッと",
           null,
           "在背上狠狠拍一下",
-          null,
+          "用力拍拍背",
           null
         ],
         "characterId": 27
@@ -106,28 +106,28 @@
     "あたしたちは絶対\nななみから離れたりしないから！",
     "We ain't ever gonna leave ya, Nanami!",
     "我們絕對不會離開七深的！",
-    null,
+    "我们绝对不会\n离开七深的！",
     null
   ],
   "prefix": [
     "勇気をきみに",
     "Courage For You",
     "將勇氣送給你",
-    null,
+    "将勇气赠予你",
     null
   ],
   "releasedAt": [
     "1774936800000",
     null,
     "1788418800000",
-    null,
+    "1792126800000",
     null
   ],
   "skillName": [
     "手のひらから伝える温もり",
     "Warmth Delivered Through the Palm of Your Hand",
     "從掌心傳遞的溫暖",
-    null,
+    "掌心传来的温暖",
     null
   ],
   "skillId": 71,

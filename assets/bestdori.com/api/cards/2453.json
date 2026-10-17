@@ -44,7 +44,7 @@
         "title": [
           "誰かのためにがんばる人",
           null,
-          null,
+          "為了他人而努力的人",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "一生懸命なきみを見て",
           null,
-          null,
+          "看著努力不懈的身影",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "はぐみの声、大きいから、\nきっとどこにいたって届くよ",
     "Hagumi’s voice is really loud, so no matter where you are, you’ll definitely hear her cheering for you.",
-    null,
+    "育美的聲音很大，\n不管對方在哪一定都能傳達到",
     null,
     null
   ],
   "prefix": [
     "泣き顔、２人分",
     "Crying Faces, Two of ‘em",
-    null,
+    "兩個人的淚顏",
     null,
     null
   ],
   "releasedAt": [
     "1779343200000",
     null,
-    null,
+    "1792134000000",
     null,
     null
   ],
   "skillName": [
     "緊急避難！",
     "Urgent Evacuation!",
-    null,
+    "緊急避難！",
     null,
     null
   ],

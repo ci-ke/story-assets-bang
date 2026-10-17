@@ -45,7 +45,7 @@
           "あなたからもらったもの",
           null,
           "從您那裡得到的事物",
-          null,
+          "从你那里得到的东西",
           null
         ],
         "characterId": 28
@@ -94,7 +94,7 @@
           "壁を乗り越えた先に",
           null,
           "跨越高牆之後",
-          null,
+          "越过障壁的尽头",
           null
         ],
         "characterId": 28
@@ -106,28 +106,28 @@
     "……この道を進む\n私の色はきっと――",
     "...The colour that will guide me down this path... It must be...",
     "……走在這條路上的我\n所擁有的色彩一定是――",
-    null,
+    "……在这条路上前进的、\n属于我的颜色，一定是――",
     null
   ],
   "prefix": [
     "私を導く色彩",
     "The Colours That Guide Me",
     "引領我的色彩",
-    null,
+    "指引我的色彩",
     null
   ],
   "releasedAt": [
     "1774936800000",
     null,
     "1788418800000",
-    null,
+    "1792126800000",
     null
   ],
   "skillName": [
     "筆先から届ける輝き",
     "Brilliance From the Tip of My Brush",
     "從筆尖傳遞的光芒",
-    null,
+    "用笔尖送达的闪亮",
     null
   ],
   "skillId": 67,

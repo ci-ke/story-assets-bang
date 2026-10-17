@@ -44,7 +44,7 @@
         "title": [
           "応援をするために",
           null,
-          null,
+          "為了替大家加油",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "出動！　なんでも屋さん",
           null,
-          null,
+          "出動！萬事屋",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "だってはぐみは\n『なんでも屋さん』だからねっ！",
     "‘Cause Hagumi’s a member of the “Odd-Jobs Squad”! ",
-    null,
+    "因為育美可是「萬事屋」啊！",
     null,
     null
   ],
   "prefix": [
     "なんでも屋さんに！",
     "Leave It to The Odd-Jobs Squad! ",
-    null,
+    "成為萬事屋！",
     null,
     null
   ],
   "releasedAt": [
     "1779343200000",
     null,
-    null,
+    "1792134000000",
     null,
     null
   ],
   "skillName": [
     "感謝の猫ちゃん",
     "The Kitty of Gratuity",
-    null,
+    "感謝的小貓咪",
     null,
     null
   ],
