@@ -115611,6 +115611,241 @@
       }
     }
   },
+  "2542": {
+    "characterId": 8,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res008085",
+    "prefix": [
+      "永遠の絆",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1792562400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 86,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3789,
+        "technique": 3006,
+        "visual": 3895
+      },
+      "60": {
+        "performance": 11291,
+        "technique": 8956,
+        "visual": 11607
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2543": {
+    "characterId": 9,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res009084",
+    "prefix": [
+      "夜はこれから！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1792562400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 68,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3165,
+        "technique": 3546,
+        "visual": 4085
+      },
+      "60": {
+        "performance": 9434,
+        "technique": 10566,
+        "visual": 12173
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2544": {
+    "characterId": 10,
+    "rarity": 3,
+    "attribute": "cool",
+    "levelLimit": 40,
+    "resourceSetName": "res010087",
+    "prefix": [
+      "ワールドワイドツグり",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1792562400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 6,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 3230,
+        "technique": 3531,
+        "visual": 2745
+      },
+      "50": {
+        "performance": 9754,
+        "technique": 10665,
+        "visual": 8292
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2545": {
+    "characterId": 7,
+    "rarity": 2,
+    "attribute": "pure",
+    "levelLimit": 30,
+    "resourceSetName": "res007084",
+    "prefix": [
+      "こあら・うぃず・みー",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1792562400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 8,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 2518,
+        "technique": 2093,
+        "visual": 1995
+      },
+      "30": {
+        "performance": 6269,
+        "technique": 5212,
+        "visual": 4968
+      }
+    }
+  },
+  "2546": {
+    "characterId": 6,
+    "rarity": 4,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res006092",
+    "prefix": [
+      "甘い洗礼",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1792562400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 61,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3881,
+        "technique": 3064,
+        "visual": 3236
+      },
+      "60": {
+        "performance": 11565,
+        "technique": 9131,
+        "visual": 9639
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
   "5001": {
     "characterId": 1,
     "rarity": 2,

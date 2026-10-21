@@ -1,0 +1,298 @@
+{
+  "characterId": 10,
+  "rarity": 3,
+  "attribute": "cool",
+  "levelLimit": 40,
+  "resourceSetName": "res010087",
+  "sdResourceName": "sd010087",
+  "costumeId": 2463,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ワールドワイドツグり",
+    null,
+    null,
+    null,
+    null
+  ],
+  "releasedAt": [
+    "1792562400000",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillName": [
+    "NICE TSUGURI！",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3230,
+      "technique": 3531,
+      "visual": 2745
+    },
+    "2": {
+      "performance": 3273,
+      "technique": 3578,
+      "visual": 2781
+    },
+    "3": {
+      "performance": 3318,
+      "technique": 3627,
+      "visual": 2819
+    },
+    "4": {
+      "performance": 3365,
+      "technique": 3679,
+      "visual": 2859
+    },
+    "5": {
+      "performance": 3414,
+      "technique": 3733,
+      "visual": 2901
+    },
+    "6": {
+      "performance": 3465,
+      "technique": 3789,
+      "visual": 2945
+    },
+    "7": {
+      "performance": 3519,
+      "technique": 3848,
+      "visual": 2991
+    },
+    "8": {
+      "performance": 3575,
+      "technique": 3909,
+      "visual": 3038
+    },
+    "9": {
+      "performance": 3633,
+      "technique": 3972,
+      "visual": 3087
+    },
+    "10": {
+      "performance": 3693,
+      "technique": 4038,
+      "visual": 3138
+    },
+    "11": {
+      "performance": 3755,
+      "technique": 4106,
+      "visual": 3191
+    },
+    "12": {
+      "performance": 3819,
+      "technique": 4176,
+      "visual": 3246
+    },
+    "13": {
+      "performance": 3885,
+      "technique": 4249,
+      "visual": 3303
+    },
+    "14": {
+      "performance": 3954,
+      "technique": 4324,
+      "visual": 3361
+    },
+    "15": {
+      "performance": 4025,
+      "technique": 4401,
+      "visual": 3421
+    },
+    "16": {
+      "performance": 4098,
+      "technique": 4481,
+      "visual": 3483
+    },
+    "17": {
+      "performance": 4173,
+      "technique": 4563,
+      "visual": 3547
+    },
+    "18": {
+      "performance": 4250,
+      "technique": 4647,
+      "visual": 3613
+    },
+    "19": {
+      "performance": 4329,
+      "technique": 4734,
+      "visual": 3680
+    },
+    "20": {
+      "performance": 4410,
+      "technique": 4823,
+      "visual": 3749
+    },
+    "21": {
+      "performance": 4494,
+      "technique": 4914,
+      "visual": 3820
+    },
+    "22": {
+      "performance": 4580,
+      "technique": 5008,
+      "visual": 3893
+    },
+    "23": {
+      "performance": 4668,
+      "technique": 5104,
+      "visual": 3968
+    },
+    "24": {
+      "performance": 4758,
+      "technique": 5202,
+      "visual": 4045
+    },
+    "25": {
+      "performance": 4850,
+      "technique": 5303,
+      "visual": 4123
+    },
+    "26": {
+      "performance": 4944,
+      "technique": 5406,
+      "visual": 4203
+    },
+    "27": {
+      "performance": 5041,
+      "technique": 5511,
+      "visual": 4285
+    },
+    "28": {
+      "performance": 5140,
+      "technique": 5619,
+      "visual": 4369
+    },
+    "29": {
+      "performance": 5241,
+      "technique": 5729,
+      "visual": 4455
+    },
+    "30": {
+      "performance": 5344,
+      "technique": 5842,
+      "visual": 4542
+    },
+    "31": {
+      "performance": 5449,
+      "technique": 5957,
+      "visual": 4631
+    },
+    "32": {
+      "performance": 5556,
+      "technique": 6074,
+      "visual": 4722
+    },
+    "33": {
+      "performance": 5665,
+      "technique": 6194,
+      "visual": 4815
+    },
+    "34": {
+      "performance": 5777,
+      "technique": 6316,
+      "visual": 4910
+    },
+    "35": {
+      "performance": 5891,
+      "technique": 6440,
+      "visual": 5007
+    },
+    "36": {
+      "performance": 6007,
+      "technique": 6567,
+      "visual": 5105
+    },
+    "37": {
+      "performance": 6125,
+      "technique": 6696,
+      "visual": 5205
+    },
+    "38": {
+      "performance": 6245,
+      "technique": 6827,
+      "visual": 5307
+    },
+    "39": {
+      "performance": 6367,
+      "technique": 6961,
+      "visual": 5411
+    },
+    "40": {
+      "performance": 6491,
+      "technique": 7097,
+      "visual": 5517
+    },
+    "41": {
+      "performance": 6672,
+      "technique": 7295,
+      "visual": 5671
+    },
+    "42": {
+      "performance": 6885,
+      "technique": 7528,
+      "visual": 5852
+    },
+    "43": {
+      "performance": 7130,
+      "technique": 7796,
+      "visual": 6061
+    },
+    "44": {
+      "performance": 7408,
+      "technique": 8100,
+      "visual": 6297
+    },
+    "45": {
+      "performance": 7718,
+      "technique": 8439,
+      "visual": 6561
+    },
+    "46": {
+      "performance": 8060,
+      "technique": 8813,
+      "visual": 6852
+    },
+    "47": {
+      "performance": 8435,
+      "technique": 9223,
+      "visual": 7171
+    },
+    "48": {
+      "performance": 8842,
+      "technique": 9668,
+      "visual": 7517
+    },
+    "49": {
+      "performance": 9282,
+      "technique": 10149,
+      "visual": 7891
+    },
+    "50": {
+      "performance": 9754,
+      "technique": 10665,
+      "visual": 8292
+    },
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

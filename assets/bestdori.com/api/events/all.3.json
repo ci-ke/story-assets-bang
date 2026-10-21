@@ -8969,6 +8969,32 @@
       null
     ]
   },
+  "346": {
+    "eventType": "live_try",
+    "eventName": [
+      "夕日の先に羽を広げて",
+      null,
+      null,
+      null,
+      null
+    ],
+    "assetBundleName": "afterglow_yuhinosakini",
+    "bannerAssetBundleName": "banner_event346",
+    "startAt": [
+      "1792562400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "endAt": [
+      "1793275199000",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
   "5001": {
     "eventType": "mission_live",
     "eventName": [
