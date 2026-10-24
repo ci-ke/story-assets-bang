@@ -132,7 +132,7 @@
   ],
   "skillId": 14,
   "source": null,
-  "type": "special",
+  "type": "permanent",
   "stat": {
     "1": {
       "performance": 2943,

@@ -43,7 +43,7 @@
         },
         "title": [
           "Just a Little More",
-          null,
+          "Just a Little More",
           "Just a Little More",
           "Just a Little More",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "ずっと見てたから",
-          null,
+          "Because I Was Always Watching",
           "因為我一直都看著妳",
           "因为我一直都在看着",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2321,
   "gachaText": [
     "リサちゃんならできるよ……！",
-    null,
+    "You can do it, Lisa-chan...!",
     "如果是莉莎的話，一定做得到……！",
     "小莉莎一定能行的……！",
     null
   ],
   "prefix": [
     "はじまりの一弦",
-    "The Strum of Our Beginnings",
+    "The First String",
     "起始的一弦",
     "起始之弦",
     null
   ],
   "releasedAt": [
     "1771394400000",
-    null,
+    "1792890000000",
     "1785308400000",
     "1788498000000",
     null
   ],
   "skillName": [
     "眼差す記憶",
-    null,
+    "Mysterious Cat",
     "凝望的記憶",
     "目光所及的回忆",
     null

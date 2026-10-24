@@ -108966,14 +108966,14 @@
     "resourceSetName": "res023088",
     "prefix": [
       "DEAR MY LIKE",
-      null,
+      "DEAR MY LIKE",
       "DEAR MY LIKE",
       "DEAR MY LIKE",
       null
     ],
     "releasedAt": [
       "1771394400000",
-      null,
+      "1792890000000",
       "1785308400000",
       "1788498000000",
       null
@@ -109019,14 +109019,14 @@
     "resourceSetName": "res024083",
     "prefix": [
       "Re:VENGER",
-      null,
+      "Re:VENGER",
       "Re:VENGER",
       "Re:VENGER",
       null
     ],
     "releasedAt": [
       "1771394400000",
-      null,
+      "1792890000000",
       "1785308400000",
       "1788498000000",
       null
@@ -109072,14 +109072,14 @@
     "resourceSetName": "res022084",
     "prefix": [
       "約束の場所への一歩",
-      "A Step Towards Our Promised Place",
+      "A Step Toward Our Promised Place",
       "朝向約定之地的一步",
       "迈向约定之地的一步",
       null
     ],
     "releasedAt": [
       "1771394400000",
-      null,
+      "1792890000000",
       "1785308400000",
       "1788498000000",
       null
@@ -109113,14 +109113,14 @@
     "resourceSetName": "res025081",
     "prefix": [
       "Blanc Resonance",
-      null,
+      "Blanc Resonance",
       "Blanc Resonance",
       "Blanc Resonance",
       null
     ],
     "releasedAt": [
       "1771394400000",
-      null,
+      "1792890000000",
       "1785308400000",
       "1788498000000",
       null
@@ -109148,14 +109148,14 @@
     "resourceSetName": "res021085",
     "prefix": [
       "はじまりの一弦",
-      "The Strum of Our Beginnings",
+      "The First String",
       "起始的一弦",
       "起始之弦",
       null
     ],
     "releasedAt": [
       "1771394400000",
-      null,
+      "1792890000000",
       "1785308400000",
       "1788498000000",
       null
@@ -111800,14 +111800,14 @@
     "prefix": [
       "あの頃のぬくもり",
       null,
-      null,
+      "那時候的溫暖",
       null,
       null
     ],
     "releasedAt": [
       "1780207200000",
       null,
-      null,
+      "1792825200000",
       null,
       null
     ],
@@ -111853,14 +111853,14 @@
     "prefix": [
       "熱血リハーサル",
       null,
-      null,
+      "熱血彩排",
       null,
       null
     ],
     "releasedAt": [
       "1780207200000",
       null,
-      null,
+      "1792825200000",
       null,
       null
     ],
@@ -111906,14 +111906,14 @@
     "prefix": [
       "歩みに触れて",
       null,
-      null,
+      "感受一路走來的足跡",
       null,
       null
     ],
     "releasedAt": [
       "1780207200000",
       null,
-      null,
+      "1792825200000",
       null,
       null
     ],
@@ -111947,14 +111947,14 @@
     "prefix": [
       "ホワイトブライダル",
       null,
-      null,
+      "White Bridal",
       null,
       null
     ],
     "releasedAt": [
       "1780207200000",
       null,
-      null,
+      "1792825200000",
       null,
       null
     ],
@@ -111982,14 +111982,14 @@
     "prefix": [
       "１００％を目指して",
       null,
-      null,
+      "追求百分之百",
       null,
       null
     ],
     "releasedAt": [
       "1780207200000",
       null,
-      null,
+      "1792825200000",
       null,
       null
     ],
@@ -112035,14 +112035,14 @@
     "prefix": [
       "NEAR FUTURE",
       null,
-      null,
+      "NEAR FUTURE",
       null,
       null
     ],
     "releasedAt": [
       "1780207200000",
       null,
-      null,
+      "1792825200000",
       null,
       null
     ],
@@ -112088,14 +112088,14 @@
     "prefix": [
       "泡沫の夢",
       null,
-      null,
+      "泡沫之夢",
       null,
       null
     ],
     "releasedAt": [
       "1780207200000",
       null,
-      null,
+      "1792825200000",
       null,
       null
     ],
@@ -114821,7 +114821,7 @@
       null
     ],
     "skillId": 87,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 4001,
@@ -114874,7 +114874,7 @@
       null
     ],
     "skillId": 68,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 4085,
@@ -115003,7 +115003,7 @@
       null
     ],
     "skillId": 61,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3619,
@@ -115056,7 +115056,7 @@
       null
     ],
     "skillId": 73,
-    "type": "special",
+    "type": "limited",
     "stat": {
       "1": {
         "performance": 4107,
@@ -115109,7 +115109,7 @@
       null
     ],
     "skillId": 84,
-    "type": "special",
+    "type": "limited",
     "stat": {
       "1": {
         "performance": 3937,
@@ -115238,7 +115238,7 @@
       null
     ],
     "skillId": 12,
-    "type": "special",
+    "type": "limited",
     "stat": {
       "1": {
         "performance": 3679,
@@ -115397,7 +115397,7 @@
       null
     ],
     "skillId": 67,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3641,
@@ -115450,7 +115450,7 @@
       null
     ],
     "skillId": 85,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3122,
@@ -115579,7 +115579,7 @@
       null
     ],
     "skillId": 14,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 2943,
@@ -115632,7 +115632,7 @@
       null
     ],
     "skillId": 86,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3789,
@@ -115685,7 +115685,7 @@
       null
     ],
     "skillId": 68,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3165,
@@ -115814,7 +115814,7 @@
       null
     ],
     "skillId": 61,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3881,

@@ -2,7 +2,7 @@
   "eventType": "live_try",
   "eventName": [
     "Re:Like Re:Live",
-    null,
+    "Re:Like Re:Live",
     "Re:Like Re:Live",
     "Re:Like Re:Live",
     null
@@ -11,14 +11,14 @@
   "bannerAssetBundleName": "banner_event322",
   "startAt": [
     "1771394400000",
-    null,
+    "1792890000000",
     "1785394800000",
     "1788498000000",
     null
   ],
   "endAt": [
     "1772020799000",
-    null,
+    "1793516399000",
     "1786021199000",
     "1789225199000",
     null
@@ -32,28 +32,28 @@
   ],
   "publicStartAt": [
     "1771394400000",
-    null,
+    "1792890000000",
     "1785394800000",
     "1788498000000",
     null
   ],
   "publicEndAt": [
     "1772171999000",
-    null,
+    "1793667599000",
     "1786172399000",
     "1789361999000",
     null
   ],
   "distributionStartAt": [
     "1772071200000",
-    null,
+    "1793566800000",
     "1786075200000",
     "1789268399000",
     null
   ],
   "distributionEndAt": [
     "1773327600000",
-    null,
+    "1794823200000",
     "1787331600000",
     "1790524859000",
     null
@@ -62,7 +62,7 @@
   "bgmFileName": "bgm771_chorus",
   "aggregateEndAt": [
     "1772022599000",
-    null,
+    "1793518199000",
     "1786021799000",
     "1789225799000",
     null
@@ -477,7 +477,618 @@
         "rewardQuantity": 50
       }
     ],
-    null,
+    [
+      {
+        "id": 20730,
+        "eventId": 322,
+        "point": "1000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20731,
+        "eventId": 322,
+        "point": "2000",
+        "rewardType": "coin",
+        "rewardQuantity": 3000,
+        "recommendFlg": false
+      },
+      {
+        "id": 20732,
+        "eventId": 322,
+        "point": "3000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20733,
+        "eventId": 322,
+        "point": "4000",
+        "rewardType": "item",
+        "rewardId": 3,
+        "rewardQuantity": 200,
+        "recommendFlg": false
+      },
+      {
+        "id": 20734,
+        "eventId": 322,
+        "point": "5000",
+        "rewardType": "coin",
+        "rewardQuantity": 3000,
+        "recommendFlg": false
+      },
+      {
+        "id": 20735,
+        "eventId": 322,
+        "point": "6500",
+        "rewardType": "item",
+        "rewardId": 7,
+        "rewardQuantity": 100,
+        "recommendFlg": false
+      },
+      {
+        "id": 20736,
+        "eventId": 322,
+        "point": "8000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 20737,
+        "eventId": 322,
+        "point": "10000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20738,
+        "eventId": 322,
+        "point": "12000",
+        "rewardType": "item",
+        "rewardId": 11,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 20739,
+        "eventId": 322,
+        "point": "15000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20740,
+        "eventId": 322,
+        "point": "18000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20741,
+        "eventId": 322,
+        "point": "21000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 20742,
+        "eventId": 322,
+        "point": "24000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20743,
+        "eventId": 322,
+        "point": "27000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20744,
+        "eventId": 322,
+        "point": "30000",
+        "rewardType": "situation",
+        "rewardId": 2401,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20745,
+        "eventId": 322,
+        "point": "35000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20746,
+        "eventId": 322,
+        "point": "40000",
+        "rewardType": "coin",
+        "rewardQuantity": 5000,
+        "recommendFlg": false
+      },
+      {
+        "id": 20747,
+        "eventId": 322,
+        "point": "45000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20748,
+        "eventId": 322,
+        "point": "50000",
+        "rewardType": "stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20749,
+        "eventId": 322,
+        "point": "55000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20750,
+        "eventId": 322,
+        "point": "60000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20751,
+        "eventId": 322,
+        "point": "65000",
+        "rewardType": "coin",
+        "rewardQuantity": 10000,
+        "recommendFlg": false
+      },
+      {
+        "id": 20752,
+        "eventId": 322,
+        "point": "70000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20753,
+        "eventId": 322,
+        "point": "75000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 20754,
+        "eventId": 322,
+        "point": "80000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20755,
+        "eventId": 322,
+        "point": "85000",
+        "rewardType": "item",
+        "rewardId": 3,
+        "rewardQuantity": 400,
+        "recommendFlg": false
+      },
+      {
+        "id": 20756,
+        "eventId": 322,
+        "point": "90000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20757,
+        "eventId": 322,
+        "point": "100000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 20758,
+        "eventId": 322,
+        "point": "110000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20759,
+        "eventId": 322,
+        "point": "120000",
+        "rewardType": "item",
+        "rewardId": 7,
+        "rewardQuantity": 150,
+        "recommendFlg": false
+      },
+      {
+        "id": 20760,
+        "eventId": 322,
+        "point": "130000",
+        "rewardType": "coin",
+        "rewardQuantity": 30000,
+        "recommendFlg": false
+      },
+      {
+        "id": 20761,
+        "eventId": 322,
+        "point": "140000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20762,
+        "eventId": 322,
+        "point": "150000",
+        "rewardType": "situation",
+        "rewardId": 2400,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20763,
+        "eventId": 322,
+        "point": "160000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20764,
+        "eventId": 322,
+        "point": "170000",
+        "rewardType": "item",
+        "rewardId": 11,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20765,
+        "eventId": 322,
+        "point": "180000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 20766,
+        "eventId": 322,
+        "point": "190000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20767,
+        "eventId": 322,
+        "point": "200000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20768,
+        "eventId": 322,
+        "point": "210000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20769,
+        "eventId": 322,
+        "point": "220000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20770,
+        "eventId": 322,
+        "point": "230000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 20771,
+        "eventId": 322,
+        "point": "240000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20772,
+        "eventId": 322,
+        "point": "250000",
+        "rewardType": "practice_ticket",
+        "rewardId": 30,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20773,
+        "eventId": 322,
+        "point": "260000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20774,
+        "eventId": 322,
+        "point": "270000",
+        "rewardType": "item",
+        "rewardId": 3,
+        "rewardQuantity": 400,
+        "recommendFlg": false
+      },
+      {
+        "id": 20775,
+        "eventId": 322,
+        "point": "280000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20776,
+        "eventId": 322,
+        "point": "290000",
+        "rewardType": "item",
+        "rewardId": 7,
+        "rewardQuantity": 100,
+        "recommendFlg": false
+      },
+      {
+        "id": 20777,
+        "eventId": 322,
+        "point": "300000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20778,
+        "eventId": 322,
+        "point": "310000",
+        "rewardType": "item",
+        "rewardId": 11,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20779,
+        "eventId": 322,
+        "point": "320000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20780,
+        "eventId": 322,
+        "point": "330000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20781,
+        "eventId": 322,
+        "point": "340000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20782,
+        "eventId": 322,
+        "point": "350000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000,
+        "recommendFlg": false
+      },
+      {
+        "id": 20783,
+        "eventId": 322,
+        "point": "360000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20784,
+        "eventId": 322,
+        "point": "370000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20785,
+        "eventId": 322,
+        "point": "380000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 20786,
+        "eventId": 322,
+        "point": "390000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20787,
+        "eventId": 322,
+        "point": "400000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20788,
+        "eventId": 322,
+        "point": "420000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20789,
+        "eventId": 322,
+        "point": "450000",
+        "rewardType": "coin",
+        "rewardQuantity": 100000,
+        "recommendFlg": false
+      },
+      {
+        "id": 20790,
+        "eventId": 322,
+        "point": "500000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20791,
+        "eventId": 322,
+        "point": "550000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20792,
+        "eventId": 322,
+        "point": "625000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 20793,
+        "eventId": 322,
+        "point": "750000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      },
+      {
+        "id": 20794,
+        "eventId": 322,
+        "point": "875000",
+        "rewardType": "coin",
+        "rewardQuantity": 100000,
+        "recommendFlg": false
+      },
+      {
+        "id": 20795,
+        "eventId": 322,
+        "point": "1000000",
+        "rewardType": "item",
+        "rewardId": 11,
+        "rewardQuantity": 100,
+        "recommendFlg": false
+      },
+      {
+        "id": 20796,
+        "eventId": 322,
+        "point": "1125000",
+        "rewardType": "costume_3d_making_item",
+        "rewardId": 1,
+        "rewardQuantity": 20,
+        "recommendFlg": false
+      },
+      {
+        "id": 20797,
+        "eventId": 322,
+        "point": "1250000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 20798,
+        "eventId": 322,
+        "point": "1375000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 20799,
+        "eventId": 322,
+        "point": "1500000",
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": false
+      }
+    ],
     [
       {
         "point": "1000",
@@ -2316,7 +2927,1235 @@
         "rewardQuantity": 50
       }
     ],
-    null,
+    [
+      {
+        "id": 27390,
+        "eventId": 322,
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "degree",
+        "rewardId": 9150,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27391,
+        "eventId": 322,
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27392,
+        "eventId": 322,
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27393,
+        "eventId": 322,
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27394,
+        "eventId": 322,
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27395,
+        "eventId": 322,
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27396,
+        "eventId": 322,
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "degree",
+        "rewardId": 9151,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27397,
+        "eventId": 322,
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27398,
+        "eventId": 322,
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27399,
+        "eventId": 322,
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27400,
+        "eventId": 322,
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27401,
+        "eventId": 322,
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27402,
+        "eventId": 322,
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "degree",
+        "rewardId": 9152,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27403,
+        "eventId": 322,
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27404,
+        "eventId": 322,
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27405,
+        "eventId": 322,
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27406,
+        "eventId": 322,
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27407,
+        "eventId": 322,
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27408,
+        "eventId": 322,
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "degree",
+        "rewardId": 9153,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27409,
+        "eventId": 322,
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27410,
+        "eventId": 322,
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27411,
+        "eventId": 322,
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27412,
+        "eventId": 322,
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27413,
+        "eventId": 322,
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27414,
+        "eventId": 322,
+        "fromRank": 11,
+        "toRank": 20,
+        "rewardType": "degree",
+        "rewardId": 9154,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27415,
+        "eventId": 322,
+        "fromRank": 11,
+        "toRank": 20,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27416,
+        "eventId": 322,
+        "fromRank": 11,
+        "toRank": 20,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27417,
+        "eventId": 322,
+        "fromRank": 11,
+        "toRank": 20,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27418,
+        "eventId": 322,
+        "fromRank": 11,
+        "toRank": 20,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27419,
+        "eventId": 322,
+        "fromRank": 11,
+        "toRank": 20,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27420,
+        "eventId": 322,
+        "fromRank": 21,
+        "toRank": 30,
+        "rewardType": "degree",
+        "rewardId": 9155,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27421,
+        "eventId": 322,
+        "fromRank": 21,
+        "toRank": 30,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27422,
+        "eventId": 322,
+        "fromRank": 21,
+        "toRank": 30,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27423,
+        "eventId": 322,
+        "fromRank": 21,
+        "toRank": 30,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27424,
+        "eventId": 322,
+        "fromRank": 21,
+        "toRank": 30,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27425,
+        "eventId": 322,
+        "fromRank": 21,
+        "toRank": 30,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27426,
+        "eventId": 322,
+        "fromRank": 31,
+        "toRank": 40,
+        "rewardType": "degree",
+        "rewardId": 9156,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27427,
+        "eventId": 322,
+        "fromRank": 31,
+        "toRank": 40,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27428,
+        "eventId": 322,
+        "fromRank": 31,
+        "toRank": 40,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27429,
+        "eventId": 322,
+        "fromRank": 31,
+        "toRank": 40,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27430,
+        "eventId": 322,
+        "fromRank": 31,
+        "toRank": 40,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27431,
+        "eventId": 322,
+        "fromRank": 31,
+        "toRank": 40,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27432,
+        "eventId": 322,
+        "fromRank": 41,
+        "toRank": 50,
+        "rewardType": "degree",
+        "rewardId": 9157,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27433,
+        "eventId": 322,
+        "fromRank": 41,
+        "toRank": 50,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27434,
+        "eventId": 322,
+        "fromRank": 41,
+        "toRank": 50,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27435,
+        "eventId": 322,
+        "fromRank": 41,
+        "toRank": 50,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27436,
+        "eventId": 322,
+        "fromRank": 41,
+        "toRank": 50,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27437,
+        "eventId": 322,
+        "fromRank": 41,
+        "toRank": 50,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27438,
+        "eventId": 322,
+        "fromRank": 51,
+        "toRank": 100,
+        "rewardType": "degree",
+        "rewardId": 9158,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27439,
+        "eventId": 322,
+        "fromRank": 51,
+        "toRank": 100,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27440,
+        "eventId": 322,
+        "fromRank": 51,
+        "toRank": 100,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27441,
+        "eventId": 322,
+        "fromRank": 51,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27442,
+        "eventId": 322,
+        "fromRank": 51,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 5,
+        "recommendFlg": false
+      },
+      {
+        "id": 27443,
+        "eventId": 322,
+        "fromRank": 51,
+        "toRank": 100,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27444,
+        "eventId": 322,
+        "fromRank": 101,
+        "toRank": 200,
+        "rewardType": "degree",
+        "rewardId": 9159,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27445,
+        "eventId": 322,
+        "fromRank": 101,
+        "toRank": 200,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27446,
+        "eventId": 322,
+        "fromRank": 101,
+        "toRank": 200,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27447,
+        "eventId": 322,
+        "fromRank": 101,
+        "toRank": 200,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27448,
+        "eventId": 322,
+        "fromRank": 101,
+        "toRank": 200,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 4,
+        "recommendFlg": false
+      },
+      {
+        "id": 27449,
+        "eventId": 322,
+        "fromRank": 101,
+        "toRank": 200,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27450,
+        "eventId": 322,
+        "fromRank": 201,
+        "toRank": 300,
+        "rewardType": "degree",
+        "rewardId": 9160,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27451,
+        "eventId": 322,
+        "fromRank": 201,
+        "toRank": 300,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27452,
+        "eventId": 322,
+        "fromRank": 201,
+        "toRank": 300,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27453,
+        "eventId": 322,
+        "fromRank": 201,
+        "toRank": 300,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27454,
+        "eventId": 322,
+        "fromRank": 201,
+        "toRank": 300,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 4,
+        "recommendFlg": false
+      },
+      {
+        "id": 27455,
+        "eventId": 322,
+        "fromRank": 201,
+        "toRank": 300,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27456,
+        "eventId": 322,
+        "fromRank": 301,
+        "toRank": 400,
+        "rewardType": "degree",
+        "rewardId": 9161,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27457,
+        "eventId": 322,
+        "fromRank": 301,
+        "toRank": 400,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27458,
+        "eventId": 322,
+        "fromRank": 301,
+        "toRank": 400,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27459,
+        "eventId": 322,
+        "fromRank": 301,
+        "toRank": 400,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27460,
+        "eventId": 322,
+        "fromRank": 301,
+        "toRank": 400,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 4,
+        "recommendFlg": false
+      },
+      {
+        "id": 27461,
+        "eventId": 322,
+        "fromRank": 301,
+        "toRank": 400,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27462,
+        "eventId": 322,
+        "fromRank": 401,
+        "toRank": 500,
+        "rewardType": "degree",
+        "rewardId": 9162,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27463,
+        "eventId": 322,
+        "fromRank": 401,
+        "toRank": 500,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27464,
+        "eventId": 322,
+        "fromRank": 401,
+        "toRank": 500,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27465,
+        "eventId": 322,
+        "fromRank": 401,
+        "toRank": 500,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27466,
+        "eventId": 322,
+        "fromRank": 401,
+        "toRank": 500,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 4,
+        "recommendFlg": false
+      },
+      {
+        "id": 27467,
+        "eventId": 322,
+        "fromRank": 401,
+        "toRank": 500,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27468,
+        "eventId": 322,
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "degree",
+        "rewardId": 9163,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27469,
+        "eventId": 322,
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "voice_stamp",
+        "rewardId": 553,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27470,
+        "eventId": 322,
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27471,
+        "eventId": 322,
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27472,
+        "eventId": 322,
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 4,
+        "recommendFlg": false
+      },
+      {
+        "id": 27473,
+        "eventId": 322,
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27474,
+        "eventId": 322,
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "degree",
+        "rewardId": 9164,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27475,
+        "eventId": 322,
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10,
+        "recommendFlg": false
+      },
+      {
+        "id": 27476,
+        "eventId": 322,
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27477,
+        "eventId": 322,
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 27478,
+        "eventId": 322,
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "star",
+        "rewardQuantity": 500,
+        "recommendFlg": false
+      },
+      {
+        "id": 27479,
+        "eventId": 322,
+        "fromRank": 2001,
+        "toRank": 3000,
+        "rewardType": "degree",
+        "rewardId": 9165,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27480,
+        "eventId": 322,
+        "fromRank": 2001,
+        "toRank": 3000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27481,
+        "eventId": 322,
+        "fromRank": 2001,
+        "toRank": 3000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6,
+        "recommendFlg": false
+      },
+      {
+        "id": 27482,
+        "eventId": 322,
+        "fromRank": 2001,
+        "toRank": 3000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 27483,
+        "eventId": 322,
+        "fromRank": 2001,
+        "toRank": 3000,
+        "rewardType": "star",
+        "rewardQuantity": 250,
+        "recommendFlg": false
+      },
+      {
+        "id": 27484,
+        "eventId": 322,
+        "fromRank": 3001,
+        "toRank": 4000,
+        "rewardType": "degree",
+        "rewardId": 9166,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27485,
+        "eventId": 322,
+        "fromRank": 3001,
+        "toRank": 4000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27486,
+        "eventId": 322,
+        "fromRank": 3001,
+        "toRank": 4000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6,
+        "recommendFlg": false
+      },
+      {
+        "id": 27487,
+        "eventId": 322,
+        "fromRank": 3001,
+        "toRank": 4000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 27488,
+        "eventId": 322,
+        "fromRank": 3001,
+        "toRank": 4000,
+        "rewardType": "star",
+        "rewardQuantity": 250,
+        "recommendFlg": false
+      },
+      {
+        "id": 27489,
+        "eventId": 322,
+        "fromRank": 4001,
+        "toRank": 5000,
+        "rewardType": "degree",
+        "rewardId": 9167,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27490,
+        "eventId": 322,
+        "fromRank": 4001,
+        "toRank": 5000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27491,
+        "eventId": 322,
+        "fromRank": 4001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6,
+        "recommendFlg": false
+      },
+      {
+        "id": 27492,
+        "eventId": 322,
+        "fromRank": 4001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 27493,
+        "eventId": 322,
+        "fromRank": 4001,
+        "toRank": 5000,
+        "rewardType": "star",
+        "rewardQuantity": 250,
+        "recommendFlg": false
+      },
+      {
+        "id": 27494,
+        "eventId": 322,
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "degree",
+        "rewardId": 9168,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27495,
+        "eventId": 322,
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7,
+        "recommendFlg": false
+      },
+      {
+        "id": 27496,
+        "eventId": 322,
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6,
+        "recommendFlg": false
+      },
+      {
+        "id": 27497,
+        "eventId": 322,
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 27498,
+        "eventId": 322,
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "star",
+        "rewardQuantity": 200,
+        "recommendFlg": false
+      },
+      {
+        "id": 27499,
+        "eventId": 322,
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 3,
+        "recommendFlg": true
+      },
+      {
+        "id": 27500,
+        "eventId": 322,
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 27501,
+        "eventId": 322,
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 3,
+        "recommendFlg": false
+      },
+      {
+        "id": 27502,
+        "eventId": 322,
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "star",
+        "rewardQuantity": 200,
+        "recommendFlg": false
+      },
+      {
+        "id": 27503,
+        "eventId": 322,
+        "fromRank": 10001,
+        "toRank": 50000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 27504,
+        "eventId": 322,
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 2,
+        "recommendFlg": true
+      },
+      {
+        "id": 27505,
+        "eventId": 322,
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2,
+        "recommendFlg": false
+      },
+      {
+        "id": 27506,
+        "eventId": 322,
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "star",
+        "rewardQuantity": 150,
+        "recommendFlg": false
+      },
+      {
+        "id": 27507,
+        "eventId": 322,
+        "fromRank": 20001,
+        "toRank": 100000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 27508,
+        "eventId": 322,
+        "fromRank": 20001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 27509,
+        "eventId": 322,
+        "fromRank": 30001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1,
+        "recommendFlg": true
+      },
+      {
+        "id": 27510,
+        "eventId": 322,
+        "fromRank": 30001,
+        "toRank": 100000,
+        "rewardType": "star",
+        "rewardQuantity": 100,
+        "recommendFlg": false
+      },
+      {
+        "id": 27511,
+        "eventId": 322,
+        "fromRank": 30001,
+        "toRank": 200000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 27512,
+        "eventId": 322,
+        "fromRank": 30001,
+        "toRank": 200000,
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 27513,
+        "eventId": 322,
+        "fromRank": 30001,
+        "toRank": 200000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1,
+        "recommendFlg": false
+      },
+      {
+        "id": 27514,
+        "eventId": 322,
+        "fromRank": 40001,
+        "toRank": 200000,
+        "rewardType": "star",
+        "rewardQuantity": 50,
+        "recommendFlg": true
+      }
+    ],
     [
       {
         "fromRank": 1,
@@ -4525,28 +6364,28 @@
       ],
       "caption": [
         "オープニング",
-        null,
+        "Opening",
         "開場",
         "序章",
         null
       ],
       "title": [
         "招待ナシ、覚悟アリ",
-        null,
+        "No Invite, All Resolve",
         "沒有招待、只有覺悟",
         "没有邀请，已有觉悟",
         null
       ],
       "synopsis": [
         "Roseliaに届くオルフェス開催の知らせ。\n前回とは違う、招待なき挑戦が幕を開ける。",
-        null,
+        "Word of an All Music Fes reaches Roselia. Unlike last time, an uninvited challenge begins.",
         "Roselia 收到了『All Music Fes.』舉辦的消息。\n與上次不同，無招待的挑戰即將揭開序幕。",
         "Roselia收到了Orpheus Festival开办的消息。\n与上次不同，这是一场没有邀请函的挑战。",
         null
       ],
       "releaseConditions": [
         "オープニングシナリオ",
-        null,
+        "Opening Scene",
         "開場劇情",
         "序章故事",
         null
@@ -4570,28 +6409,28 @@
       ],
       "caption": [
         "第１話",
-        null,
+        "Chapter 1",
         "第１話",
         "第１话",
         null
       ],
       "title": [
         "あの日をなぞる",
-        null,
+        "Retracing That Day",
         "追溯那一天",
         "重走那一天",
         null
       ],
       "synopsis": [
         "練習後、リサが４人を会議室に集める。\nモニターに映される、あの日の映像……",
-        null,
+        "After practice, Lisa gathers the four in the meeting room. On the monitor plays footage from that day...",
         "練習結束後，莉莎把四人集合到會議室。\n螢幕上播放出的，是那一天的影像……",
         "练习结束后，莉莎把另外四人叫到会议室。\n显示器上播放的，是那天的影像……",
         null
       ],
       "releaseConditions": [
         "3000イベントP達成",
-        null,
+        "3000 Event Pts Cleared",
         "達成3000活動P",
         "3000活动点数达成",
         null
@@ -4615,28 +6454,28 @@
       ],
       "caption": [
         "第２話",
-        null,
+        "Chapter 2",
         "第２話",
         "第２话",
         null
       ],
       "title": [
         "はじめての音",
-        null,
+        "The First Sound",
         "第一次的聲音",
         "最初的声音",
         null
       ],
       "synopsis": [
         "練習開始より早くに到着したリサとあこ。\n２人が交わす、『はじめて』の音の話。",
-        null,
+        "Lisa and Ako arrive well before practice starts. The two share a talk about their \"first\" sounds.",
         "比練習開始更早抵達的莉莎與亞子。\n兩人談起了「最初」的聲音。",
         "练习开始前便早到的莉莎和亚子。\n两人谈起了“最初”的声音。",
         null
       ],
       "releaseConditions": [
         "8000イベントP達成",
-        null,
+        "8000 Event Pts Cleared",
         "達成8000活動P",
         "8000活动点数达成",
         null
@@ -4660,28 +6499,28 @@
       ],
       "caption": [
         "第３話",
-        null,
+        "Chapter 3",
         "第３話",
         "第３话",
         null
       ],
       "title": [
         "爪先にあの微熱",
-        null,
+        "That Faint Heat on My Fingertips",
         "指尖留有那份微熱",
         "指尖那抹微热",
         null
       ],
       "synopsis": [
         "オフの部屋、古いネイルが目に入る。\n指先に宿る、リサの想いの歴史と記憶。",
-        null,
+        "On a day off in her room, an old nail catches her eye. Etched in her fingertips: the history of Lisa's heart.",
         "在休息室裡，看見了舊指甲彩繪。\n寄宿在指尖，莉莎心意的歷史與記憶。",
         "休息室里，旧指甲映入眼帘。\n那是留在指尖之上，属于莉莎思念的历史与记忆。",
         null
       ],
       "releaseConditions": [
         "18000イベントP達成",
-        null,
+        "18000 Event Pts Cleared",
         "達成18000活動P",
         "18000活动点数达成",
         null
@@ -4705,28 +6544,28 @@
       ],
       "caption": [
         "第４話",
-        null,
+        "Chapter 4",
         "第４話",
         "第４话",
         null
       ],
       "title": [
         "触れられない時間",
-        null,
+        "The Time I Couldn't Touch",
         "無法觸及的時光",
         "无法触及的时光",
         null
       ],
       "synopsis": [
         "ベースのメンテの遅れが判明。\n手ぶらの道中、リサと紗夜が話すのは……",
-        null,
+        "A delay in her bass's upkeep comes to light. Empty-handed on the walk, Lisa and Sayo talk about...",
         "貝斯保養延遲的事情曝光了。\n兩手空空的途中，莉莎與紗夜對談的是……。",
         "莉莎的贝斯保养延迟已成定局。\n空手走在路上时，莉莎与纱夜聊起的是……",
         null
       ],
       "releaseConditions": [
         "35000イベントP達成",
-        null,
+        "35000 Event Pts Cleared",
         "達成35000活動P",
         "35000活动点数达成",
         null
@@ -4750,28 +6589,28 @@
       ],
       "caption": [
         "第５話",
-        null,
+        "Chapter 5",
         "第５話",
         "第５话",
         null
       ],
       "title": [
         "おかえり、ベース",
-        null,
+        "Welcome Back, Bass",
         "歡迎回來，貝斯",
         "欢迎回来，贝斯",
         null
       ],
       "synopsis": [
         "リサのベースを待ちつつ、練習を開始する。\n仲間たちの演奏を見て、リサが想うのは――",
-        null,
+        "Practice begins as Lisa waits on her bass. Watching her bandmates play, what Lisa feels is—",
         "一邊等著莉莎的貝斯，一邊開始練習。\n望著夥伴們的演奏，莉莎心中浮現的是——",
         "一边等待莉莎的贝斯，一边开始练习。\n看着伙伴们的演奏，莉莎心中所想的是——",
         null
       ],
       "releaseConditions": [
         "50000イベントP達成",
-        null,
+        "50000 Event Pts Cleared",
         "達成50000活動P",
         "50000活动点数达成",
         null
@@ -4795,28 +6634,28 @@
       ],
       "caption": [
         "エンディング",
-        null,
+        "Ending",
         "結尾",
         "终章",
         null
       ],
       "title": [
         "ずっとずっと、ずっと。",
-        null,
+        "Always and Always, Always.",
         "一直一直、一直。",
         "一直、一直、一直。",
         null
       ],
       "synopsis": [
         "オーディション結果を待つ夜に思い出す。\nそうだ、アタシは、ずっとずっと、ずっと。",
-        null,
+        "The night they await the audition results, she remembers. That's right—for me, it's always, always, always.",
         "在等待甄選結果的夜晚裡回想起來。\n沒錯，我是一直一直、一直。",
         "在等待试音结果的夜里，她回想起来。\n没错，我一直、一直、一直。",
         null
       ],
       "releaseConditions": [
         "70000イベントP達成",
-        null,
+        "70000 Event Pts Cleared",
         "達成70000活動P",
         "70000活动点数达成",
         null
@@ -5357,21 +7196,21 @@
       "5506": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]30,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]30,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]30,000[-][505050]以上並達成通關[-]",
           "[FF3B72]30,000[-][505050]以上完成[-]",
           null
@@ -5380,21 +7219,21 @@
       "5507": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]100,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]100,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]100,000[-][505050]以上並達成通關[-]",
           "[FF3B72]100,000[-][505050]以上完成[-]",
           null
@@ -5403,21 +7242,21 @@
       "5508": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]150,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]150,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]150,000[-][505050]以上並達成通關[-]",
           "[FF3B72]150,000[-][505050]以上完成[-]",
           null
@@ -5426,21 +7265,21 @@
       "5509": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]200,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]200,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]200,000[-][505050]以上並達成通關[-]",
           "[FF3B72]200,000[-][505050]以上完成[-]",
           null
@@ -5449,21 +7288,21 @@
       "5510": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]250,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]250,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]250,000[-][505050]以上並達成通關[-]",
           "[FF3B72]250,000[-][505050]以上完成[-]",
           null
@@ -5472,21 +7311,21 @@
       "5511": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]300,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]300,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]300,000[-][505050]以上並達成通關[-]",
           "[FF3B72]300,000[-][505050]以上完成[-]",
           null
@@ -5495,21 +7334,21 @@
       "5512": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]400,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]400,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]400,000[-][505050]以上並達成通關[-]",
           "[FF3B72]400,000[-][505050]以上完成[-]",
           null
@@ -5518,21 +7357,21 @@
       "5513": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]600,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]600,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]600,000[-][505050]以上並達成通關[-]",
           "[FF3B72]600,000[-][505050]以上完成[-]",
           null
@@ -5541,21 +7380,21 @@
       "5514": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]750,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]750,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]750,000[-][505050]以上並達成通關[-]",
           "[FF3B72]750,000[-][505050]以上完成[-]",
           null
@@ -5564,21 +7403,21 @@
       "5515": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]900,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]900,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]900,000[-][505050]以上並達成通關[-]",
           "[FF3B72]900,000[-][505050]以上完成[-]",
           null
@@ -5587,21 +7426,21 @@
       "5516": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]1,200,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1,200,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]1,200,000[-][505050]以上並達成通關[-]",
           "[FF3B72]1,200,000[-][505050]以上完成[-]",
           null
@@ -5610,21 +7449,21 @@
       "5517": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]1,400,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1,400,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]1,400,000[-][505050]以上並達成通關[-]",
           "[FF3B72]1,400,000[-][505050]以上完成[-]",
           null
@@ -5633,21 +7472,21 @@
       "5518": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]1,600,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1,600,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]1,600,000[-][505050]以上並達成通關[-]",
           "[FF3B72]1,600,000[-][505050]以上完成[-]",
           null
@@ -5656,21 +7495,21 @@
       "5519": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]1,800,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1,800,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]1,800,000[-][505050]以上並達成通關[-]",
           "[FF3B72]1,800,000[-][505050]以上完成[-]",
           null
@@ -5679,21 +7518,21 @@
       "5520": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]2,000,000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]2,000,000[-] [505050]or more[-]",
           "[505050]分數[-][FF3B72]2,000,000[-][505050]以上並達成通關[-]",
           "[FF3B72]2,000,000[-][505050]以上完成[-]",
           null
@@ -5702,21 +7541,21 @@
       "5521": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]1[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]1[-][505050]以上並達成通關[-]",
           "[FF3B72]1[-][505050]以上完成[-]",
           null
@@ -5725,21 +7564,21 @@
       "5522": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]100[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]100[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]100[-][505050]以上並達成通關[-]",
           "[FF3B72]100[-][505050]以上完成[-]",
           null
@@ -5748,21 +7587,21 @@
       "5523": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]200[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]200[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]200[-][505050]以上並達成通關[-]",
           "[FF3B72]200[-][505050]以上完成[-]",
           null
@@ -5771,21 +7610,21 @@
       "5524": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]300[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]300[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]300[-][505050]以上並達成通關[-]",
           "[FF3B72]300[-][505050]以上完成[-]",
           null
@@ -5794,21 +7633,21 @@
       "5525": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]400[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]400[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]400[-][505050]以上並達成通關[-]",
           "[FF3B72]400[-][505050]以上完成[-]",
           null
@@ -5817,21 +7656,21 @@
       "5526": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]500[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]500[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]500[-][505050]以上並達成通關[-]",
           "[FF3B72]500[-][505050]以上完成[-]",
           null
@@ -5840,21 +7679,21 @@
       "5527": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]600[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]600[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]600[-][505050]以上並達成通關[-]",
           "[FF3B72]600[-][505050]以上完成[-]",
           null
@@ -5863,21 +7702,21 @@
       "5528": {
         "musicDescription": [
           "Roseliaの楽曲",
-          null,
+          "Song by Roselia",
           "Roselia的樂曲",
           "Roselia的歌曲",
           null
         ],
         "difficultyDescription": [
           "HARD以上",
-          null,
+          "HARD or Above",
           "HARD以上",
           "HARD以上",
           null
         ],
         "description": [
           "[FF3B72]700[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]700[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]700[-][505050]以上並達成通關[-]",
           "[FF3B72]700[-][505050]以上完成[-]",
           null
@@ -5886,21 +7725,21 @@
       "5529": {
         "musicDescription": [
           "Roseliaの楽曲",
-          null,
+          "Song by Roselia",
           "Roselia的樂曲",
           "Roselia的歌曲",
           null
         ],
         "difficultyDescription": [
           "HARD以上",
-          null,
+          "HARD or Above",
           "HARD以上",
           "HARD以上",
           null
         ],
         "description": [
           "[FF3B72]800[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]800[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]800[-][505050]以上並達成通關[-]",
           "[FF3B72]800[-][505050]以上完成[-]",
           null
@@ -5909,21 +7748,21 @@
       "5530": {
         "musicDescription": [
           "Roseliaの楽曲",
-          null,
+          "Song by Roselia",
           "Roselia的樂曲",
           "Roselia的歌曲",
           null
         ],
         "difficultyDescription": [
           "HARD以上",
-          null,
+          "HARD or Above",
           "HARD以上",
           "HARD以上",
           null
         ],
         "description": [
           "[FF3B72]900[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]900[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]900[-][505050]以上並達成通關[-]",
           "[FF3B72]900[-][505050]以上完成[-]",
           null
@@ -5932,21 +7771,21 @@
       "5531": {
         "musicDescription": [
           "Talk to My Tone",
-          null,
+          "Talk to My Tone",
           "Talk to My Tone",
           "Talk to My Tone",
           null
         ],
         "difficultyDescription": [
           "HARD以上",
-          null,
+          "HARD or Above",
           "HARD以上",
           "HARD以上",
           null
         ],
         "description": [
           "[FF3B72]1000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1000[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]1000[-][505050]以上並達成通關[-]",
           "[FF3B72]1000[-][505050]以上完成[-]",
           null
@@ -5955,21 +7794,21 @@
       "5532": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "25以上",
-          null,
+          "25 or Above",
           "25以上",
           "25以上",
           null
         ],
         "description": [
           "[FF3B72]1000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1000[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]1000[-][505050]以上並達成通關[-]",
           "[FF3B72]1000[-][505050]以上完成[-]",
           null
@@ -5978,21 +7817,21 @@
       "5533": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "26以上",
-          null,
+          "26 or Above",
           "26以上",
           "26以上",
           null
         ],
         "description": [
           "[FF3B72]1000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1000[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]1000[-][505050]以上並達成通關[-]",
           "[FF3B72]1000[-][505050]以上完成[-]",
           null
@@ -6001,21 +7840,21 @@
       "5534": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "27以上",
-          null,
+          "27 or Above",
           "27以上",
           "27以上",
           null
         ],
         "description": [
           "[FF3B72]1000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1000[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]1000[-][505050]以上並達成通關[-]",
           "[FF3B72]1000[-][505050]以上完成[-]",
           null
@@ -6024,21 +7863,21 @@
       "5535": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "28以上",
-          null,
+          "28 or Above",
           "28以上",
           "28以上",
           null
         ],
         "description": [
           "[FF3B72]1000[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with[-] [FF3B72]1000[-] [505050]or more[-]",
           "[505050]保持體力在[-][FF3B72]1000[-][505050]以上並達成通關[-]",
           "[FF3B72]1000[-][505050]以上完成[-]",
           null
@@ -6047,21 +7886,21 @@
       "5536": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]MAXコンボ[-][FF3B72]10[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with a MAX Combo of[-] [FF3B72]10[-] [505050]or more[-]",
           "[505050]達到MAX Combo在[-][FF3B72]10[-][505050]以上並達成通關[-]",
           "[505050]MAX COMBO数在[-][FF3B72]10[-][505050]以上完成[-]",
           null
@@ -6070,21 +7909,21 @@
       "5537": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]MAXコンボ[-][FF3B72]20[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with a MAX Combo of[-] [FF3B72]20[-] [505050]or more[-]",
           "[505050]達到MAX Combo在[-][FF3B72]20[-][505050]以上並達成通關[-]",
           "[505050]MAX COMBO数在[-][FF3B72]20[-][505050]以上完成[-]",
           null
@@ -6093,21 +7932,21 @@
       "5538": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]MAXコンボ[-][FF3B72]50[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with a MAX Combo of[-] [FF3B72]50[-] [505050]or more[-]",
           "[505050]達到MAX Combo在[-][FF3B72]50[-][505050]以上並達成通關[-]",
           "[505050]MAX COMBO数在[-][FF3B72]50[-][505050]以上完成[-]",
           null
@@ -6116,21 +7955,21 @@
       "5539": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]MAXコンボ[-][FF3B72]100[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with a MAX Combo of[-] [FF3B72]100[-] [505050]or more[-]",
           "[505050]達到MAX Combo在[-][FF3B72]100[-][505050]以上並達成通關[-]",
           "[505050]MAX COMBO数在[-][FF3B72]100[-][505050]以上完成[-]",
           null
@@ -6139,21 +7978,21 @@
       "5540": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]MAXコンボ[-][FF3B72]200[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with a MAX Combo of[-] [FF3B72]200[-] [505050]or more[-]",
           "[505050]達到MAX Combo在[-][FF3B72]200[-][505050]以上並達成通關[-]",
           "[505050]MAX COMBO数在[-][FF3B72]200[-][505050]以上完成[-]",
           null
@@ -6162,21 +8001,21 @@
       "5541": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "NORMAL以上",
-          null,
+          "NORMAL or Above",
           "NORMAL以上",
           "NORMAL以上",
           null
         ],
         "description": [
           "[505050]フルコンボでクリア[-]",
-          null,
+          "[505050]Clear with a Full Combo[-]",
           "[505050]Full Combo並達成通關[-]",
           "[505050]FULL COMBO完成[-]",
           null
@@ -6185,21 +8024,21 @@
       "5542": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]MAXコンボ[-][FF3B72]250[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with a MAX Combo of[-] [FF3B72]250[-] [505050]or more[-]",
           "[505050]達到MAX Combo在[-][FF3B72]250[-][505050]以上並達成通關[-]",
           "[505050]MAX COMBO数在[-][FF3B72]250[-][505050]以上完成[-]",
           null
@@ -6208,21 +8047,21 @@
       "5543": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]MAXコンボ[-][FF3B72]300[-][505050]以上でクリア[-]",
-          null,
+          "[505050]Clear with a MAX Combo of[-] [FF3B72]300[-] [505050]or more[-]",
           "[505050]達到MAX Combo在[-][FF3B72]300[-][505050]以上並達成通關[-]",
           "[505050]MAX COMBO数在[-][FF3B72]300[-][505050]以上完成[-]",
           null
@@ -6231,21 +8070,21 @@
       "5544": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "HARD以上",
-          null,
+          "HARD or Above",
           "HARD以上",
           "HARD以上",
           null
         ],
         "description": [
           "[505050]フルコンボでクリア[-]",
-          null,
+          "[505050]Clear with a Full Combo[-]",
           "[505050]Full Combo並達成通關[-]",
           "[505050]FULL COMBO完成[-]",
           null
@@ -6254,21 +8093,21 @@
       "5545": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "20以上",
-          null,
+          "20 or Above",
           "20以上",
           "20以上",
           null
         ],
         "description": [
           "[505050]フルコンボでクリア[-]",
-          null,
+          "[505050]Clear with a Full Combo[-]",
           "[505050]Full Combo並達成通關[-]",
           "[505050]FULL COMBO完成[-]",
           null
@@ -6277,21 +8116,21 @@
       "5546": {
         "musicDescription": [
           "Talk to My Tone",
-          null,
+          "Talk to My Tone",
           "Talk to My Tone",
           "Talk to My Tone",
           null
         ],
         "difficultyDescription": [
           "HARD以上",
-          null,
+          "HARD or Above",
           "HARD以上",
           "HARD以上",
           null
         ],
         "description": [
           "[505050]フルコンボでクリア[-]",
-          null,
+          "[505050]Clear with a Full Combo[-]",
           "[505050]Full Combo並達成通關[-]",
           "[505050]FULL COMBO完成[-]",
           null
@@ -6300,21 +8139,21 @@
       "5547": {
         "musicDescription": [
           "Roseliaの楽曲",
-          null,
+          "Song by Roselia",
           "Roselia的樂曲",
           "Roselia的歌曲",
           null
         ],
         "difficultyDescription": [
           "25以上",
-          null,
+          "25 or Above",
           "25以上",
           "25以上",
           null
         ],
         "description": [
           "[505050]フルコンボでクリア[-]",
-          null,
+          "[505050]Clear with a Full Combo[-]",
           "[505050]Full Combo並達成通關[-]",
           "[505050]FULL COMBO完成[-]",
           null
@@ -6323,21 +8162,21 @@
       "5548": {
         "musicDescription": [
           "Roseliaの楽曲",
-          null,
+          "Song by Roselia",
           "Roselia的樂曲",
           "Roselia的歌曲",
           null
         ],
         "difficultyDescription": [
           "26以上",
-          null,
+          "26 or Above",
           "26以上",
           "26以上",
           null
         ],
         "description": [
           "[505050]フルコンボでクリア[-]",
-          null,
+          "[505050]Clear with a Full Combo[-]",
           "[505050]Full Combo並達成通關[-]",
           "[505050]FULL COMBO完成[-]",
           null
@@ -6346,21 +8185,21 @@
       "5549": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "27以上",
-          null,
+          "27 or Above",
           "27以上",
           "27以上",
           null
         ],
         "description": [
           "[505050]フルコンボでクリア[-]",
-          null,
+          "[505050]Clear with a Full Combo[-]",
           "[505050]Full Combo並達成通關[-]",
           "[505050]FULL COMBO完成[-]",
           null
@@ -6369,21 +8208,21 @@
       "5550": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "28以上",
-          null,
+          "28 or Above",
           "28以上",
           "28以上",
           null
         ],
         "description": [
           "[505050]フルコンボでクリア[-]",
-          null,
+          "[505050]Clear with a Full Combo[-]",
           "[505050]Full Combo並達成通關[-]",
           "[505050]FULL COMBO完成[-]",
           null
@@ -6392,21 +8231,21 @@
       "5551": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]100[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]100[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]100[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]100[-][505050]以内完成[-]",
           null
@@ -6415,21 +8254,21 @@
       "5552": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]90[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]90[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]90[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]90[-][505050]以内完成[-]",
           null
@@ -6438,21 +8277,21 @@
       "5553": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]80[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]80[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]80[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]80[-][505050]以内完成[-]",
           null
@@ -6461,21 +8300,21 @@
       "5554": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]70[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]70[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]70[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]70[-][505050]以内完成[-]",
           null
@@ -6484,21 +8323,21 @@
       "5555": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "13以上",
-          null,
+          "13 or Above",
           "13以上",
           "13以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]70[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]70[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]70[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]70[-][505050]以内完成[-]",
           null
@@ -6507,21 +8346,21 @@
       "5556": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "14以上",
-          null,
+          "14 or Above",
           "14以上",
           "14以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]70[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]70[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]70[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]70[-][505050]以内完成[-]",
           null
@@ -6530,21 +8369,21 @@
       "5557": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "15以上",
-          null,
+          "15 or Above",
           "15以上",
           "15以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]70[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]70[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]70[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]70[-][505050]以内完成[-]",
           null
@@ -6553,21 +8392,21 @@
       "5558": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "17以上",
-          null,
+          "17 or Above",
           "17以上",
           "17以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]60[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]60[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]60[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]60[-][505050]以内完成[-]",
           null
@@ -6576,21 +8415,21 @@
       "5559": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "18以上",
-          null,
+          "18 or Above",
           "18以上",
           "18以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]50[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]50[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]50[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]50[-][505050]以内完成[-]",
           null
@@ -6599,21 +8438,21 @@
       "5560": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "20以上",
-          null,
+          "20 or Above",
           "20以上",
           "20以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]50[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]50[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]50[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]50[-][505050]以内完成[-]",
           null
@@ -6622,21 +8461,21 @@
       "5561": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "22以上",
-          null,
+          "22 or Above",
           "22以上",
           "22以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]40[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]40[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]40[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]40[-][505050]以内完成[-]",
           null
@@ -6645,21 +8484,21 @@
       "5562": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "25以上",
-          null,
+          "25 or Above",
           "25以上",
           "25以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]30[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]30[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]30[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]30[-][505050]以内完成[-]",
           null
@@ -6668,21 +8507,21 @@
       "5563": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "26以上",
-          null,
+          "26 or Above",
           "26以上",
           "26以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]20[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]20[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]20[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]20[-][505050]以内完成[-]",
           null
@@ -6691,21 +8530,21 @@
       "5564": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "27以上",
-          null,
+          "27 or Above",
           "27以上",
           "27以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]20[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]20[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]20[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]20[-][505050]以内完成[-]",
           null
@@ -6714,21 +8553,21 @@
       "5565": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "28以上",
-          null,
+          "28 or Above",
           "28以上",
           "28以上",
           null
         ],
         "description": [
           "[505050]GREAT以下を[-][FF3B72]30[-][505050]以内でクリア[-]",
-          null,
+          "[505050]Clear with fewer than[-] [FF3B72]30[-] [505050]GREAT or lower notes[-]",
           "[505050]GREAT以下判定在[-][FF3B72]30[-][505050]以內並達成通關[-]",
           "[505050]GREAT以下总数在[-][FF3B72]30[-][505050]以内完成[-]",
           null
@@ -6737,21 +8576,21 @@
       "5566": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]C[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]C[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]C[-][505050]以上並達成通關[-]",
           "[FF3B72]C[-][505050]乐曲等级以上完成[-]",
           null
@@ -6760,21 +8599,21 @@
       "5567": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "7以上",
-          null,
+          "7 or Above",
           "7以上",
           "7以上",
           null
         ],
         "description": [
           "[FF3B72]C[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]C[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]C[-][505050]以上並達成通關[-]",
           "[FF3B72]C[-][505050]乐曲等级以上完成[-]",
           null
@@ -6783,21 +8622,21 @@
       "5568": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "10以上",
-          null,
+          "10 or Above",
           "10以上",
           "10以上",
           null
         ],
         "description": [
           "[FF3B72]C[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]C[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]C[-][505050]以上並達成通關[-]",
           "[FF3B72]C[-][505050]乐曲等级以上完成[-]",
           null
@@ -6806,21 +8645,21 @@
       "5569": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]B[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]B[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]B[-][505050]以上並達成通關[-]",
           "[FF3B72]B[-][505050]乐曲等级以上完成[-]",
           null
@@ -6829,21 +8668,21 @@
       "5570": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "13以上",
-          null,
+          "13 or Above",
           "13以上",
           "13以上",
           null
         ],
         "description": [
           "[FF3B72]B[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]B[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]B[-][505050]以上並達成通關[-]",
           "[FF3B72]B[-][505050]乐曲等级以上完成[-]",
           null
@@ -6852,21 +8691,21 @@
       "5571": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "14以上",
-          null,
+          "14 or Above",
           "14以上",
           "14以上",
           null
         ],
         "description": [
           "[FF3B72]B[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]B[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]B[-][505050]以上並達成通關[-]",
           "[FF3B72]B[-][505050]乐曲等级以上完成[-]",
           null
@@ -6875,21 +8714,21 @@
       "5572": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]A[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]A[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]A[-][505050]以上並達成通關[-]",
           "[FF3B72]A[-][505050]乐曲等级以上完成[-]",
           null
@@ -6898,21 +8737,21 @@
       "5573": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "17以上",
-          null,
+          "17 or Above",
           "17以上",
           "17以上",
           null
         ],
         "description": [
           "[FF3B72]A[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]A[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]A[-][505050]以上並達成通關[-]",
           "[FF3B72]A[-][505050]乐曲等级以上完成[-]",
           null
@@ -6921,21 +8760,21 @@
       "5574": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]S[-][505050]ランク以上でクリア[-]",
-          null,
+          "[505050]Clear Rank[-] [FF3B72]S[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]S[-][505050]以上並達成通關[-]",
           "[FF3B72]S[-][505050]乐曲等级以上完成[-]",
           null
@@ -6944,21 +8783,21 @@
       "5575": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]S[-][505050]ランク以上を[-][FF3B72]スタンダードルーム以上[-][505050]でクリア[-]",
-          null,
+          "[505050]Clear at least[-] [FF3B72]S[-] [505050]Rank in[-] [FF3B72]Standard Room[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]S[-][505050]以上並於[-][FF3B72]一般房間以上[-][505050]中通關[-]",
           "[FF3B72]S[-][505050]乐曲等级以上并在[-][FF3B72]新手及以上房间[-][505050]完成[-]",
           null
@@ -6967,21 +8806,21 @@
       "5576": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "description": [
           "[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]スタンダードルーム以上[-][505050]でクリア[-]",
-          null,
+          "[505050]Clear at least[-] [FF3B72]SS[-] [505050]Rank in[-] [FF3B72]Standard Room[-] [505050]or higher[-]",
           "[505050]達到SCORE RANK[-][FF3B72]SS[-][505050]以上並於[-][FF3B72]一般房間以上[-][505050]中通關[-]",
           "[FF3B72]SS[-][505050]乐曲等级以上并在[-][FF3B72]新手及以上房间[-][505050]完成[-]",
           null
@@ -6990,21 +8829,21 @@
       "5577": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "23以上",
-          null,
+          "23 or Above",
           "23以上",
           "23以上",
           null
         ],
         "description": [
           "[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]スタンダードルーム以上[-][505050]でクリア[-]",
-          null,
+          "[505050]Clear at least[-] [FF3B72]SS[-] [505050]Rank in[-] [FF3B72]Standard Room[-]",
           "[505050]達到SCORE RANK[-][FF3B72]SS[-][505050]以上並於[-][FF3B72]一般房間以上[-][505050]中通關[-]",
           "[FF3B72]SS[-][505050]乐曲等级以上并在[-][FF3B72]新手及以上房间[-][505050]完成[-]",
           null
@@ -7013,21 +8852,21 @@
       "5578": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "24以上",
-          null,
+          "24 or Above",
           "24以上",
           "24以上",
           null
         ],
         "description": [
           "[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]スタンダードルーム以上[-][505050]でクリア[-]",
-          null,
+          "[505050]Clear at least[-] [FF3B72]SS[-] [505050]Rank in[-] [FF3B72]Standard Room[-]",
           "[505050]達到SCORE RANK[-][FF3B72]SS[-][505050]以上並於[-][FF3B72]一般房間以上[-][505050]中通關[-]",
           "[FF3B72]SS[-][505050]乐曲等级以上并在[-][FF3B72]新手及以上房间[-][505050]完成[-]",
           null
@@ -7036,21 +8875,21 @@
       "5579": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "25以上",
-          null,
+          "25 or Above",
           "25以上",
           "25以上",
           null
         ],
         "description": [
           "[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]グランドルーム以上[-][505050]でクリア[-]",
-          null,
+          "[505050]Clear at least[-] [FF3B72]SS[-] [505050]Rank in[-] [FF3B72]Grand Room[-]",
           "[505050]達到SCORE RANK[-][FF3B72]SS[-][505050]以上並於[-][FF3B72]尊爵房間以上[-][505050]中通關[-]",
           "[FF3B72]SS[-][505050]乐曲等级以上并在[-][FF3B72]首席及以上房间[-][505050]完成[-]",
           null
@@ -7059,21 +8898,21 @@
       "5580": {
         "musicDescription": [
           "-",
-          null,
+          "-",
           "-",
           "-",
           null
         ],
         "difficultyDescription": [
           "26以上",
-          null,
+          "26 or Above",
           "26以上",
           "26以上",
           null
         ],
         "description": [
           "[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]グランドルーム以上[-][505050]でクリア[-]",
-          null,
+          "[505050]Clear at least[-] [FF3B72]SS[-] [505050]Rank in[-] [FF3B72]Grand Room[-]",
           "[505050]達到SCORE RANK[-][FF3B72]SS[-][505050]以上並於[-][FF3B72]尊爵房間以上[-][505050]中通關[-]",
           "[FF3B72]SS[-][505050]乐曲等级以上并在[-][FF3B72]首席及以上房间[-][505050]完成[-]",
           null
@@ -8407,7 +10246,133 @@
         }
       }
     },
-    null,
+    {
+      "entries": {
+        "normal": {
+          "entries": {
+            "1": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 1,
+              "resourceType": "practice_ticket",
+              "resourceId": 4,
+              "quantity": 1
+            },
+            "2": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 2,
+              "resourceType": "item",
+              "resourceId": 15,
+              "quantity": 1
+            },
+            "3": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 3,
+              "resourceType": "live_boost_recovery_item",
+              "resourceId": 2,
+              "quantity": 1
+            },
+            "4": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 4,
+              "resourceType": "coin",
+              "quantity": 50000
+            },
+            "5": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 5,
+              "resourceType": "practice_ticket",
+              "resourceId": 30,
+              "quantity": 1
+            },
+            "6": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 6,
+              "resourceType": "practice_ticket",
+              "resourceId": 6,
+              "quantity": 3
+            },
+            "7": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 7,
+              "resourceType": "item",
+              "resourceId": 15,
+              "quantity": 1
+            },
+            "8": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 8,
+              "resourceType": "practice_ticket",
+              "resourceId": 6,
+              "quantity": 3
+            },
+            "9": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 9,
+              "resourceType": "practice_ticket",
+              "resourceId": 7,
+              "quantity": 1
+            },
+            "10": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "normal",
+              "level": 10,
+              "resourceType": "degree",
+              "resourceId": 9175,
+              "quantity": 1
+            }
+          }
+        },
+        "extra": {
+          "entries": {
+            "1": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "extra",
+              "level": 1,
+              "resourceType": "coin",
+              "quantity": 100000
+            },
+            "2": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "extra",
+              "level": 2,
+              "resourceType": "coin",
+              "quantity": 150000
+            },
+            "3": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "extra",
+              "level": 3,
+              "resourceType": "coin",
+              "quantity": 200000
+            },
+            "4": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "extra",
+              "level": 4,
+              "resourceType": "coin",
+              "quantity": 250000
+            },
+            "5": {
+              "eventId": 322,
+              "liveTryMissionDifficultyType": "extra",
+              "level": 5,
+              "resourceType": "degree",
+              "resourceId": 9176,
+              "quantity": 1
+            }
+          }
+        }
+      }
+    },
     {
       "entries": {
         "normal": {

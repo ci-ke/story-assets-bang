@@ -44,7 +44,7 @@
         "title": [
           "恐怖という魅力　前編",
           null,
-          null,
+          "名為恐懼的魅力　前篇",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "恐怖という魅力　後編",
           null,
-          null,
+          "名為恐懼的魅力　後篇",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "ずっと……会いたかったよ……",
     null,
-    null,
+    "我一直……都好想見你……",
     null,
     null
   ],
   "prefix": [
     "泡沫の夢",
     null,
-    null,
+    "泡沫之夢",
     null,
     null
   ],
   "releasedAt": [
     "1780207200000",
     null,
-    null,
+    "1792825200000",
     null,
     null
   ],
   "skillName": [
     "この世ならざるもの",
     null,
-    null,
+    "非此世之物",
     null,
     null
   ],

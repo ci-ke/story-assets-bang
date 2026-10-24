@@ -44,7 +44,7 @@
         "title": [
           "変わらない私たち",
           null,
-          null,
+          "不曾改變的我們",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "見ているだけで",
           null,
-          null,
+          "光是看著就……",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "おーい、沙綾～、\nちょっと見てくれ",
     null,
-    null,
+    "喂～沙綾，\n過來看一下",
     null,
     null
   ],
   "prefix": [
     "１００％を目指して",
     null,
-    null,
+    "追求百分之百",
     null,
     null
   ],
   "releasedAt": [
     "1780207200000",
     null,
-    null,
+    "1792825200000",
     null,
     null
   ],
   "skillName": [
     "手作りフォトスポット",
     null,
-    null,
+    "手作拍照打卡區",
     null,
     null
   ],

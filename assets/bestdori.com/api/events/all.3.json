@@ -8349,7 +8349,7 @@
     "eventType": "live_try",
     "eventName": [
       "Re:Like Re:Live",
-      null,
+      "Re:Like Re:Live",
       "Re:Like Re:Live",
       "Re:Like Re:Live",
       null
@@ -8358,14 +8358,14 @@
     "bannerAssetBundleName": "banner_event322",
     "startAt": [
       "1771394400000",
-      null,
+      "1792890000000",
       "1785394800000",
       "1788498000000",
       null
     ],
     "endAt": [
       "1772020799000",
-      null,
+      "1793516399000",
       "1786021199000",
       "1789225199000",
       null
@@ -8609,8 +8609,8 @@
     "eventType": "versus",
     "eventName": [
       "これからも迎える朝は",
-      null,
-      null,
+      "These Mornings That will Continue to Come",
+      "今後迎來的每一個清晨",
       null,
       null
     ],
@@ -8619,14 +8619,14 @@
     "startAt": [
       "1780207200000",
       null,
-      null,
+      "1792911600000",
       null,
       null
     ],
     "endAt": [
       "1780919999000",
       null,
-      null,
+      "1793451599000",
       null,
       null
     ]
@@ -8635,7 +8635,7 @@
     "eventType": "mission_live",
     "eventName": [
       "ディープ・ローズ・ホライズン",
-      null,
+      "Deep Rose Horizon",
       null,
       null,
       null
@@ -8661,7 +8661,7 @@
     "eventType": "live_try",
     "eventName": [
       "輝く星々のコンチェルト",
-      null,
+      "Concerto of Shimmering Stars",
       null,
       null,
       null
@@ -8687,7 +8687,7 @@
     "eventType": "challenge",
     "eventName": [
       "エンジョイ！　私たちのベストサマー！",
-      null,
+      "Enjoy! Our Best Summer!",
       null,
       null,
       null
@@ -8713,7 +8713,7 @@
     "eventType": "mission_live",
     "eventName": [
       "あの夕映えに誓って",
-      null,
+      "By That Sunset, I Swear to You",
       null,
       null,
       null
@@ -8739,7 +8739,7 @@
     "eventType": "live_try",
     "eventName": [
       "真っ白なページ、紡いでいく彩り",
-      null,
+      "Pure White Pages, Spun with Pastel",
       null,
       null,
       null
@@ -8817,7 +8817,7 @@
     "eventType": "live_try",
     "eventName": [
       "夏の終わりの忘れ物",
-      null,
+      "What We Forgot, at Summer's End",
       null,
       null,
       null
@@ -8843,7 +8843,7 @@
     "eventType": "medley",
     "eventName": [
       "爆熱！スーパーハイクバトラーズ！",
-      null,
+      "Explosively Hot! SUPER HAIKU BATTLERS!",
       null,
       null,
       null
@@ -8869,7 +8869,7 @@
     "eventType": "challenge",
     "eventName": [
       "未来想送曲",
-      null,
+      "Requiem for Tomorrow",
       null,
       null,
       null
@@ -8895,7 +8895,7 @@
     "eventType": "mission_live",
     "eventName": [
       "君に歌う等身大のハーモニー",
-      null,
+      "Heartfelt Harmony, Song for You",
       null,
       null,
       null
@@ -8947,7 +8947,7 @@
     "eventType": "mission_live",
     "eventName": [
       "時を繋ぐノクターン",
-      null,
+      "Nocturne to Weave the Strands of Time",
       null,
       null,
       null
@@ -8973,7 +8973,7 @@
     "eventType": "live_try",
     "eventName": [
       "夕日の先に羽を広げて",
-      null,
+      "Beyond the Sunset, Spreading our Wings",
       null,
       null,
       null

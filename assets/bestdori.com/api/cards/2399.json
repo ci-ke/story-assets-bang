@@ -43,7 +43,7 @@
         },
         "title": [
           "雨でも槍でも隕石でも",
-          null,
+          "Through Rain, Spears, or Meteors",
           "不管是下雨、長槍還是隕石",
           "无论下雨、下刀子还是下陨石",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "全部全部零さない！",
-          null,
+          "I Won't Let a Single Thing Slip!",
           "全部全部都不灑出來！",
           "全部全部都不要散落！",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2318,
   "gachaText": [
     "うう、やっぱり落ち着かない～！",
-    null,
+    "Ughh, I still can’t calm down~!",
     "嗚嗚，果然還是靜不下來～！",
     "呜，果然还是静不下心来~！",
     null
   ],
   "prefix": [
     "Re:VENGER",
-    null,
+    "Re:VENGER",
     "Re:VENGER",
     "Re:VENGER",
     null
   ],
   "releasedAt": [
     "1771394400000",
-    null,
+    "1792890000000",
     "1785308400000",
     "1788498000000",
     null
   ],
   "skillName": [
     "炸裂ドライヴ",
-    null,
+    "Dozing Dormouse",
     "炸裂Drive",
     "炸裂驱动",
     null
