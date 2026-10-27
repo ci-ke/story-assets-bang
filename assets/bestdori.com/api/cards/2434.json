@@ -45,7 +45,7 @@
           "あなたの熱を包むように",
           null,
           "彷彿包覆著那份熱情",
-          null,
+          "像要包裹住你的热情",
           null
         ],
         "characterId": 14
@@ -94,7 +94,7 @@
           "だから私にできることを",
           null,
           "所以，做我力所能及的事",
-          null,
+          "所以我会做力所能及的事",
           null
         ],
         "characterId": 14
@@ -106,28 +106,28 @@
     "それって運命だけじゃ\nないと思うな",
     "I don't think this is just about fate",
     "我覺得，那不只是命運而已",
-    null,
+    "我觉得那不只是\n命运的安排哦",
     null
   ],
   "prefix": [
     "ほほえむ体温",
     "The Warmth in Her Smile",
     "微笑的溫度",
-    null,
+    "微笑的温度",
     null
   ],
   "releasedAt": [
     "1775800800000",
     null,
     "1789196400000",
-    null,
+    "1792990800000",
     null
   ],
   "skillName": [
     "あたたかなそよ風",
     "A Gentle, Pleasant Breeze",
     "溫暖的微風",
-    null,
+    "温暖的微风",
     null
   ],
   "skillId": 26,

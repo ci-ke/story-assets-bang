@@ -45,7 +45,7 @@
           "悔しかったと笑って",
           null,
           "笑著說出「好不甘心」",
-          null,
+          "笑着说很不甘心",
           null
         ],
         "characterId": 18
@@ -94,7 +94,7 @@
           "明日の私に胸を張る",
           null,
           "對明天的自己昂首挺胸",
-          null,
+          "对明天的我挺起胸膛",
           null
         ],
         "characterId": 18
@@ -106,28 +106,28 @@
     "……いい公演だったわね",
     "....That was a good show",
     "……是一場很精彩的演出呢",
-    null,
+    "……真是一场精彩的演出呢",
     null
   ],
   "prefix": [
     "落としたもの",
     "What I Left",
     "遺落之物",
-    null,
+    "遗落之物",
     null
   ],
   "releasedAt": [
     "1775800800000",
     null,
     "1789196400000",
-    null,
+    "1792990800000",
     null
   ],
   "skillName": [
     "夢の証明",
     "Proof of Our Dreams",
     "夢想的證明",
-    null,
+    "梦想的证明",
     null
   ],
   "skillId": 71,

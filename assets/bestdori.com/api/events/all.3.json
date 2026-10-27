@@ -8481,7 +8481,7 @@
       "黎明のスタン・バイ",
       "Standby at Daybreak ",
       "黎明 Stand By",
-      null,
+      "黎明的Stand By",
       null
     ],
     "assetBundleName": "kaochisa_reimei",
@@ -8490,14 +8490,14 @@
       "1775800800000",
       null,
       "1789282800000",
-      null,
+      "1792990800000",
       null
     ],
     "endAt": [
       "1776513599000",
       null,
       "1789909199000",
-      null,
+      "1793717999000",
       null
     ]
   },

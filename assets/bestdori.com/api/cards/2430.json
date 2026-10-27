@@ -45,7 +45,7 @@
           "お疲れさまと笑って",
           null,
           "笑著說聲辛苦了",
-          null,
+          "笑着说辛苦了",
           null
         ],
         "characterId": 12
@@ -94,7 +94,7 @@
           "明日の私を駆け抜ける",
           null,
           "穿越明天的自己",
-          null,
+          "奔跑穿越明天的我",
           null
         ],
         "characterId": 12
@@ -106,28 +106,28 @@
     "『それこそが我々の――\n僕の、革命なんだ！』",
     "\"This is our... no, my revolution!\" ",
     "「那正是我們的――\n我的，革命！」",
-    null,
+    "『那正是我们——\n也是我的，革命！』",
     null
   ],
   "prefix": [
     "一度きりの革命",
     "Our Once-in-a-Lifetime Revolution",
     "僅此一次的革命",
-    null,
+    "仅此一次的革命",
     null
   ],
   "releasedAt": [
     "1775800800000",
     null,
     "1789196400000",
-    null,
+    "1792990800000",
     null
   ],
   "skillName": [
     "儚くも熱き焔",
     "A Fleeting yet Shearing Flame",
     "虛幻卻熾熱的火焰",
-    null,
+    "梦幻而炽热的火焰",
     null
   ],
   "skillId": 67,
