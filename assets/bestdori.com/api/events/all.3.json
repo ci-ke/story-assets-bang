@@ -8375,7 +8375,7 @@
     "eventType": "medley",
     "eventName": [
       "千の言葉でも足りないくらい",
-      "A Thousand Words, Yet Not Enough",
+      "More Than a Thousand Words",
       "就連千言萬語也遠遠不夠",
       "纵使千言万语亦不足以表达",
       null
@@ -8384,14 +8384,14 @@
     "bannerAssetBundleName": "banner_event323",
     "startAt": [
       "1772172000000",
-      null,
+      "1793667600000",
       "1786172400000",
       "1789362000000",
       null
     ],
     "endAt": [
       "1772711999000",
-      null,
+      "1794207599000",
       "1786712399000",
       "1789916399000",
       null
@@ -8636,7 +8636,7 @@
     "eventName": [
       "ディープ・ローズ・ホライズン",
       "Deep Rose Horizon",
-      null,
+      "深邃・玫瑰・地平線",
       null,
       null
     ],
@@ -8645,14 +8645,14 @@
     "startAt": [
       "1781071200000",
       null,
-      null,
+      "1793602800000",
       null,
       null
     ],
     "endAt": [
       "1781870399000",
       null,
-      null,
+      "1794229199000",
       null,
       null
     ]
@@ -8989,6 +8989,32 @@
     ],
     "endAt": [
       "1793275199000",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "347": {
+    "eventType": "challenge",
+    "eventName": [
+      "みんなの笑顔をかき混ぜて",
+      null,
+      null,
+      null,
+      null
+    ],
+    "assetBundleName": "minnano_egao",
+    "bannerAssetBundleName": "banner_event347",
+    "startAt": [
+      "1793426400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "endAt": [
+      "1794139199000",
       null,
       null,
       null,

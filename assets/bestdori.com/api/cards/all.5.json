@@ -109208,7 +109208,7 @@
     ],
     "releasedAt": [
       "1772172000000",
-      null,
+      "1793667600000",
       "1786086000000",
       "1789362000000",
       null
@@ -109254,14 +109254,14 @@
     "resourceSetName": "res017085",
     "prefix": [
       "るんっ♪とする歌詞",
-      "Boppin♪ Lyrics",
+      "Lyrics That Get You Boppin'♪",
       "令人雀躍♪的歌詞",
       "让人感到噜♪的歌词",
       null
     ],
     "releasedAt": [
       "1772172000000",
-      null,
+      "1793667600000",
       "1786086000000",
       "1789362000000",
       null
@@ -109307,14 +109307,14 @@
     "resourceSetName": "res016097",
     "prefix": [
       "胸に響くもの",
-      "Stirring Within My Heart",
+      "Something That Resonates",
       "響徹胸懷之物",
       "触动心弦之物",
       null
     ],
     "releasedAt": [
       "1772172000000",
-      null,
+      "1793667600000",
       "1786086000000",
       "1789362000000",
       null
@@ -109348,14 +109348,14 @@
     "resourceSetName": "res019081",
     "prefix": [
       "魅惑のお団子",
-      "Spellbinding Dumplings",
+      "Enchanting Dango",
       "魅惑的糰子",
       "魅惑的团子",
       null
     ],
     "releasedAt": [
       "1772172000000",
-      null,
+      "1793667600000",
       "1786086000000",
       "1789362000000",
       null
@@ -109383,14 +109383,14 @@
     "resourceSetName": "res020086",
     "prefix": [
       "言葉を探して",
-      "In Search of the Words",
+      "In Search of Words",
       "尋找話語",
       "寻觅话语",
       null
     ],
     "releasedAt": [
       "1772172000000",
-      null,
+      "1793667600000",
       "1786086000000",
       "1789362000000",
       null
@@ -112141,14 +112141,14 @@
     "prefix": [
       "今の私たちの音楽",
       null,
-      null,
+      "現在我們的音樂",
       null,
       null
     ],
     "releasedAt": [
       "1781071200000",
       null,
-      null,
+      "1793516400000",
       null,
       null
     ],
@@ -112194,14 +112194,14 @@
     "prefix": [
       "今の私たちの距離",
       null,
-      null,
+      "現在我們的距離",
       null,
       null
     ],
     "releasedAt": [
       "1781071200000",
       null,
-      null,
+      "1793516400000",
       null,
       null
     ],
@@ -112247,14 +112247,14 @@
     "prefix": [
       "最高のセトリを！",
       null,
-      null,
+      "最棒的歌單！",
       null,
       null
     ],
     "releasedAt": [
       "1781071200000",
       null,
-      null,
+      "1793516400000",
       null,
       null
     ],
@@ -112288,14 +112288,14 @@
     "prefix": [
       "ピュア・ノーブル",
       null,
-      null,
+      "純粹・高貴",
       null,
       null
     ],
     "releasedAt": [
       "1781071200000",
       null,
-      null,
+      "1793516400000",
       null,
       null
     ],
@@ -112323,14 +112323,14 @@
     "prefix": [
       "約束の場所",
       null,
-      null,
+      "約定的場所",
       null,
       null
     ],
     "releasedAt": [
       "1781071200000",
       null,
-      null,
+      "1793516400000",
       null,
       null
     ],
@@ -115825,6 +115825,347 @@
         "performance": 11565,
         "technique": 9131,
         "visual": 9639
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2547": {
+    "characterId": 2,
+    "rarity": 5,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res002084",
+    "prefix": [
+      "レッツカチャーシー！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793426400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 82,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 3196,
+        "technique": 4054,
+        "visual": 3546
+      },
+      "60": {
+        "performance": 9524,
+        "technique": 12083,
+        "visual": 10566
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2548": {
+    "characterId": 15,
+    "rarity": 5,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res015091",
+    "prefix": [
+      "あたたかさを感じて",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793426400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 73,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 3641,
+        "technique": 4085,
+        "visual": 3069
+      },
+      "60": {
+        "performance": 10859,
+        "technique": 12173,
+        "visual": 9146
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2549": {
+    "characterId": 1,
+    "rarity": 3,
+    "attribute": "happy",
+    "levelLimit": 40,
+    "resourceSetName": "res001102",
+    "prefix": [
+      "シーサーだぞ！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793426400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 9,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 3773,
+        "technique": 2910,
+        "visual": 3114
+      },
+      "50": {
+        "performance": 11242,
+        "technique": 8673,
+        "visual": 9280
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2550": {
+    "characterId": 13,
+    "rarity": 2,
+    "attribute": "powerful",
+    "levelLimit": 30,
+    "resourceSetName": "res013088",
+    "prefix": [
+      "アイスと君と",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793426400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 23,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 2067,
+        "technique": 1910,
+        "visual": 2433
+      },
+      "30": {
+        "performance": 5188,
+        "technique": 4793,
+        "visual": 6108
+      }
+    }
+  },
+  "2551": {
+    "characterId": 20,
+    "rarity": 4,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res020090",
+    "prefix": [
+      "気分は大冒険！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793426400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 61,
+    "type": "permanent",
+    "stat": {
+      "1": {
+        "performance": 3941,
+        "technique": 3266,
+        "visual": 2974
+      },
+      "60": {
+        "performance": 11746,
+        "technique": 9733,
+        "visual": 8863
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2552": {
+    "characterId": 10,
+    "rarity": 5,
+    "attribute": "happy",
+    "levelLimit": 50,
+    "resourceSetName": "res010088",
+    "prefix": [
+      "極上、楽園気分",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793426400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 83,
+    "type": "dreamfes",
+    "stat": {
+      "1": {
+        "performance": 3450,
+        "technique": 3186,
+        "visual": 4075
+      },
+      "60": {
+        "performance": 10281,
+        "technique": 9493,
+        "visual": 12144
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2553": {
+    "characterId": 26,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 50,
+    "resourceSetName": "res026057",
+    "prefix": [
+      "未知へと踏み出して",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793426400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 83,
+    "type": "dreamfes",
+    "stat": {
+      "1": {
+        "performance": 3196,
+        "technique": 4064,
+        "visual": 3450
+      },
+      "60": {
+        "performance": 9524,
+        "technique": 12112,
+        "visual": 10281
       },
       "episodes": [
         {

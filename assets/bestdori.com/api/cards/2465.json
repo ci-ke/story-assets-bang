@@ -44,7 +44,7 @@
         "title": [
           "るんっ♪  と咲き誇る",
           null,
-          null,
+          "嚕♪地盛放",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "不思議なステージ",
           null,
-          null,
+          "不可思議的Stage",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "……Roseliaらしい、\n『るんっ♪』……",
     null,
-    null,
+    "……很有Roselia風格的\n『嚕♪」……",
     null,
     null
   ],
   "prefix": [
     "今の私たちの距離",
     null,
-    null,
+    "現在我們的距離",
     null,
     null
   ],
   "releasedAt": [
     "1781071200000",
     null,
-    null,
+    "1793516400000",
     null,
     null
   ],
   "skillName": [
     "気高く",
     null,
-    null,
+    "高潔",
     null,
     null
   ],

@@ -1,0 +1,192 @@
+{
+  "characterId": 13,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res013088",
+  "sdResourceName": "sd013088",
+  "costumeId": 2469,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "アイスと君と",
+    null,
+    null,
+    null,
+    null
+  ],
+  "releasedAt": [
+    "1793426400000",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillName": [
+    "昼下がりのおやつ",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2067,
+      "technique": 1910,
+      "visual": 2433
+    },
+    "2": {
+      "performance": 2123,
+      "technique": 1961,
+      "visual": 2499
+    },
+    "3": {
+      "performance": 2182,
+      "technique": 2016,
+      "visual": 2569
+    },
+    "4": {
+      "performance": 2245,
+      "technique": 2074,
+      "visual": 2643
+    },
+    "5": {
+      "performance": 2312,
+      "technique": 2136,
+      "visual": 2722
+    },
+    "6": {
+      "performance": 2383,
+      "technique": 2201,
+      "visual": 2805
+    },
+    "7": {
+      "performance": 2457,
+      "technique": 2270,
+      "visual": 2892
+    },
+    "8": {
+      "performance": 2535,
+      "technique": 2342,
+      "visual": 2984
+    },
+    "9": {
+      "performance": 2617,
+      "technique": 2417,
+      "visual": 3080
+    },
+    "10": {
+      "performance": 2702,
+      "technique": 2496,
+      "visual": 3181
+    },
+    "11": {
+      "performance": 2791,
+      "technique": 2578,
+      "visual": 3286
+    },
+    "12": {
+      "performance": 2884,
+      "technique": 2664,
+      "visual": 3395
+    },
+    "13": {
+      "performance": 2980,
+      "technique": 2753,
+      "visual": 3509
+    },
+    "14": {
+      "performance": 3080,
+      "technique": 2846,
+      "visual": 3627
+    },
+    "15": {
+      "performance": 3184,
+      "technique": 2942,
+      "visual": 3749
+    },
+    "16": {
+      "performance": 3292,
+      "technique": 3041,
+      "visual": 3876
+    },
+    "17": {
+      "performance": 3403,
+      "technique": 3144,
+      "visual": 4007
+    },
+    "18": {
+      "performance": 3518,
+      "technique": 3250,
+      "visual": 4142
+    },
+    "19": {
+      "performance": 3637,
+      "technique": 3360,
+      "visual": 4282
+    },
+    "20": {
+      "performance": 3759,
+      "technique": 3473,
+      "visual": 4426
+    },
+    "21": {
+      "performance": 3885,
+      "technique": 3590,
+      "visual": 4575
+    },
+    "22": {
+      "performance": 4015,
+      "technique": 3710,
+      "visual": 4728
+    },
+    "23": {
+      "performance": 4149,
+      "technique": 3833,
+      "visual": 4885
+    },
+    "24": {
+      "performance": 4286,
+      "technique": 3960,
+      "visual": 5047
+    },
+    "25": {
+      "performance": 4427,
+      "technique": 4090,
+      "visual": 5213
+    },
+    "26": {
+      "performance": 4572,
+      "technique": 4224,
+      "visual": 5383
+    },
+    "27": {
+      "performance": 4720,
+      "technique": 4361,
+      "visual": 5558
+    },
+    "28": {
+      "performance": 4872,
+      "technique": 4502,
+      "visual": 5737
+    },
+    "29": {
+      "performance": 5028,
+      "technique": 4646,
+      "visual": 5920
+    },
+    "30": {
+      "performance": 5188,
+      "technique": 4793,
+      "visual": 6108
+    }
+  }
+}

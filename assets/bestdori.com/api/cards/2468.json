@@ -44,7 +44,7 @@
         "title": [
           "アタシだけが見れる顔",
           null,
-          null,
+          "只有我能看見的表情",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "輝く未来で会いましょう",
           null,
-          null,
+          "在閃耀的未來相見吧",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "……楽しかったーー！",
     null,
-    null,
+    "……真開心——！",
     null,
     null
   ],
   "prefix": [
     "約束の場所",
     null,
-    null,
+    "約定的場所",
     null,
     null
   ],
   "releasedAt": [
     "1781071200000",
     null,
-    null,
+    "1793516400000",
     null,
     null
   ],
   "skillName": [
     "凛々しく",
     null,
-    null,
+    "凜然",
     null,
     null
   ],

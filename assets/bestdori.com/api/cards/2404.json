@@ -43,7 +43,7 @@
         },
         "title": [
           "作詞にまつわる物語",
-          null,
+          "A Tale of Writing Lyrics",
           "與作詞相關的故事",
           "与作词相关的故事",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "これも『with』",
-          null,
+          "This, Too, Is \"with\"",
           "這也是『with』",
           "这也是『与粉丝们在一起』",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2323,
   "gachaText": [
     "じゃあ、これで決まりだね♪",
-    null,
+    "Then it's settled♪",
     "那就這麼決定囉♪",
     "那就这么决定啦♪",
     null
   ],
   "prefix": [
     "るんっ♪とする歌詞",
-    "Boppin♪ Lyrics",
+    "Lyrics That Get You Boppin'♪",
     "令人雀躍♪的歌詞",
     "让人感到噜♪的歌词",
     null
   ],
   "releasedAt": [
     "1772172000000",
-    null,
+    "1793667600000",
     "1786086000000",
     "1789362000000",
     null
   ],
   "skillName": [
     "自由気ままに紡いで",
-    null,
+    "Weaving Words Freely",
     "自由自在地編織",
     "随心所欲地编织",
     null

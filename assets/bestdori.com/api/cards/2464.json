@@ -44,7 +44,7 @@
         "title": [
           "らしさ",
           null,
-          null,
+          "本色",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "あの日の続き",
           null,
-          null,
+          "那天的後續",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "（みんなに見せるわ――\nこれが、Roseliaだと……！）",
     null,
-    null,
+    "（我要讓大家見識一下——\n這就是Roselia……！）",
     null,
     null
   ],
   "prefix": [
     "今の私たちの音楽",
     null,
-    null,
+    "現在我們的音樂",
     null,
     null
   ],
   "releasedAt": [
     "1781071200000",
     null,
-    null,
+    "1793516400000",
     null,
     null
   ],
   "skillName": [
     "誇り高く",
     null,
-    null,
+    "高傲",
     null,
     null
   ],
