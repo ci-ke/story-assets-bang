@@ -45,7 +45,7 @@
           "ノートを買い足すぐらい",
           null,
           "筆記本多到還得再買",
-          null,
+          "差不多该再买本笔记本了",
           null
         ],
         "characterId": 7
@@ -94,7 +94,7 @@
           "さり気なくメラって",
           null,
           "不經意地燃起鬥志",
-          null,
+          "不经意间燃起斗志",
           null
         ],
         "characterId": 7
@@ -106,28 +106,28 @@
     "美竹くん、もっと真剣に\n考えたまえよ～",
     "Mitake-kun, you must consider this seriously~",
     "美竹同學，再認真一點\n思考吧～",
-    null,
+    "美竹同学，\n再认真考虑一下嘛~",
     null
   ],
   "prefix": [
     "真剣なダメ出し？",
     "A Legitimate Critique?",
     "認真的指正？",
-    null,
+    "认真的指正？",
     null
   ],
   "releasedAt": [
     "1776664800000",
     null,
     "1789974000000",
-    null,
+    "1793854800000",
     null
   ],
   "skillName": [
     "一肌脱ぎますか～",
     "Shall I Assist~",
     "要不要幫個忙呢～",
-    null,
+    "那就搭把手吧~",
     null
   ],
   "skillId": 18,

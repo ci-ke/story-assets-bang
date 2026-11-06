@@ -45,7 +45,7 @@
           "飛んで火にいる",
           null,
           "飛蛾撲火",
-          null,
+          "飞蛾扑火",
           null
         ],
         "characterId": 6
@@ -94,7 +94,7 @@
           "それぞれの『らしさ』",
           null,
           "各自的『風格』",
-          null,
+          "各自的『本色』",
           null
         ],
         "characterId": 6
@@ -106,28 +106,28 @@
     "なんか、ひまりって\nやっぱりリーダーだね",
     "In the end, Himari really is our leader, huh?",
     "總覺得，緋瑪麗\n果然很有隊長的樣子呢",
-    null,
+    "总觉得，绯玛丽\n不愧是队长呢",
     null
   ],
   "prefix": [
     "小指を交わして",
     "Our Pinkies, Intertwined",
     "勾起小指",
-    null,
+    "勾指起誓",
     null
   ],
   "releasedAt": [
     "1776664800000",
     null,
     "1789974000000",
-    null,
+    "1793854800000",
     null
   ],
   "skillName": [
     "温かな小指",
     "Warm Little Fingers",
     "溫暖的小指",
-    null,
+    "温暖的小指",
     null
   ],
   "skillId": 71,
