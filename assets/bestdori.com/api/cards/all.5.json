@@ -115035,6 +115035,88 @@
       }
     }
   },
+  "2525": {
+    "characterId": 21,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 60,
+    "resourceSetName": "res021089",
+    "prefix": [
+      "惑う現身",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793944800000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 71,
+    "type": "limited",
+    "stat": {
+      "1": {
+        "performance": 4478,
+        "technique": 5367,
+        "visual": 4595
+      },
+      "60": {
+        "performance": 10873,
+        "technique": 13520,
+        "visual": 11218
+      },
+      "training": {
+        "levelLimit": 0,
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      }
+    }
+  },
+  "2526": {
+    "characterId": 22,
+    "rarity": 5,
+    "attribute": "powerful",
+    "levelLimit": 60,
+    "resourceSetName": "res022088",
+    "prefix": [
+      "糾弾する正義",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1793944800000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 86,
+    "type": "limited",
+    "stat": {
+      "1": {
+        "performance": 4319,
+        "technique": 4743,
+        "visual": 5378
+      },
+      "60": {
+        "performance": 10396,
+        "technique": 11658,
+        "visual": 13550
+      },
+      "training": {
+        "levelLimit": 0,
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      }
+    }
+  },
   "2530": {
     "characterId": 18,
     "rarity": 5,

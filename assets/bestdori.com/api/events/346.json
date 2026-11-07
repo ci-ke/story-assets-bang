@@ -68,7 +68,7 @@
     null
   ],
   "exchangeEndAt": [
-    null,
+    "1794139199000",
     null,
     null,
     null,
@@ -77,614 +77,404 @@
   "pointRewards": [
     [
       {
-        "id": 21989,
-        "eventId": 346,
         "point": "1000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 21990,
-        "eventId": 346,
         "point": "2000",
         "rewardType": "coin",
-        "rewardQuantity": 3000,
-        "recommendFlg": false
+        "rewardQuantity": 3000
       },
       {
-        "id": 21991,
-        "eventId": 346,
         "point": "3000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 21992,
-        "eventId": 346,
         "point": "4000",
         "rewardType": "item",
         "rewardId": 3,
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 21993,
-        "eventId": 346,
         "point": "5000",
         "rewardType": "coin",
-        "rewardQuantity": 3000,
-        "recommendFlg": false
+        "rewardQuantity": 3000
       },
       {
-        "id": 21994,
-        "eventId": 346,
         "point": "6500",
         "rewardType": "item",
         "rewardId": 7,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 21995,
-        "eventId": 346,
         "point": "8000",
         "rewardType": "practice_ticket",
         "rewardId": 5,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 21996,
-        "eventId": 346,
         "point": "10000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 21997,
-        "eventId": 346,
         "point": "12000",
         "rewardType": "item",
         "rewardId": 11,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 21998,
-        "eventId": 346,
         "point": "15000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 21999,
-        "eventId": 346,
         "point": "18000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22000,
-        "eventId": 346,
         "point": "21000",
         "rewardType": "practice_ticket",
         "rewardId": 5,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 22001,
-        "eventId": 346,
         "point": "24000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22002,
-        "eventId": 346,
         "point": "27000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22003,
-        "eventId": 346,
         "point": "30000",
         "rewardType": "situation",
         "rewardId": 2545,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22004,
-        "eventId": 346,
         "point": "35000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22005,
-        "eventId": 346,
         "point": "40000",
         "rewardType": "coin",
-        "rewardQuantity": 5000,
-        "recommendFlg": false
+        "rewardQuantity": 5000
       },
       {
-        "id": 22006,
-        "eventId": 346,
         "point": "45000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22007,
-        "eventId": 346,
         "point": "50000",
         "rewardType": "stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22008,
-        "eventId": 346,
         "point": "55000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22009,
-        "eventId": 346,
         "point": "60000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22010,
-        "eventId": 346,
         "point": "65000",
         "rewardType": "coin",
-        "rewardQuantity": 10000,
-        "recommendFlg": false
+        "rewardQuantity": 10000
       },
       {
-        "id": 22011,
-        "eventId": 346,
         "point": "70000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22012,
-        "eventId": 346,
         "point": "75000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 22013,
-        "eventId": 346,
         "point": "80000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 22014,
-        "eventId": 346,
         "point": "85000",
         "rewardType": "item",
         "rewardId": 3,
-        "rewardQuantity": 400,
-        "recommendFlg": false
+        "rewardQuantity": 400
       },
       {
-        "id": 22015,
-        "eventId": 346,
         "point": "90000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22016,
-        "eventId": 346,
         "point": "100000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 22017,
-        "eventId": 346,
         "point": "110000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22018,
-        "eventId": 346,
         "point": "120000",
         "rewardType": "item",
         "rewardId": 7,
-        "rewardQuantity": 150,
-        "recommendFlg": false
+        "rewardQuantity": 150
       },
       {
-        "id": 22019,
-        "eventId": 346,
         "point": "130000",
         "rewardType": "coin",
-        "rewardQuantity": 30000,
-        "recommendFlg": false
+        "rewardQuantity": 30000
       },
       {
-        "id": 22020,
-        "eventId": 346,
         "point": "140000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 22021,
-        "eventId": 346,
         "point": "150000",
         "rewardType": "situation",
         "rewardId": 2544,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22022,
-        "eventId": 346,
         "point": "160000",
         "rewardType": "practice_ticket",
         "rewardId": 2,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22023,
-        "eventId": 346,
         "point": "170000",
         "rewardType": "item",
         "rewardId": 11,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22024,
-        "eventId": 346,
         "point": "180000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 22025,
-        "eventId": 346,
         "point": "190000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22026,
-        "eventId": 346,
         "point": "200000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 22027,
-        "eventId": 346,
         "point": "210000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22028,
-        "eventId": 346,
         "point": "220000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22029,
-        "eventId": 346,
         "point": "230000",
         "rewardType": "practice_ticket",
         "rewardId": 6,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 22030,
-        "eventId": 346,
         "point": "240000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22031,
-        "eventId": 346,
         "point": "250000",
         "rewardType": "practice_ticket",
         "rewardId": 18,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22032,
-        "eventId": 346,
         "point": "260000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22033,
-        "eventId": 346,
         "point": "270000",
         "rewardType": "item",
         "rewardId": 3,
-        "rewardQuantity": 400,
-        "recommendFlg": false
+        "rewardQuantity": 400
       },
       {
-        "id": 22034,
-        "eventId": 346,
         "point": "280000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22035,
-        "eventId": 346,
         "point": "290000",
         "rewardType": "item",
         "rewardId": 7,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 22036,
-        "eventId": 346,
         "point": "300000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22037,
-        "eventId": 346,
         "point": "310000",
         "rewardType": "item",
         "rewardId": 11,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22038,
-        "eventId": 346,
         "point": "320000",
         "rewardType": "practice_ticket",
         "rewardId": 3,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 22039,
-        "eventId": 346,
         "point": "330000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22040,
-        "eventId": 346,
         "point": "340000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22041,
-        "eventId": 346,
         "point": "350000",
         "rewardType": "coin",
-        "rewardQuantity": 50000,
-        "recommendFlg": false
+        "rewardQuantity": 50000
       },
       {
-        "id": 22042,
-        "eventId": 346,
         "point": "360000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22043,
-        "eventId": 346,
         "point": "370000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22044,
-        "eventId": 346,
         "point": "380000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 22045,
-        "eventId": 346,
         "point": "390000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22046,
-        "eventId": 346,
         "point": "400000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 22047,
-        "eventId": 346,
         "point": "420000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22048,
-        "eventId": 346,
         "point": "450000",
         "rewardType": "coin",
-        "rewardQuantity": 100000,
-        "recommendFlg": false
+        "rewardQuantity": 100000
       },
       {
-        "id": 22049,
-        "eventId": 346,
         "point": "500000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 22050,
-        "eventId": 346,
         "point": "550000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 22051,
-        "eventId": 346,
         "point": "625000",
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 22052,
-        "eventId": 346,
         "point": "750000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       },
       {
-        "id": 22053,
-        "eventId": 346,
         "point": "875000",
         "rewardType": "coin",
-        "rewardQuantity": 100000,
-        "recommendFlg": false
+        "rewardQuantity": 100000
       },
       {
-        "id": 22054,
-        "eventId": 346,
         "point": "1000000",
         "rewardType": "item",
         "rewardId": 11,
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 22055,
-        "eventId": 346,
         "point": "1125000",
         "rewardType": "costume_3d_making_item",
         "rewardId": 1,
-        "rewardQuantity": 20,
-        "recommendFlg": false
+        "rewardQuantity": 20
       },
       {
-        "id": 22056,
-        "eventId": 346,
         "point": "1250000",
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 22057,
-        "eventId": 346,
         "point": "1375000",
         "rewardType": "item",
         "rewardId": 14,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 22058,
-        "eventId": 346,
         "point": "1500000",
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       }
     ],
     null,
@@ -695,1486 +485,1033 @@
   "rankingRewards": [
     [
       {
-        "id": 37113,
-        "eventId": 346,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "degree",
         "rewardId": 10204,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37114,
-        "eventId": 346,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37115,
-        "eventId": 346,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37116,
-        "eventId": 346,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37117,
-        "eventId": 346,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37118,
-        "eventId": 346,
         "fromRank": 1,
         "toRank": 1,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37119,
-        "eventId": 346,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "degree",
         "rewardId": 10205,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37120,
-        "eventId": 346,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37121,
-        "eventId": 346,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37122,
-        "eventId": 346,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37123,
-        "eventId": 346,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37124,
-        "eventId": 346,
         "fromRank": 2,
         "toRank": 2,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37125,
-        "eventId": 346,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "degree",
         "rewardId": 10206,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37126,
-        "eventId": 346,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37127,
-        "eventId": 346,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37128,
-        "eventId": 346,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37129,
-        "eventId": 346,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37130,
-        "eventId": 346,
         "fromRank": 3,
         "toRank": 3,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37131,
-        "eventId": 346,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "degree",
         "rewardId": 10207,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37132,
-        "eventId": 346,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37133,
-        "eventId": 346,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37134,
-        "eventId": 346,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37135,
-        "eventId": 346,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37136,
-        "eventId": 346,
         "fromRank": 4,
         "toRank": 10,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37137,
-        "eventId": 346,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "degree",
         "rewardId": 10208,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37138,
-        "eventId": 346,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37139,
-        "eventId": 346,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37140,
-        "eventId": 346,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37141,
-        "eventId": 346,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37142,
-        "eventId": 346,
         "fromRank": 11,
         "toRank": 20,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37143,
-        "eventId": 346,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "degree",
         "rewardId": 10209,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37144,
-        "eventId": 346,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37145,
-        "eventId": 346,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37146,
-        "eventId": 346,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37147,
-        "eventId": 346,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37148,
-        "eventId": 346,
         "fromRank": 21,
         "toRank": 30,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37149,
-        "eventId": 346,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "degree",
         "rewardId": 10210,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37150,
-        "eventId": 346,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37151,
-        "eventId": 346,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37152,
-        "eventId": 346,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37153,
-        "eventId": 346,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37154,
-        "eventId": 346,
         "fromRank": 31,
         "toRank": 40,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37155,
-        "eventId": 346,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "degree",
         "rewardId": 10211,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37156,
-        "eventId": 346,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37157,
-        "eventId": 346,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37158,
-        "eventId": 346,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37159,
-        "eventId": 346,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37160,
-        "eventId": 346,
         "fromRank": 41,
         "toRank": 50,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37161,
-        "eventId": 346,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "degree",
         "rewardId": 10212,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37162,
-        "eventId": 346,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37163,
-        "eventId": 346,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37164,
-        "eventId": 346,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37165,
-        "eventId": 346,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37166,
-        "eventId": 346,
         "fromRank": 51,
         "toRank": 100,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37167,
-        "eventId": 346,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "degree",
         "rewardId": 10213,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37168,
-        "eventId": 346,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37169,
-        "eventId": 346,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37170,
-        "eventId": 346,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37171,
-        "eventId": 346,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37172,
-        "eventId": 346,
         "fromRank": 101,
         "toRank": 200,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37173,
-        "eventId": 346,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "degree",
         "rewardId": 10214,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37174,
-        "eventId": 346,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37175,
-        "eventId": 346,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37176,
-        "eventId": 346,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37177,
-        "eventId": 346,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37178,
-        "eventId": 346,
         "fromRank": 201,
         "toRank": 300,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37179,
-        "eventId": 346,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "degree",
         "rewardId": 10215,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37180,
-        "eventId": 346,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37181,
-        "eventId": 346,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37182,
-        "eventId": 346,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37183,
-        "eventId": 346,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37184,
-        "eventId": 346,
         "fromRank": 301,
         "toRank": 400,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37185,
-        "eventId": 346,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "degree",
         "rewardId": 10216,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37186,
-        "eventId": 346,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37187,
-        "eventId": 346,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37188,
-        "eventId": 346,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37189,
-        "eventId": 346,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37190,
-        "eventId": 346,
         "fromRank": 401,
         "toRank": 500,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37191,
-        "eventId": 346,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "degree",
         "rewardId": 10217,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37192,
-        "eventId": 346,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "voice_stamp",
         "rewardId": 620,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37193,
-        "eventId": 346,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37194,
-        "eventId": 346,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37195,
-        "eventId": 346,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37196,
-        "eventId": 346,
         "fromRank": 501,
         "toRank": 1000,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37197,
-        "eventId": 346,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "degree",
         "rewardId": 10218,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37198,
-        "eventId": 346,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 10,
-        "recommendFlg": false
+        "rewardQuantity": 10
       },
       {
-        "id": 37199,
-        "eventId": 346,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37200,
-        "eventId": 346,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37201,
-        "eventId": 346,
         "fromRank": 1001,
         "toRank": 2000,
         "rewardType": "star",
-        "rewardQuantity": 500,
-        "recommendFlg": false
+        "rewardQuantity": 500
       },
       {
-        "id": 37202,
-        "eventId": 346,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "degree",
         "rewardId": 10219,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37203,
-        "eventId": 346,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37204,
-        "eventId": 346,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 37205,
-        "eventId": 346,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37206,
-        "eventId": 346,
         "fromRank": 2001,
         "toRank": 3000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 37207,
-        "eventId": 346,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "degree",
         "rewardId": 10220,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37208,
-        "eventId": 346,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37209,
-        "eventId": 346,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 37210,
-        "eventId": 346,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37211,
-        "eventId": 346,
         "fromRank": 3001,
         "toRank": 4000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 37212,
-        "eventId": 346,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "degree",
         "rewardId": 10221,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37213,
-        "eventId": 346,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37214,
-        "eventId": 346,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 37215,
-        "eventId": 346,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37216,
-        "eventId": 346,
         "fromRank": 4001,
         "toRank": 5000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 37217,
-        "eventId": 346,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "degree",
         "rewardId": 10222,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37218,
-        "eventId": 346,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 7,
-        "recommendFlg": false
+        "rewardQuantity": 7
       },
       {
-        "id": 37219,
-        "eventId": 346,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 6,
-        "recommendFlg": false
+        "rewardQuantity": 6
       },
       {
-        "id": 37220,
-        "eventId": 346,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37221,
-        "eventId": 346,
         "fromRank": 5001,
         "toRank": 10000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 37222,
-        "eventId": 346,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "degree",
         "rewardId": 10223,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37223,
-        "eventId": 346,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37224,
-        "eventId": 346,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37225,
-        "eventId": 346,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 37226,
-        "eventId": 346,
         "fromRank": 10001,
         "toRank": 20000,
         "rewardType": "star",
-        "rewardQuantity": 250,
-        "recommendFlg": false
+        "rewardQuantity": 250
       },
       {
-        "id": 37227,
-        "eventId": 346,
         "fromRank": 20001,
         "toRank": 30000,
         "rewardType": "degree",
         "rewardId": 10224,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37228,
-        "eventId": 346,
         "fromRank": 20001,
         "toRank": 30000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37229,
-        "eventId": 346,
         "fromRank": 20001,
         "toRank": 30000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37230,
-        "eventId": 346,
         "fromRank": 20001,
         "toRank": 30000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 37231,
-        "eventId": 346,
         "fromRank": 20001,
         "toRank": 30000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 37232,
-        "eventId": 346,
         "fromRank": 30001,
         "toRank": 40000,
         "rewardType": "degree",
         "rewardId": 10225,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37233,
-        "eventId": 346,
         "fromRank": 30001,
         "toRank": 40000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37234,
-        "eventId": 346,
         "fromRank": 30001,
         "toRank": 40000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37235,
-        "eventId": 346,
         "fromRank": 30001,
         "toRank": 40000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 37236,
-        "eventId": 346,
         "fromRank": 30001,
         "toRank": 40000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 37237,
-        "eventId": 346,
         "fromRank": 40001,
         "toRank": 50000,
         "rewardType": "degree",
         "rewardId": 10226,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37238,
-        "eventId": 346,
         "fromRank": 40001,
         "toRank": 50000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37239,
-        "eventId": 346,
         "fromRank": 40001,
         "toRank": 50000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 4,
-        "recommendFlg": false
+        "rewardQuantity": 4
       },
       {
-        "id": 37240,
-        "eventId": 346,
         "fromRank": 40001,
         "toRank": 50000,
         "rewardType": "practice_ticket",
         "rewardId": 8,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 37241,
-        "eventId": 346,
         "fromRank": 40001,
         "toRank": 50000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 37242,
-        "eventId": 346,
         "fromRank": 50001,
         "toRank": 70000,
         "rewardType": "degree",
         "rewardId": 10227,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37243,
-        "eventId": 346,
         "fromRank": 50001,
         "toRank": 70000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37244,
-        "eventId": 346,
         "fromRank": 50001,
         "toRank": 70000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37245,
-        "eventId": 346,
         "fromRank": 50001,
         "toRank": 70000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 5,
-        "recommendFlg": false
+        "rewardQuantity": 5
       },
       {
-        "id": 37246,
-        "eventId": 346,
         "fromRank": 50001,
         "toRank": 70000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 37247,
-        "eventId": 346,
         "fromRank": 70001,
         "toRank": 100000,
         "rewardType": "degree",
         "rewardId": 10228,
-        "rewardQuantity": 1,
-        "recommendFlg": true
+        "rewardQuantity": 1
       },
       {
-        "id": 37248,
-        "eventId": 346,
         "fromRank": 70001,
         "toRank": 100000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37249,
-        "eventId": 346,
         "fromRank": 70001,
         "toRank": 100000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37250,
-        "eventId": 346,
         "fromRank": 70001,
         "toRank": 100000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37251,
-        "eventId": 346,
         "fromRank": 70001,
         "toRank": 100000,
         "rewardType": "star",
-        "rewardQuantity": 200,
-        "recommendFlg": false
+        "rewardQuantity": 200
       },
       {
-        "id": 37252,
-        "eventId": 346,
         "fromRank": 100001,
         "toRank": 300000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 37253,
-        "eventId": 346,
         "fromRank": 100001,
         "toRank": 300000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 37254,
-        "eventId": 346,
         "fromRank": 100001,
         "toRank": 300000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 3,
-        "recommendFlg": false
+        "rewardQuantity": 3
       },
       {
-        "id": 37255,
-        "eventId": 346,
         "fromRank": 100001,
         "toRank": 300000,
         "rewardType": "star",
-        "rewardQuantity": 150,
-        "recommendFlg": false
+        "rewardQuantity": 150
       },
       {
-        "id": 37256,
-        "eventId": 346,
         "fromRank": 300001,
         "toRank": 500000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 37257,
-        "eventId": 346,
         "fromRank": 300001,
         "toRank": 500000,
         "rewardType": "practice_ticket",
         "rewardId": 4,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 37258,
-        "eventId": 346,
         "fromRank": 300001,
         "toRank": 500000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 2,
-        "recommendFlg": false
+        "rewardQuantity": 2
       },
       {
-        "id": 37259,
-        "eventId": 346,
         "fromRank": 300001,
         "toRank": 500000,
         "rewardType": "star",
-        "rewardQuantity": 100,
-        "recommendFlg": false
+        "rewardQuantity": 100
       },
       {
-        "id": 37260,
-        "eventId": 346,
         "fromRank": 500001,
         "toRank": 1000000,
         "rewardType": "item",
         "rewardId": 15,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 37261,
-        "eventId": 346,
         "fromRank": 500001,
         "toRank": 1000000,
         "rewardType": "practice_ticket",
         "rewardId": 3,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 37262,
-        "eventId": 346,
         "fromRank": 500001,
         "toRank": 1000000,
         "rewardType": "practice_ticket",
         "rewardId": 7,
-        "rewardQuantity": 1,
-        "recommendFlg": false
+        "rewardQuantity": 1
       },
       {
-        "id": 37263,
-        "eventId": 346,
         "fromRank": 500001,
         "toRank": 1000000,
         "rewardType": "star",
-        "rewardQuantity": 50,
-        "recommendFlg": false
+        "rewardQuantity": 50
       }
     ],
     null,
@@ -2184,45 +1521,33 @@
   ],
   "attributes": [
     {
-      "eventId": 346,
       "attribute": "powerful",
       "percent": 10
     }
   ],
   "characters": [
     {
-      "eventId": 346,
       "characterId": 6,
-      "percent": 20,
-      "seq": 5
+      "percent": 20
     },
     {
-      "eventId": 346,
       "characterId": 7,
-      "percent": 20,
-      "seq": 4
+      "percent": 20
     },
     {
-      "eventId": 346,
       "characterId": 8,
-      "percent": 20,
-      "seq": 1
+      "percent": 20
     },
     {
-      "eventId": 346,
       "characterId": 9,
-      "percent": 20,
-      "seq": 2
+      "percent": 20
     },
     {
-      "eventId": 346,
       "characterId": 10,
-      "percent": 20,
-      "seq": 3
+      "percent": 20
     }
   ],
   "eventAttributeAndCharacterBonus": {
-    "eventId": 346,
     "pointPercent": 20,
     "parameterPercent": 0
   },
@@ -2381,17 +1706,11 @@
       "releasePt": "0",
       "rewards": [
         {
-          "id": 5198,
-          "eventId": 346,
-          "seq": 0,
           "rewardType": "item",
           "rewardId": 13,
           "rewardQuantity": 1
         },
         {
-          "id": 5199,
-          "eventId": 346,
-          "seq": 0,
           "rewardType": "star",
           "rewardQuantity": 50
         }
@@ -2432,17 +1751,11 @@
       "releasePt": "3000",
       "rewards": [
         {
-          "id": 5200,
-          "eventId": 346,
-          "seq": 1,
           "rewardType": "item",
           "rewardId": 13,
           "rewardQuantity": 1
         },
         {
-          "id": 5201,
-          "eventId": 346,
-          "seq": 1,
           "rewardType": "star",
           "rewardQuantity": 50
         }
@@ -2483,17 +1796,11 @@
       "releasePt": "8000",
       "rewards": [
         {
-          "id": 5202,
-          "eventId": 346,
-          "seq": 2,
           "rewardType": "item",
           "rewardId": 13,
           "rewardQuantity": 1
         },
         {
-          "id": 5203,
-          "eventId": 346,
-          "seq": 2,
           "rewardType": "star",
           "rewardQuantity": 50
         }
@@ -2534,17 +1841,11 @@
       "releasePt": "18000",
       "rewards": [
         {
-          "id": 5204,
-          "eventId": 346,
-          "seq": 3,
           "rewardType": "item",
           "rewardId": 13,
           "rewardQuantity": 1
         },
         {
-          "id": 5205,
-          "eventId": 346,
-          "seq": 3,
           "rewardType": "star",
           "rewardQuantity": 50
         }
@@ -2585,17 +1886,11 @@
       "releasePt": "35000",
       "rewards": [
         {
-          "id": 5206,
-          "eventId": 346,
-          "seq": 4,
           "rewardType": "item",
           "rewardId": 13,
           "rewardQuantity": 1
         },
         {
-          "id": 5207,
-          "eventId": 346,
-          "seq": 4,
           "rewardType": "star",
           "rewardQuantity": 50
         }
@@ -2636,17 +1931,11 @@
       "releasePt": "50000",
       "rewards": [
         {
-          "id": 5208,
-          "eventId": 346,
-          "seq": 5,
           "rewardType": "item",
           "rewardId": 13,
           "rewardQuantity": 1
         },
         {
-          "id": 5209,
-          "eventId": 346,
-          "seq": 5,
           "rewardType": "star",
           "rewardQuantity": 50
         }
@@ -2687,17 +1976,11 @@
       "releasePt": "70000",
       "rewards": [
         {
-          "id": 5210,
-          "eventId": 346,
-          "seq": 6,
           "rewardType": "item",
           "rewardId": 13,
           "rewardQuantity": 1
         },
         {
-          "id": 5211,
-          "eventId": 346,
-          "seq": 6,
           "rewardType": "star",
           "rewardQuantity": 50
         }
@@ -2735,7 +2018,6 @@
   "masterLiveTryMissionMap": {
     "entries": {
       "5956": {
-        "eventId": 346,
         "liveTryMissionId": 5956,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2743,7 +2025,6 @@
         "liveTryMissionDetailId": 5956
       },
       "5957": {
-        "eventId": 346,
         "liveTryMissionId": 5957,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2751,7 +2032,6 @@
         "liveTryMissionDetailId": 5957
       },
       "5958": {
-        "eventId": 346,
         "liveTryMissionId": 5958,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2759,7 +2039,6 @@
         "liveTryMissionDetailId": 5958
       },
       "5959": {
-        "eventId": 346,
         "liveTryMissionId": 5959,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2767,7 +2046,6 @@
         "liveTryMissionDetailId": 5959
       },
       "5960": {
-        "eventId": 346,
         "liveTryMissionId": 5960,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2775,7 +2053,6 @@
         "liveTryMissionDetailId": 5960
       },
       "5961": {
-        "eventId": 346,
         "liveTryMissionId": 5961,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2783,7 +2060,6 @@
         "liveTryMissionDetailId": 5961
       },
       "5962": {
-        "eventId": 346,
         "liveTryMissionId": 5962,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2791,7 +2067,6 @@
         "liveTryMissionDetailId": 5962
       },
       "5963": {
-        "eventId": 346,
         "liveTryMissionId": 5963,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2799,7 +2074,6 @@
         "liveTryMissionDetailId": 5963
       },
       "5964": {
-        "eventId": 346,
         "liveTryMissionId": 5964,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2807,7 +2081,6 @@
         "liveTryMissionDetailId": 5964
       },
       "5965": {
-        "eventId": 346,
         "liveTryMissionId": 5965,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "normal",
@@ -2815,7 +2088,6 @@
         "liveTryMissionDetailId": 5965
       },
       "5966": {
-        "eventId": 346,
         "liveTryMissionId": 5966,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "extra",
@@ -2823,7 +2095,6 @@
         "liveTryMissionDetailId": 5966
       },
       "5967": {
-        "eventId": 346,
         "liveTryMissionId": 5967,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "extra",
@@ -2831,7 +2102,6 @@
         "liveTryMissionDetailId": 5967
       },
       "5968": {
-        "eventId": 346,
         "liveTryMissionId": 5968,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "extra",
@@ -2839,7 +2109,6 @@
         "liveTryMissionDetailId": 5968
       },
       "5969": {
-        "eventId": 346,
         "liveTryMissionId": 5969,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "extra",
@@ -2847,7 +2116,6 @@
         "liveTryMissionDetailId": 5969
       },
       "5970": {
-        "eventId": 346,
         "liveTryMissionId": 5970,
         "liveTryMissionType": "score",
         "liveTryMissionDifficultyType": "extra",
@@ -2855,7 +2123,6 @@
         "liveTryMissionDetailId": 5970
       },
       "5971": {
-        "eventId": 346,
         "liveTryMissionId": 5971,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2863,7 +2130,6 @@
         "liveTryMissionDetailId": 5971
       },
       "5972": {
-        "eventId": 346,
         "liveTryMissionId": 5972,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2871,7 +2137,6 @@
         "liveTryMissionDetailId": 5972
       },
       "5973": {
-        "eventId": 346,
         "liveTryMissionId": 5973,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2879,7 +2144,6 @@
         "liveTryMissionDetailId": 5973
       },
       "5974": {
-        "eventId": 346,
         "liveTryMissionId": 5974,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2887,7 +2151,6 @@
         "liveTryMissionDetailId": 5974
       },
       "5975": {
-        "eventId": 346,
         "liveTryMissionId": 5975,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2895,7 +2158,6 @@
         "liveTryMissionDetailId": 5975
       },
       "5976": {
-        "eventId": 346,
         "liveTryMissionId": 5976,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2903,7 +2165,6 @@
         "liveTryMissionDetailId": 5976
       },
       "5977": {
-        "eventId": 346,
         "liveTryMissionId": 5977,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2911,7 +2172,6 @@
         "liveTryMissionDetailId": 5977
       },
       "5978": {
-        "eventId": 346,
         "liveTryMissionId": 5978,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2919,7 +2179,6 @@
         "liveTryMissionDetailId": 5978
       },
       "5979": {
-        "eventId": 346,
         "liveTryMissionId": 5979,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2927,7 +2186,6 @@
         "liveTryMissionDetailId": 5979
       },
       "5980": {
-        "eventId": 346,
         "liveTryMissionId": 5980,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "normal",
@@ -2935,7 +2193,6 @@
         "liveTryMissionDetailId": 5980
       },
       "5981": {
-        "eventId": 346,
         "liveTryMissionId": 5981,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "extra",
@@ -2943,7 +2200,6 @@
         "liveTryMissionDetailId": 5981
       },
       "5982": {
-        "eventId": 346,
         "liveTryMissionId": 5982,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "extra",
@@ -2951,7 +2207,6 @@
         "liveTryMissionDetailId": 5982
       },
       "5983": {
-        "eventId": 346,
         "liveTryMissionId": 5983,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "extra",
@@ -2959,7 +2214,6 @@
         "liveTryMissionDetailId": 5983
       },
       "5984": {
-        "eventId": 346,
         "liveTryMissionId": 5984,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "extra",
@@ -2967,7 +2221,6 @@
         "liveTryMissionDetailId": 5984
       },
       "5985": {
-        "eventId": 346,
         "liveTryMissionId": 5985,
         "liveTryMissionType": "life",
         "liveTryMissionDifficultyType": "extra",
@@ -2975,7 +2228,6 @@
         "liveTryMissionDetailId": 5985
       },
       "5986": {
-        "eventId": 346,
         "liveTryMissionId": 5986,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -2983,7 +2235,6 @@
         "liveTryMissionDetailId": 5986
       },
       "5987": {
-        "eventId": 346,
         "liveTryMissionId": 5987,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -2991,7 +2242,6 @@
         "liveTryMissionDetailId": 5987
       },
       "5988": {
-        "eventId": 346,
         "liveTryMissionId": 5988,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -2999,7 +2249,6 @@
         "liveTryMissionDetailId": 5988
       },
       "5989": {
-        "eventId": 346,
         "liveTryMissionId": 5989,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -3007,7 +2256,6 @@
         "liveTryMissionDetailId": 5989
       },
       "5990": {
-        "eventId": 346,
         "liveTryMissionId": 5990,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -3015,7 +2263,6 @@
         "liveTryMissionDetailId": 5990
       },
       "5991": {
-        "eventId": 346,
         "liveTryMissionId": 5991,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -3023,7 +2270,6 @@
         "liveTryMissionDetailId": 5991
       },
       "5992": {
-        "eventId": 346,
         "liveTryMissionId": 5992,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -3031,7 +2277,6 @@
         "liveTryMissionDetailId": 5992
       },
       "5993": {
-        "eventId": 346,
         "liveTryMissionId": 5993,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -3039,7 +2284,6 @@
         "liveTryMissionDetailId": 5993
       },
       "5994": {
-        "eventId": 346,
         "liveTryMissionId": 5994,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -3047,7 +2291,6 @@
         "liveTryMissionDetailId": 5994
       },
       "5995": {
-        "eventId": 346,
         "liveTryMissionId": 5995,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "normal",
@@ -3055,7 +2298,6 @@
         "liveTryMissionDetailId": 5995
       },
       "5996": {
-        "eventId": 346,
         "liveTryMissionId": 5996,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "extra",
@@ -3063,7 +2305,6 @@
         "liveTryMissionDetailId": 5996
       },
       "5997": {
-        "eventId": 346,
         "liveTryMissionId": 5997,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "extra",
@@ -3071,7 +2312,6 @@
         "liveTryMissionDetailId": 5997
       },
       "5998": {
-        "eventId": 346,
         "liveTryMissionId": 5998,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "extra",
@@ -3079,7 +2319,6 @@
         "liveTryMissionDetailId": 5998
       },
       "5999": {
-        "eventId": 346,
         "liveTryMissionId": 5999,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "extra",
@@ -3087,7 +2326,6 @@
         "liveTryMissionDetailId": 5999
       },
       "6000": {
-        "eventId": 346,
         "liveTryMissionId": 6000,
         "liveTryMissionType": "combo",
         "liveTryMissionDifficultyType": "extra",
@@ -3095,7 +2333,6 @@
         "liveTryMissionDetailId": 6000
       },
       "6001": {
-        "eventId": 346,
         "liveTryMissionId": 6001,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3103,7 +2340,6 @@
         "liveTryMissionDetailId": 6001
       },
       "6002": {
-        "eventId": 346,
         "liveTryMissionId": 6002,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3111,7 +2347,6 @@
         "liveTryMissionDetailId": 6002
       },
       "6003": {
-        "eventId": 346,
         "liveTryMissionId": 6003,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3119,7 +2354,6 @@
         "liveTryMissionDetailId": 6003
       },
       "6004": {
-        "eventId": 346,
         "liveTryMissionId": 6004,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3127,7 +2361,6 @@
         "liveTryMissionDetailId": 6004
       },
       "6005": {
-        "eventId": 346,
         "liveTryMissionId": 6005,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3135,7 +2368,6 @@
         "liveTryMissionDetailId": 6005
       },
       "6006": {
-        "eventId": 346,
         "liveTryMissionId": 6006,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3143,7 +2375,6 @@
         "liveTryMissionDetailId": 6006
       },
       "6007": {
-        "eventId": 346,
         "liveTryMissionId": 6007,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3151,7 +2382,6 @@
         "liveTryMissionDetailId": 6007
       },
       "6008": {
-        "eventId": 346,
         "liveTryMissionId": 6008,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3159,7 +2389,6 @@
         "liveTryMissionDetailId": 6008
       },
       "6009": {
-        "eventId": 346,
         "liveTryMissionId": 6009,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3167,7 +2396,6 @@
         "liveTryMissionDetailId": 6009
       },
       "6010": {
-        "eventId": 346,
         "liveTryMissionId": 6010,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "normal",
@@ -3175,7 +2403,6 @@
         "liveTryMissionDetailId": 6010
       },
       "6011": {
-        "eventId": 346,
         "liveTryMissionId": 6011,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "extra",
@@ -3183,7 +2410,6 @@
         "liveTryMissionDetailId": 6011
       },
       "6012": {
-        "eventId": 346,
         "liveTryMissionId": 6012,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "extra",
@@ -3191,7 +2417,6 @@
         "liveTryMissionDetailId": 6012
       },
       "6013": {
-        "eventId": 346,
         "liveTryMissionId": 6013,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "extra",
@@ -3199,7 +2424,6 @@
         "liveTryMissionDetailId": 6013
       },
       "6014": {
-        "eventId": 346,
         "liveTryMissionId": 6014,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "extra",
@@ -3207,7 +2431,6 @@
         "liveTryMissionDetailId": 6014
       },
       "6015": {
-        "eventId": 346,
         "liveTryMissionId": 6015,
         "liveTryMissionType": "judge",
         "liveTryMissionDifficultyType": "extra",
@@ -3215,7 +2438,6 @@
         "liveTryMissionDetailId": 6015
       },
       "6016": {
-        "eventId": 346,
         "liveTryMissionId": 6016,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3223,7 +2445,6 @@
         "liveTryMissionDetailId": 6016
       },
       "6017": {
-        "eventId": 346,
         "liveTryMissionId": 6017,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3231,7 +2452,6 @@
         "liveTryMissionDetailId": 6017
       },
       "6018": {
-        "eventId": 346,
         "liveTryMissionId": 6018,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3239,7 +2459,6 @@
         "liveTryMissionDetailId": 6018
       },
       "6019": {
-        "eventId": 346,
         "liveTryMissionId": 6019,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3247,7 +2466,6 @@
         "liveTryMissionDetailId": 6019
       },
       "6020": {
-        "eventId": 346,
         "liveTryMissionId": 6020,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3255,7 +2473,6 @@
         "liveTryMissionDetailId": 6020
       },
       "6021": {
-        "eventId": 346,
         "liveTryMissionId": 6021,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3263,7 +2480,6 @@
         "liveTryMissionDetailId": 6021
       },
       "6022": {
-        "eventId": 346,
         "liveTryMissionId": 6022,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3271,7 +2487,6 @@
         "liveTryMissionDetailId": 6022
       },
       "6023": {
-        "eventId": 346,
         "liveTryMissionId": 6023,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3279,7 +2494,6 @@
         "liveTryMissionDetailId": 6023
       },
       "6024": {
-        "eventId": 346,
         "liveTryMissionId": 6024,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3287,7 +2501,6 @@
         "liveTryMissionDetailId": 6024
       },
       "6025": {
-        "eventId": 346,
         "liveTryMissionId": 6025,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "normal",
@@ -3295,7 +2508,6 @@
         "liveTryMissionDetailId": 6025
       },
       "6026": {
-        "eventId": 346,
         "liveTryMissionId": 6026,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "extra",
@@ -3303,7 +2515,6 @@
         "liveTryMissionDetailId": 6026
       },
       "6027": {
-        "eventId": 346,
         "liveTryMissionId": 6027,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "extra",
@@ -3311,7 +2522,6 @@
         "liveTryMissionDetailId": 6027
       },
       "6028": {
-        "eventId": 346,
         "liveTryMissionId": 6028,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "extra",
@@ -3319,7 +2529,6 @@
         "liveTryMissionDetailId": 6028
       },
       "6029": {
-        "eventId": 346,
         "liveTryMissionId": 6029,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "extra",
@@ -3327,7 +2536,6 @@
         "liveTryMissionDetailId": 6029
       },
       "6030": {
-        "eventId": 346,
         "liveTryMissionId": 6030,
         "liveTryMissionType": "multi",
         "liveTryMissionDifficultyType": "extra",
@@ -5079,17 +4287,13 @@
       "5956": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5956,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5956,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5099,17 +4303,13 @@
       "5957": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5957,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5957,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5119,17 +4319,13 @@
       "5958": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5958,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5958,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5139,17 +4335,13 @@
       "5959": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5959,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5959,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5159,17 +4351,13 @@
       "5960": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5960,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5960,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5179,17 +4367,13 @@
       "5961": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5961,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5961,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5199,17 +4383,13 @@
       "5962": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5962,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5962,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5219,17 +4399,13 @@
       "5963": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5963,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5963,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5239,17 +4415,13 @@
       "5964": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5964,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5964,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5259,17 +4431,13 @@
       "5965": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5965,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 2000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5965,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 100
@@ -5279,17 +4447,13 @@
       "5966": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5966,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5966,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5299,17 +4463,13 @@
       "5967": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5967,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5967,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5319,17 +4479,13 @@
       "5968": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5968,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5968,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5339,17 +4495,13 @@
       "5969": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5969,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5969,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5359,17 +4511,13 @@
       "5970": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5970,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 5000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5970,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5379,17 +4527,13 @@
       "5971": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5971,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5971,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5399,17 +4543,13 @@
       "5972": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5972,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5972,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5419,17 +4559,13 @@
       "5973": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5973,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5973,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5439,17 +4575,13 @@
       "5974": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5974,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5974,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5459,17 +4591,13 @@
       "5975": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5975,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5975,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5479,17 +4607,13 @@
       "5976": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5976,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5976,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5499,17 +4623,13 @@
       "5977": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5977,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5977,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5519,17 +4639,13 @@
       "5978": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5978,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5978,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5539,17 +4655,13 @@
       "5979": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5979,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5979,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5559,17 +4671,13 @@
       "5980": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5980,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 2000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5980,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 100
@@ -5579,17 +4687,13 @@
       "5981": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5981,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5981,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5599,17 +4703,13 @@
       "5982": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5982,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5982,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5619,17 +4719,13 @@
       "5983": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5983,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5983,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5639,17 +4735,13 @@
       "5984": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5984,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5984,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5659,17 +4751,13 @@
       "5985": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5985,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 5000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5985,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5679,17 +4767,13 @@
       "5986": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5986,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5986,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5699,17 +4783,13 @@
       "5987": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5987,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5987,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5719,17 +4799,13 @@
       "5988": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5988,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5988,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5739,17 +4815,13 @@
       "5989": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5989,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5989,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5759,17 +4831,13 @@
       "5990": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5990,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5990,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5779,17 +4847,13 @@
       "5991": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5991,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5991,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5799,17 +4863,13 @@
       "5992": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5992,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5992,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5819,17 +4879,13 @@
       "5993": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5993,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5993,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5839,17 +4895,13 @@
       "5994": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5994,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5994,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -5859,17 +4911,13 @@
       "5995": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5995,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 2000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5995,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 100
@@ -5879,17 +4927,13 @@
       "5996": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5996,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5996,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5899,17 +4943,13 @@
       "5997": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5997,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5997,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5919,17 +4959,13 @@
       "5998": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5998,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5998,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5939,17 +4975,13 @@
       "5999": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 5999,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 5999,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5959,17 +4991,13 @@
       "6000": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6000,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 5000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6000,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -5979,17 +5007,13 @@
       "6001": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6001,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6001,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -5999,17 +5023,13 @@
       "6002": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6002,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6002,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6019,17 +5039,13 @@
       "6003": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6003,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6003,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6039,17 +5055,13 @@
       "6004": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6004,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6004,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6059,17 +5071,13 @@
       "6005": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6005,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6005,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6079,17 +5087,13 @@
       "6006": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6006,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6006,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -6099,17 +5103,13 @@
       "6007": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6007,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6007,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -6119,17 +5119,13 @@
       "6008": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6008,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6008,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -6139,17 +5135,13 @@
       "6009": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6009,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6009,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -6159,17 +5151,13 @@
       "6010": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6010,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 2000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6010,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 100
@@ -6179,17 +5167,13 @@
       "6011": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6011,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6011,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6199,17 +5183,13 @@
       "6012": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6012,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6012,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6219,17 +5199,13 @@
       "6013": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6013,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6013,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6239,17 +5215,13 @@
       "6014": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6014,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6014,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6259,17 +5231,13 @@
       "6015": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6015,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 5000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6015,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6279,17 +5247,13 @@
       "6016": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6016,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6016,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6299,17 +5263,13 @@
       "6017": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6017,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6017,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6319,17 +5279,13 @@
       "6018": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6018,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6018,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6339,17 +5295,13 @@
       "6019": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6019,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6019,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6359,17 +5311,13 @@
       "6020": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6020,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6020,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 50
@@ -6379,17 +5327,13 @@
       "6021": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6021,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6021,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -6399,17 +5343,13 @@
       "6022": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6022,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6022,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -6419,17 +5359,13 @@
       "6023": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6023,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6023,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -6439,17 +5375,13 @@
       "6024": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6024,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 1500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6024,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 70
@@ -6459,17 +5391,13 @@
       "6025": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6025,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 2000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6025,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 100
@@ -6479,17 +5407,13 @@
       "6026": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6026,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6026,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6499,17 +5423,13 @@
       "6027": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6027,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 3500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6027,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6519,17 +5439,13 @@
       "6028": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6028,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6028,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6539,17 +5455,13 @@
       "6029": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6029,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 4500
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6029,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6559,17 +5471,13 @@
       "6030": {
         "entries": [
           {
-            "eventId": 346,
             "liveTryMissionId": 6030,
-            "seq": 1,
             "resourceType": "event_point",
             "resourceId": 31,
             "quantity": 5000
           },
           {
-            "eventId": 346,
             "liveTryMissionId": 6030,
-            "seq": 2,
             "resourceType": "event_item",
             "resourceId": 24,
             "quantity": 150
@@ -6584,7 +5492,6 @@
         "normal": {
           "entries": {
             "1": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 1,
               "resourceType": "practice_ticket",
@@ -6592,7 +5499,6 @@
               "quantity": 1
             },
             "2": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 2,
               "resourceType": "item",
@@ -6600,7 +5506,6 @@
               "quantity": 1
             },
             "3": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 3,
               "resourceType": "live_boost_recovery_item",
@@ -6608,14 +5513,12 @@
               "quantity": 1
             },
             "4": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 4,
               "resourceType": "coin",
               "quantity": 50000
             },
             "5": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 5,
               "resourceType": "practice_ticket",
@@ -6623,7 +5526,6 @@
               "quantity": 1
             },
             "6": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 6,
               "resourceType": "practice_ticket",
@@ -6631,7 +5533,6 @@
               "quantity": 3
             },
             "7": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 7,
               "resourceType": "item",
@@ -6639,7 +5540,6 @@
               "quantity": 1
             },
             "8": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 8,
               "resourceType": "practice_ticket",
@@ -6647,7 +5547,6 @@
               "quantity": 3
             },
             "9": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 9,
               "resourceType": "practice_ticket",
@@ -6655,7 +5554,6 @@
               "quantity": 1
             },
             "10": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "normal",
               "level": 10,
               "resourceType": "degree",
@@ -6667,35 +5565,30 @@
         "extra": {
           "entries": {
             "1": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "extra",
               "level": 1,
               "resourceType": "coin",
               "quantity": 100000
             },
             "2": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "extra",
               "level": 2,
               "resourceType": "coin",
               "quantity": 150000
             },
             "3": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "extra",
               "level": 3,
               "resourceType": "coin",
               "quantity": 200000
             },
             "4": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "extra",
               "level": 4,
               "resourceType": "coin",
               "quantity": 250000
             },
             "5": {
-              "eventId": 346,
               "liveTryMissionDifficultyType": "extra",
               "level": 5,
               "resourceType": "degree",
