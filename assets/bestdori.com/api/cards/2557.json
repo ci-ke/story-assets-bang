@@ -1,0 +1,192 @@
+{
+  "characterId": 34,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res034045",
+  "sdResourceName": "sd034045",
+  "costumeId": 2476,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "Black Riot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "releasedAt": [
+    "1794290400000",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillName": [
+    "華やかに、踊るように",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2106,
+      "technique": 1962,
+      "visual": 2538
+    },
+    "2": {
+      "performance": 2162,
+      "technique": 2014,
+      "visual": 2606
+    },
+    "3": {
+      "performance": 2222,
+      "technique": 2070,
+      "visual": 2678
+    },
+    "4": {
+      "performance": 2285,
+      "technique": 2129,
+      "visual": 2755
+    },
+    "5": {
+      "performance": 2352,
+      "technique": 2192,
+      "visual": 2836
+    },
+    "6": {
+      "performance": 2423,
+      "technique": 2258,
+      "visual": 2921
+    },
+    "7": {
+      "performance": 2498,
+      "technique": 2328,
+      "visual": 3011
+    },
+    "8": {
+      "performance": 2576,
+      "technique": 2401,
+      "visual": 3105
+    },
+    "9": {
+      "performance": 2658,
+      "technique": 2477,
+      "visual": 3204
+    },
+    "10": {
+      "performance": 2744,
+      "technique": 2557,
+      "visual": 3307
+    },
+    "11": {
+      "performance": 2834,
+      "technique": 2640,
+      "visual": 3415
+    },
+    "12": {
+      "performance": 2927,
+      "technique": 2727,
+      "visual": 3527
+    },
+    "13": {
+      "performance": 3024,
+      "technique": 2817,
+      "visual": 3644
+    },
+    "14": {
+      "performance": 3125,
+      "technique": 2911,
+      "visual": 3765
+    },
+    "15": {
+      "performance": 3229,
+      "technique": 3008,
+      "visual": 3891
+    },
+    "16": {
+      "performance": 3337,
+      "technique": 3109,
+      "visual": 4021
+    },
+    "17": {
+      "performance": 3449,
+      "technique": 3213,
+      "visual": 4156
+    },
+    "18": {
+      "performance": 3565,
+      "technique": 3321,
+      "visual": 4295
+    },
+    "19": {
+      "performance": 3684,
+      "technique": 3432,
+      "visual": 4439
+    },
+    "20": {
+      "performance": 3807,
+      "technique": 3547,
+      "visual": 4587
+    },
+    "21": {
+      "performance": 3934,
+      "technique": 3665,
+      "visual": 4740
+    },
+    "22": {
+      "performance": 4065,
+      "technique": 3787,
+      "visual": 4897
+    },
+    "23": {
+      "performance": 4199,
+      "technique": 3912,
+      "visual": 5059
+    },
+    "24": {
+      "performance": 4337,
+      "technique": 4041,
+      "visual": 5225
+    },
+    "25": {
+      "performance": 4479,
+      "technique": 4173,
+      "visual": 5396
+    },
+    "26": {
+      "performance": 4624,
+      "technique": 4309,
+      "visual": 5571
+    },
+    "27": {
+      "performance": 4773,
+      "technique": 4448,
+      "visual": 5751
+    },
+    "28": {
+      "performance": 4926,
+      "technique": 4590,
+      "visual": 5935
+    },
+    "29": {
+      "performance": 5083,
+      "technique": 4736,
+      "visual": 6124
+    },
+    "30": {
+      "performance": 5243,
+      "technique": 4885,
+      "visual": 6317
+    }
+  }
+}

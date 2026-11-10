@@ -116269,6 +116269,241 @@
       }
     }
   },
+  "2554": {
+    "characterId": 32,
+    "rarity": 5,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res032050",
+    "prefix": [
+      "きらめく星々の詩",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1794290400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 68,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3175,
+        "technique": 4022,
+        "visual": 3599
+      },
+      "60": {
+        "performance": 9463,
+        "technique": 11983,
+        "visual": 10724
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2555": {
+    "characterId": 31,
+    "rarity": 5,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res031050",
+    "prefix": [
+      "一番星の名は",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1794290400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 85,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3556,
+        "technique": 4011,
+        "visual": 3122
+      },
+      "60": {
+        "performance": 10598,
+        "technique": 11953,
+        "visual": 9303
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2556": {
+    "characterId": 33,
+    "rarity": 3,
+    "attribute": "happy",
+    "levelLimit": 40,
+    "resourceSetName": "res033048",
+    "prefix": [
+      "感動のクライマックス",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1794290400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 6,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 3560,
+        "technique": 2774,
+        "visual": 3172
+      },
+      "50": {
+        "performance": 10750,
+        "technique": 8377,
+        "visual": 9578
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2557": {
+    "characterId": 34,
+    "rarity": 2,
+    "attribute": "pure",
+    "levelLimit": 30,
+    "resourceSetName": "res034045",
+    "prefix": [
+      "Black Riot",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1794290400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 8,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 2106,
+        "technique": 1962,
+        "visual": 2538
+      },
+      "30": {
+        "performance": 5243,
+        "technique": 4885,
+        "visual": 6317
+      }
+    }
+  },
+  "2558": {
+    "characterId": 35,
+    "rarity": 4,
+    "attribute": "cool",
+    "levelLimit": 50,
+    "resourceSetName": "res035048",
+    "prefix": [
+      "Go my Dino！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1794290400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 26,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3961,
+        "technique": 3165,
+        "visual": 3054
+      },
+      "60": {
+        "performance": 11804,
+        "technique": 9434,
+        "visual": 9098
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
   "5001": {
     "characterId": 1,
     "rarity": 2,

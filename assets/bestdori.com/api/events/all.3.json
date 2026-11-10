@@ -9021,6 +9021,32 @@
       null
     ]
   },
+  "348": {
+    "eventType": "mission_live",
+    "eventName": [
+      "Rock!Lock!Rock!",
+      null,
+      null,
+      null,
+      null
+    ],
+    "assetBundleName": "rock_lock_rock",
+    "bannerAssetBundleName": "banner_event348",
+    "startAt": [
+      "1794290400000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "endAt": [
+      "1794916799000",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
   "5001": {
     "eventType": "mission_live",
     "eventName": [
