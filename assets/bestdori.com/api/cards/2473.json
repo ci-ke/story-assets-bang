@@ -44,7 +44,7 @@
         "title": [
           "あたしたちのでっかい夢",
           null,
-          null,
+          "我們的遠大夢想",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "次が楽しみ！",
           null,
-          null,
+          "期待下一次！",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "ここまで来たら\nもうやるしかなくね？",
     null,
-    null,
+    "都走到這裡了，\n不就只能豁出去了嗎？",
     null,
     null
   ],
   "prefix": [
     "あたし超絶進化中！",
     null,
-    null,
+    "我正在超級進化中！",
     null,
     null
   ],
   "releasedAt": [
     "1782021600000",
     null,
-    null,
+    "1794294000000",
     null,
     null
   ],
   "skillName": [
     "超本気のやつ！",
     null,
-    null,
+    "超級認真的！",
     null,
     null
   ],

@@ -44,7 +44,7 @@
         "title": [
           "みんなと出会えて",
           null,
-          null,
+          "能與大家相遇",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "私を作り上げてきたもの",
           null,
-          null,
+          "造就了我的事物",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "この輝きが、誰かの道を\n照らしてあげられるように――！",
     null,
-    null,
+    "希望這道光輝，能夠\n照亮某個人的道路——！",
     null,
     null
   ],
   "prefix": [
     "それは星空のようで",
     null,
-    null,
+    "那就像是星空一般",
     null,
     null
   ],
   "releasedAt": [
     "1782021600000",
     null,
-    null,
+    "1794294000000",
     null,
     null
   ],
   "skillName": [
     "新たな輝きに向かって",
     null,
-    null,
+    "朝向嶄新的光輝",
     null,
     null
   ],

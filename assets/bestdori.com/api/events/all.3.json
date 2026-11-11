@@ -8401,7 +8401,7 @@
     "eventType": "festival",
     "eventName": [
       "ほっとひと息、ハロハピ温泉旅情",
-      "A Breath of Relaxation, Hello Happy Hot Spring Getaway",
+      "Hello, Happy World!'s Hot Spring Getaway",
       "鬆一口氣、HelloHappy 溫泉旅情",
       "悠然一刻、HelloHappy温泉之旅",
       null
@@ -8410,14 +8410,14 @@
     "bannerAssetBundleName": "banner_event324",
     "startAt": [
       "1772863200000",
-      null,
+      "1794358800000",
       "1786863600000",
       "1790053200000",
       null
     ],
     "endAt": [
       "1773316799000",
-      null,
+      "1794898799000",
       "1787403599000",
       "1790521199000",
       null
@@ -8662,7 +8662,7 @@
     "eventName": [
       "輝く星々のコンチェルト",
       "Concerto of Shimmering Stars",
-      null,
+      "閃耀群星的協奏曲",
       null,
       null
     ],
@@ -8671,14 +8671,14 @@
     "startAt": [
       "1782021600000",
       null,
-      null,
+      "1794380400000",
       null,
       null
     ],
     "endAt": [
       "1782647999000",
       null,
-      null,
+      "1794920399000",
       null,
       null
     ]
