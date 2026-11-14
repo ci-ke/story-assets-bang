@@ -17,21 +17,21 @@
     "ノーブルオーケストラ",
     "Noble Orchestra",
     "高雅管弦樂",
-    null,
+    "高雅管弦乐",
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
     "1790751600000",
-    null,
+    "1794546000000",
     null
   ],
   "skillName": [
     "グレイスフルパーカッション",
     "Graceful Percussion",
     "優雅的打擊樂演奏",
-    null,
+    "优雅打击乐",
     null
   ],
   "skillId": 23,

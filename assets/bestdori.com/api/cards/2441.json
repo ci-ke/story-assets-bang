@@ -45,7 +45,7 @@
           "想像を超えるために",
           null,
           "為了超越想像",
-          null,
+          "为了超越想象",
           null
         ],
         "characterId": 35
@@ -94,7 +94,7 @@
           "世界で最強の",
           null,
           "世界最強的",
-          null,
+          "全世界最强的",
           null
         ],
         "characterId": 35
@@ -106,28 +106,28 @@
     "今、ワタシはRASの音が\n聴きたいんだから",
     "Right now, I just want to listen to RAS's sound",
     "因為現在，我想聽的是RAS\n的聲音",
-    null,
+    "现在，我想听的是\nRAS的声音",
     null
   ],
   "prefix": [
     "こっちの道",
     "This Path",
     "這條道路",
-    null,
+    "这条路",
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
     "1790751600000",
-    null,
+    "1794546000000",
     null
   ],
   "skillName": [
     "限界はなく",
     "No Limits",
     "沒有極限",
-    null,
+    "没有极限",
     null
   ],
   "skillId": 68,

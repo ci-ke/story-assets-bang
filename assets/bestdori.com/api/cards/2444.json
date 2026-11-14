@@ -45,7 +45,7 @@
           "遠征の前に",
           null,
           "遠征之前",
-          null,
+          "远征之前",
           null
         ],
         "characterId": 34
@@ -94,7 +94,7 @@
           "できることはすべて",
           null,
           "傾盡所能",
-          null,
+          "所有能做的事",
           null
         ],
         "characterId": 34
@@ -106,28 +106,28 @@
     "パレオたちも\n混ぜてくださいよ～っ！",
     "Let us join in too~!",
     "也請讓我們加入吧～！",
-    null,
+    "请让我们\n也加入吧~",
     null
   ],
   "prefix": [
     "混ぜてくださ～いっ",
     "Let's Mix it Up~",
     "也讓我們加入吧～！",
-    null,
+    "请让我们也加入吧～",
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
     "1790751600000",
-    null,
+    "1794546000000",
     null
   ],
   "skillName": [
     "準備万全です♪",
     "All Completely Ready ♪",
     "準備萬全♪",
-    null,
+    "准备万全♪",
     null
   ],
   "skillId": 61,

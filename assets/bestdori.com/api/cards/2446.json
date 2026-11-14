@@ -45,7 +45,7 @@
           "別荘を満喫！　前編",
           null,
           "盡情享受別墅！　前篇",
-          null,
+          "尽享别墅！　前篇",
           null
         ],
         "characterId": 29
@@ -94,7 +94,7 @@
           "別荘を満喫！　後編",
           null,
           "盡情享受別墅！　後篇",
-          null,
+          "尽享别墅！　后篇",
           null
         ],
         "characterId": 29
@@ -106,28 +106,28 @@
     "ふふん、\nテニスは結構得意なんだ！",
     "Hehe, seems that I'm quite good at tennis!",
     "呵呵，\n網球我可是滿拿手的！",
-    null,
+    "哼哼，\n我可是相当擅长打网球的！",
     null
   ],
   "prefix": [
     "スマッシュ炸裂！",
     "Explosive Smash!",
     "猛力扣殺！",
-    null,
+    "炸裂扣杀！",
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
     "1790751600000",
-    null,
+    "1794546000000",
     null
   ],
   "skillName": [
     "素早いフットワーク",
     "Fancy Footwork",
     "敏捷的步法",
-    null,
+    "敏捷的脚步",
     null
   ],
   "skillId": 79,

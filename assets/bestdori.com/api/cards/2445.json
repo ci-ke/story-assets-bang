@@ -45,7 +45,7 @@
           "違う自分を纏って　前編",
           null,
           "穿上不一樣的自己　前篇",
-          null,
+          "穿上与平时不同的衣服　前篇",
           null
         ],
         "characterId": 14
@@ -94,7 +94,7 @@
           "違う自分を纏って　後編",
           null,
           "穿上不一樣的自己　後篇",
-          null,
+          "穿上与平时不同的衣服　后篇",
           null
         ],
         "characterId": 14
@@ -106,28 +106,28 @@
     "いつもと違う服を着た自分に\n会ってみたいなって……",
     "I'd like to see myself in a different style of clothes from usual...",
     "我想看看穿上和平常\n不同衣服的自己……",
-    null,
+    "我想看看自己穿着\n和平时不同风格的衣服是什么样……",
     null
   ],
   "prefix": [
     "街角ファッショニスタ",
     "Intersection Fashionista",
     "街角時尚達人",
-    null,
+    "街角时尚达人",
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
     "1790751600000",
-    null,
+    "1794546000000",
     null
   ],
   "skillName": [
     "ストリートファッションショー",
     "Streetside Fashion Show",
     "街頭時尚秀",
-    null,
+    "街头时装秀",
     null
   ],
   "skillId": 78,

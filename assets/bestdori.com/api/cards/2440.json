@@ -45,7 +45,7 @@
           "音楽は生活と共に",
           null,
           "音樂與生活同行",
-          null,
+          "音乐与生活相伴",
           null
         ],
         "characterId": 32
@@ -94,7 +94,7 @@
           "あふれる喜び",
           null,
           "滿溢而出的喜悅",
-          null,
+          "满溢而出的喜悦",
           null
         ],
         "characterId": 32
@@ -106,28 +106,28 @@
     "遊びでいいじゃないですか、\nやりましょうよ～っ！",
     "Well, since it's just for fun, let's go for it~!",
     "當作玩玩也沒關係啊，\n一起做吧～！",
-    null,
+    "弹着玩不是挺好的嘛，\n来一起玩吧~！",
     null
   ],
   "prefix": [
     "まっすぐな『好き』",
     "Her Earnest \"Love\"",
     "率直的「喜歡」",
-    null,
+    "坦率的『喜欢』",
     null
   ],
   "releasedAt": [
     "1777442400000",
     null,
     "1790751600000",
-    null,
+    "1794546000000",
     null
   ],
   "skillName": [
     "手にしたときから",
     "From When I Grasped It",
     "從拿到手的那一刻起",
-    null,
+    "从到手的那一刻起",
     null
   ],
   "skillId": 66,
