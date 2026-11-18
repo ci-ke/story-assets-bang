@@ -1,0 +1,348 @@
+{
+  "characterId": 25,
+  "rarity": 5,
+  "attribute": "pure",
+  "levelLimit": 60,
+  "resourceSetName": "res025085",
+  "sdResourceName": "sd025085",
+  "costumeId": 2448,
+  "gachaText": [
+    "め、命じます……",
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "物言わぬ眠り姫",
+    null,
+    null,
+    null,
+    null
+  ],
+  "releasedAt": [
+    "1794981600000",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillName": [
+    "言霊の力",
+    null,
+    null,
+    null,
+    null
+  ],
+  "skillId": 72,
+  "source": null,
+  "type": "special",
+  "stat": {
+    "1": {
+      "performance": 5325,
+      "technique": 4468,
+      "visual": 4647
+    },
+    "2": {
+      "performance": 5367,
+      "technique": 4501,
+      "visual": 4682
+    },
+    "3": {
+      "performance": 5411,
+      "technique": 4536,
+      "visual": 4718
+    },
+    "4": {
+      "performance": 5456,
+      "technique": 4572,
+      "visual": 4756
+    },
+    "5": {
+      "performance": 5503,
+      "technique": 4609,
+      "visual": 4795
+    },
+    "6": {
+      "performance": 5552,
+      "technique": 4647,
+      "visual": 4836
+    },
+    "7": {
+      "performance": 5602,
+      "technique": 4687,
+      "visual": 4878
+    },
+    "8": {
+      "performance": 5654,
+      "technique": 4728,
+      "visual": 4921
+    },
+    "9": {
+      "performance": 5708,
+      "technique": 4770,
+      "visual": 4966
+    },
+    "10": {
+      "performance": 5763,
+      "technique": 4814,
+      "visual": 5012
+    },
+    "11": {
+      "performance": 5820,
+      "technique": 4859,
+      "visual": 5060
+    },
+    "12": {
+      "performance": 5879,
+      "technique": 4905,
+      "visual": 5109
+    },
+    "13": {
+      "performance": 5939,
+      "technique": 4953,
+      "visual": 5159
+    },
+    "14": {
+      "performance": 6001,
+      "technique": 5002,
+      "visual": 5211
+    },
+    "15": {
+      "performance": 6065,
+      "technique": 5052,
+      "visual": 5264
+    },
+    "16": {
+      "performance": 6131,
+      "technique": 5104,
+      "visual": 5319
+    },
+    "17": {
+      "performance": 6198,
+      "technique": 5157,
+      "visual": 5375
+    },
+    "18": {
+      "performance": 6267,
+      "technique": 5211,
+      "visual": 5432
+    },
+    "19": {
+      "performance": 6338,
+      "technique": 5267,
+      "visual": 5491
+    },
+    "20": {
+      "performance": 6410,
+      "technique": 5324,
+      "visual": 5551
+    },
+    "21": {
+      "performance": 6484,
+      "technique": 5382,
+      "visual": 5613
+    },
+    "22": {
+      "performance": 6560,
+      "technique": 5442,
+      "visual": 5676
+    },
+    "23": {
+      "performance": 6637,
+      "technique": 5503,
+      "visual": 5740
+    },
+    "24": {
+      "performance": 6716,
+      "technique": 5565,
+      "visual": 5806
+    },
+    "25": {
+      "performance": 6797,
+      "technique": 5629,
+      "visual": 5873
+    },
+    "26": {
+      "performance": 6879,
+      "technique": 5694,
+      "visual": 5942
+    },
+    "27": {
+      "performance": 6963,
+      "technique": 5760,
+      "visual": 6012
+    },
+    "28": {
+      "performance": 7049,
+      "technique": 5828,
+      "visual": 6083
+    },
+    "29": {
+      "performance": 7136,
+      "technique": 5897,
+      "visual": 6156
+    },
+    "30": {
+      "performance": 7225,
+      "technique": 5967,
+      "visual": 6230
+    },
+    "31": {
+      "performance": 7316,
+      "technique": 6039,
+      "visual": 6306
+    },
+    "32": {
+      "performance": 7408,
+      "technique": 6112,
+      "visual": 6383
+    },
+    "33": {
+      "performance": 7502,
+      "technique": 6186,
+      "visual": 6461
+    },
+    "34": {
+      "performance": 7598,
+      "technique": 6262,
+      "visual": 6541
+    },
+    "35": {
+      "performance": 7695,
+      "technique": 6339,
+      "visual": 6622
+    },
+    "36": {
+      "performance": 7794,
+      "technique": 6417,
+      "visual": 6705
+    },
+    "37": {
+      "performance": 7895,
+      "technique": 6497,
+      "visual": 6789
+    },
+    "38": {
+      "performance": 7997,
+      "technique": 6578,
+      "visual": 6874
+    },
+    "39": {
+      "performance": 8101,
+      "technique": 6660,
+      "visual": 6961
+    },
+    "40": {
+      "performance": 8207,
+      "technique": 6744,
+      "visual": 7049
+    },
+    "41": {
+      "performance": 8315,
+      "technique": 6829,
+      "visual": 7139
+    },
+    "42": {
+      "performance": 8424,
+      "technique": 6915,
+      "visual": 7230
+    },
+    "43": {
+      "performance": 8535,
+      "technique": 7003,
+      "visual": 7322
+    },
+    "44": {
+      "performance": 8648,
+      "technique": 7092,
+      "visual": 7416
+    },
+    "45": {
+      "performance": 8762,
+      "technique": 7182,
+      "visual": 7511
+    },
+    "46": {
+      "performance": 8878,
+      "technique": 7274,
+      "visual": 7608
+    },
+    "47": {
+      "performance": 8996,
+      "technique": 7367,
+      "visual": 7706
+    },
+    "48": {
+      "performance": 9115,
+      "technique": 7461,
+      "visual": 7805
+    },
+    "49": {
+      "performance": 9236,
+      "technique": 7557,
+      "visual": 7906
+    },
+    "50": {
+      "performance": 9359,
+      "technique": 7654,
+      "visual": 8008
+    },
+    "51": {
+      "performance": 9582,
+      "technique": 7830,
+      "visual": 8194
+    },
+    "52": {
+      "performance": 9845,
+      "technique": 8038,
+      "visual": 8414
+    },
+    "53": {
+      "performance": 10148,
+      "technique": 8278,
+      "visual": 8667
+    },
+    "54": {
+      "performance": 10491,
+      "technique": 8549,
+      "visual": 8953
+    },
+    "55": {
+      "performance": 10874,
+      "technique": 8852,
+      "visual": 9273
+    },
+    "56": {
+      "performance": 11298,
+      "technique": 9186,
+      "visual": 9626
+    },
+    "57": {
+      "performance": 11762,
+      "technique": 9552,
+      "visual": 10012
+    },
+    "58": {
+      "performance": 12266,
+      "technique": 9950,
+      "visual": 10432
+    },
+    "59": {
+      "performance": 12810,
+      "technique": 10379,
+      "visual": 10885
+    },
+    "60": {
+      "performance": 13394,
+      "technique": 10840,
+      "visual": 11371
+    },
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

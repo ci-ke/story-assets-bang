@@ -115117,6 +115117,129 @@
       }
     }
   },
+  "2527": {
+    "characterId": 23,
+    "rarity": 5,
+    "attribute": "cool",
+    "levelLimit": 60,
+    "resourceSetName": "res023091",
+    "prefix": [
+      "真実への追及",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1794981600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 66,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 5304,
+        "technique": 4690,
+        "visual": 4446
+      },
+      "60": {
+        "performance": 13333,
+        "technique": 11501,
+        "visual": 10774
+      },
+      "training": {
+        "levelLimit": 0,
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      }
+    }
+  },
+  "2528": {
+    "characterId": 24,
+    "rarity": 5,
+    "attribute": "happy",
+    "levelLimit": 60,
+    "resourceSetName": "res024090",
+    "prefix": [
+      "名探偵の観察眼",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1794981600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 84,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 5007,
+        "technique": 5166,
+        "visual": 4266
+      },
+      "60": {
+        "performance": 12446,
+        "technique": 12920,
+        "visual": 10239
+      },
+      "training": {
+        "levelLimit": 0,
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      }
+    }
+  },
+  "2529": {
+    "characterId": 25,
+    "rarity": 5,
+    "attribute": "pure",
+    "levelLimit": 60,
+    "resourceSetName": "res025085",
+    "prefix": [
+      "物言わぬ眠り姫",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1794981600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 72,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 5325,
+        "technique": 4468,
+        "visual": 4647
+      },
+      "60": {
+        "performance": 13394,
+        "technique": 10840,
+        "visual": 11371
+      },
+      "training": {
+        "levelLimit": 0,
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      }
+    }
+  },
   "2530": {
     "characterId": 18,
     "rarity": 5,
@@ -116483,6 +116606,241 @@
         "performance": 11804,
         "technique": 9434,
         "visual": 9098
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2559": {
+    "characterId": 20,
+    "rarity": 5,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res020091",
+    "prefix": [
+      "真の武士",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1795068000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 87,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3006,
+        "technique": 3821,
+        "visual": 3863
+      },
+      "60": {
+        "performance": 8956,
+        "technique": 11388,
+        "visual": 11512
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2560": {
+    "characterId": 17,
+    "rarity": 5,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res017090",
+    "prefix": [
+      "気分は鬼コーチ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1795068000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 73,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3323,
+        "technique": 3302,
+        "visual": 4170
+      },
+      "60": {
+        "performance": 9903,
+        "technique": 9839,
+        "visual": 12425
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2561": {
+    "characterId": 18,
+    "rarity": 3,
+    "attribute": "powerful",
+    "levelLimit": 40,
+    "resourceSetName": "res018088",
+    "prefix": [
+      "一意専心",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1795068000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 9,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 3773,
+        "technique": 3056,
+        "visual": 2968
+      },
+      "50": {
+        "performance": 11242,
+        "technique": 9114,
+        "visual": 8844
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2562": {
+    "characterId": 16,
+    "rarity": 2,
+    "attribute": "cool",
+    "levelLimit": 30,
+    "resourceSetName": "res016102",
+    "prefix": [
+      "秘密の夜回り",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1795068000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 23,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 2178,
+        "technique": 2420,
+        "visual": 1812
+      },
+      "30": {
+        "performance": 5467,
+        "technique": 6074,
+        "visual": 4549
+      }
+    }
+  },
+  "2563": {
+    "characterId": 19,
+    "rarity": 4,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res019087",
+    "prefix": [
+      "険しい修行？",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1795068000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 18,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3074,
+        "technique": 3921,
+        "visual": 3185
+      },
+      "60": {
+        "performance": 9162,
+        "technique": 11683,
+        "visual": 9491
       },
       "episodes": [
         {

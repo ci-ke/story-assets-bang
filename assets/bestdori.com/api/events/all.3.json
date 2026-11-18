@@ -9047,6 +9047,32 @@
       null
     ]
   },
+  "349": {
+    "eventType": "live_try",
+    "eventName": [
+      "いざ尋常に！　君よ真の武士となれ！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "assetBundleName": "bushido_2026",
+    "bannerAssetBundleName": "banner_event349",
+    "startAt": [
+      "1795068000000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "endAt": [
+      "1795780799000",
+      null,
+      null,
+      null,
+      null
+    ]
+  },
   "5001": {
     "eventType": "mission_live",
     "eventName": [
