@@ -44,7 +44,7 @@
         "title": [
           "夏が足りなくなるくらい",
           null,
-          null,
+          "連夏天都快不夠用",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "まだまだ夏は続く！",
           null,
-          null,
+          "夏天還會繼續下去！",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "あっ、割れてる……！\nやったぁ〜〜！",
     null,
-    null,
+    "啊，裂開了……！\n太好了～～！",
     null,
     null
   ],
   "prefix": [
     "仲間を信じて！",
     null,
-    null,
+    "相信夥伴！",
     null,
     null
   ],
   "releasedAt": [
     "1782799200000",
     null,
-    null,
+    "1794985200000",
     null,
     null
   ],
   "skillName": [
     "念願のスイカ割り！",
     null,
-    null,
+    "期盼已久的打西瓜！",
     null,
     null
   ],

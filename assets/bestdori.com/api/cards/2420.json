@@ -43,7 +43,7 @@
         },
         "title": [
           "演奏と絆",
-          null,
+          "Performance and Bonds",
           "演奏與羈絆",
           "演奏与羁绊",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "もらって、与えて",
-          null,
+          "Receiving, and Giving",
           "收穫，與給予",
           "接受、给予",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2339,
   "gachaText": [
     "これからの練習もすっごく楽しみ！",
-    null,
+    "I can't wait for practice from now on!",
     "我也超期待接下來的練習！",
     "亚子也很期待之后的练习！",
     null
   ],
   "prefix": [
     "深淵なる旋律に……",
-    "Drawn Into an Abyssal Melody...",
+    "To a Profound Melody...",
     "奏響深淵的旋律……",
     "沉浸于深渊般的旋律中……",
     null
   ],
   "releasedAt": [
     "1773414000000",
-    null,
+    "1795050000000",
     "1787536800000",
     "1790647200000",
     null
   ],
   "skillName": [
     "闇の力がバーン！",
-    null,
+    "The Power of Darkness, Bang!",
     "黑暗之力砰地爆發！",
     "黑暗之力，砰！",
     null

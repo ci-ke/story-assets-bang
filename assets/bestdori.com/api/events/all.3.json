@@ -8427,7 +8427,7 @@
     "eventType": "challenge",
     "eventName": [
       "All☆Stars CiRCRiNG Fes!",
-      null,
+      "All☆Stars CiRCRiNG Fes!",
       "All☆Stars CiRCRiNG Fes!",
       "All☆Stars CiRCRiNG Fes!",
       null
@@ -8436,14 +8436,14 @@
     "bannerAssetBundleName": "banner_event325",
     "startAt": [
       "1773414000000",
-      null,
+      "1795050000000",
       "1787554800000",
       "1790647200000",
       null
     ],
     "endAt": [
       "1774785599000",
-      null,
+      "1796194799000",
       "1788353999000",
       "1791989999000",
       null
@@ -8688,7 +8688,7 @@
     "eventName": [
       "エンジョイ！　私たちのベストサマー！",
       "Enjoy! Our Best Summer!",
-      null,
+      "享受吧！我們的最棒夏天！",
       null,
       null
     ],
@@ -8697,14 +8697,14 @@
     "startAt": [
       "1782799200000",
       null,
-      null,
+      "1795071600000",
       null,
       null
     ],
     "endAt": [
       "1783511999000",
       null,
-      null,
+      "1795611599000",
       null,
       null
     ]

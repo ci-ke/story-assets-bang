@@ -43,7 +43,7 @@
         },
         "title": [
           "『自分のバンド』",
-          null,
+          "A Band of My Own",
           "『屬於自己的樂團』",
           "『自己的乐队』",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "私にしかないもの",
-          null,
+          "Something Only I Have",
           "只有我才擁有的事物",
           "独属于我之物",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2333,
   "gachaText": [
     "だから私、\nこのメンバーでよかったです",
-    null,
+    "That's why I'm glad\nit's this lineup",
     "所以我很慶幸，\n能和這些成員組成樂團",
     "所以，我觉得\n能跟大家组乐队真是太好了",
     null
   ],
   "prefix": [
     "これが私の音！",
-    "This is My Sound!",
+    "This Is My Sound!",
     "這就是我的聲音！",
     "这就是我的声音！",
     null
   ],
   "releasedAt": [
     "1773414000000",
-    null,
+    "1795050000000",
     "1787536800000",
     "1790647200000",
     null
   ],
   "skillName": [
     "『音楽』にまっすぐに",
-    null,
+    "Straight Toward \"Music\"",
     "直面「音樂」",
     "一心向着『音乐』",
     null

@@ -43,7 +43,7 @@
         },
         "title": [
           "慣れない羽休め　前編",
-          null,
+          "An Unfamiliar Break, Pt. 1",
           "不習慣的休憩　前篇",
           "不习惯的休息 前篇",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "慣れない羽休め　後編",
-          null,
+          "An Unfamiliar Break, Pt. 2",
           "不習慣的休憩　後篇",
           "不习惯的休息 后篇",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2341,
   "gachaText": [
     "遊びとお菓子が一緒に……\nある意味、合理的ね",
-    null,
+    "Fun and snacks together...\nin a way, that's efficient",
     "玩樂和點心結合在一起……\n從某種意義上來說，還滿合理的",
     "玩具和零食合二为一……\n某种意义上来说很合理呢",
     null
   ],
   "prefix": [
     "こんな休日の過ごし方",
-    "How to Spend a Day Off",
+    "How to Spend a Day Off Like This",
     "這樣度過休假日",
     "这样的休假方式",
     null
   ],
   "releasedAt": [
     "1773414000000",
-    null,
+    "1795050000000",
     "1787536800000",
     "1790647200000",
     null
   ],
   "skillName": [
     "遊びのススメ",
-    null,
+    "A Recommendation for Fun",
     "玩樂的推薦",
     "推荐的游戏",
     null

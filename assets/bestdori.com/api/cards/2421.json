@@ -43,7 +43,7 @@
         },
         "title": [
           "芸能人のオーラ　前編",
-          null,
+          "Celebrity Aura, Pt. 1",
           "藝人的氣場　前篇",
           "艺人的气场 前篇",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "芸能人のオーラ　後編",
-          null,
+          "Celebrity Aura, Pt. 2",
           "藝人的氣場　後篇",
           "艺人的气场 后篇",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2340,
   "gachaText": [
     "（前髪……\nこっちのほうが可愛いかも）",
-    null,
+    "(My bangs...\nmaybe this way is cuter)",
     "（瀏海……\n這邊好像比較可愛）",
     "（刘海……\n这样会不会更可爱？）",
     null
   ],
   "prefix": [
     "鏡には映らないもの",
-    "Unseen in the Mirror's Reflection",
+    "What the Mirror Doesn't Show",
     "鏡中映照不出的事物",
     "镜中无法映照之物",
     null
   ],
   "releasedAt": [
     "1773414000000",
-    null,
+    "1795050000000",
     "1787536800000",
     "1790647200000",
     null
   ],
   "skillName": [
     "誰も見たことのない私",
-    null,
+    "A Side of Me No One's Seen",
     "從未有人見過的我",
     "从未有人见过的我",
     null

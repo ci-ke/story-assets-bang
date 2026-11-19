@@ -43,7 +43,7 @@
         },
         "title": [
           "繋がる星々",
-          null,
+          "Stars That Connect",
           "相連的群星",
           "相连的繁星",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "全力バンドレポ！",
-          null,
+          "An All-Out Band Report!",
           "全力樂團報導！",
           "全力乐队的反馈！",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2335,
   "gachaText": [
     "ジブンたちなりのバンドを\n作っていければいいですね",
-    null,
+    "It'd be nice if we could build\na band that's truly our own",
     "希望能打造出有我們自己\n風格的樂團",
     "组建属于\n我们自己风格的乐队就好啦",
     null
   ],
   "prefix": [
     "心交わすひととき",
-    "A Moment Where Our Hearts Meet",
+    "A Moment of Shared Hearts",
     "心意交會的片刻",
     "心意相通的瞬间",
     null
   ],
   "releasedAt": [
     "1773414000000",
-    null,
+    "1795050000000",
     "1787536800000",
     "1790647200000",
     null
   ],
   "skillName": [
     "互いを知る時間に",
-    null,
+    "A Time to Know Each Other",
     "更加了解彼此的時光",
     "用来了解彼此的时间",
     null

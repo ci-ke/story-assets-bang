@@ -44,7 +44,7 @@
         "title": [
           "激辛ならお任せあれ",
           null,
-          null,
+          "超辣的話就交給我吧",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "夏の思い出を重ねて",
           null,
-          null,
+          "累積夏日回憶",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "ふっふっふ。\nよくぞ聞いてくれました。",
     null,
-    null,
+    "呵呵呵。\n問得真好。",
     null,
     null
   ],
   "prefix": [
     "雰囲気はバッチリ",
     null,
-    null,
+    "氣氛十分到位",
     null,
     null
   ],
   "releasedAt": [
     "1782799200000",
     null,
-    null,
+    "1794985200000",
     null,
     null
   ],
   "skillName": [
     "引き込まれる語り口",
     null,
-    null,
+    "引人入勝的語調",
     null,
     null
   ],

@@ -43,7 +43,7 @@
         },
         "title": [
           "かわいさとかっこよさ",
-          null,
+          "Cuteness and Coolness",
           "可愛與帥氣",
           "可爱与帅气",
           null
@@ -92,7 +92,7 @@
         },
         "title": [
           "個性、合わさって",
-          null,
+          "Individuality, Combined",
           "個性匯聚",
           "个性，融合在一起",
           null
@@ -104,28 +104,28 @@
   "costumeId": 2338,
   "gachaText": [
     "RiNGに穴開けるのは\nさすがにダメだろ",
-    null,
+    "Punching a hole in the RiNG\nis definitely not okay",
     "再怎麼說，也不能把 RiNG\n打出一個洞吧",
     "在RiNG的天花板上开洞\n也太离谱了吧",
     null
   ],
   "prefix": [
     "狂犬の戸惑い",
-    "The Mad Dog's Hesitation",
+    "A Mad Dog's Confusion",
     "狂犬的困惑",
     "狂犬的迷惘",
     null
   ],
   "releasedAt": [
     "1773414000000",
-    null,
+    "1795050000000",
     "1787536800000",
     "1790647200000",
     null
   ],
   "skillName": [
     "右見ても左を見ても変なヤツ",
-    null,
+    "Weirdos, Left and Right",
     "不管往右看還是往左看都是怪人",
     "左看右看都是怪人",
     null

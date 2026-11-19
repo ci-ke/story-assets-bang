@@ -44,7 +44,7 @@
         "title": [
           "みんなでお掃除！　前編",
           null,
-          null,
+          "大家一起打掃！　前篇",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "みんなでお掃除！　後編",
           null,
-          null,
+          "大家一起打掃！　後篇",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "ふふーん、お返しだよ！",
     null,
-    null,
+    "哼哼～，這是回禮喔！",
     null,
     null
   ],
   "prefix": [
     "私たちだけのプール",
     null,
-    null,
+    "僅屬於我們的泳池",
     null,
     null
   ],
   "releasedAt": [
     "1782799200000",
     null,
-    null,
+    "1794985200000",
     null,
     null
   ],
   "skillName": [
     "夏に向かって！",
     null,
-    null,
+    "朝向夏天！",
     null,
     null
   ],

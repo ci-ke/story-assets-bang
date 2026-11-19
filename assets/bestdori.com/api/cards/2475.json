@@ -44,7 +44,7 @@
         "title": [
           "浜辺でお宝探し！",
           null,
-          null,
+          "在海邊尋寶！",
           null,
           null
         ],
@@ -93,7 +93,7 @@
         "title": [
           "それぞれの『最高の夏』",
           null,
-          null,
+          "各自的『最棒的夏天』",
           null,
           null
         ],
@@ -105,28 +105,28 @@
   "gachaText": [
     "みんな、ハイタッチしましょう！",
     null,
-    null,
+    "大家，一起擊掌吧！",
     null,
     null
   ],
   "prefix": [
     "これも『最高の夏』",
     null,
-    null,
+    "這也是『最棒的夏天』",
     null,
     null
   ],
   "releasedAt": [
     "1782799200000",
     null,
-    null,
+    "1794985200000",
     null,
     null
   ],
   "skillName": [
     "いつもと違う味わい",
     null,
-    null,
+    "與平時不同的滋味",
     null,
     null
   ],
