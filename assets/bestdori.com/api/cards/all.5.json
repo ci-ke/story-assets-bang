@@ -115138,7 +115138,7 @@
       null
     ],
     "skillId": 66,
-    "type": "special",
+    "type": "limited",
     "stat": {
       "1": {
         "performance": 5304,
@@ -115179,7 +115179,7 @@
       null
     ],
     "skillId": 84,
-    "type": "special",
+    "type": "limited",
     "stat": {
       "1": {
         "performance": 5007,
@@ -115220,7 +115220,7 @@
       null
     ],
     "skillId": 72,
-    "type": "special",
+    "type": "limited",
     "stat": {
       "1": {
         "performance": 5325,
@@ -116413,7 +116413,7 @@
       null
     ],
     "skillId": 68,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3175,
@@ -116466,7 +116466,7 @@
       null
     ],
     "skillId": 85,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3556,
@@ -116595,7 +116595,7 @@
       null
     ],
     "skillId": 26,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3961,
@@ -116648,7 +116648,7 @@
       null
     ],
     "skillId": 87,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3006,
@@ -116701,7 +116701,7 @@
       null
     ],
     "skillId": 73,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3323,
@@ -116830,7 +116830,7 @@
       null
     ],
     "skillId": 18,
-    "type": "special",
+    "type": "permanent",
     "stat": {
       "1": {
         "performance": 3074,
